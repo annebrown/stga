@@ -1,6 +1,6 @@
 // File: /src/app/page.tsx
 //
-import AboutSectionOne from "@/components/About/AboutSectionOne";
+import Mission from "@/components/About/Mission";
 import AboutSectionTwo from "@/components/About/AboutSectionTwo";
 import Blog from "@/components/Blog";
 import Brands from "@/components/Brands";
