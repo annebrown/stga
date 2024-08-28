@@ -158,7 +158,7 @@ const Footer = () => {
 
           <div className="py-8">
             <p className="text-center text-base text-body-color dark:text-white">
-              Copyright @ 2024 Anne Brown
+              Copyright @ 2024 Save the Grove, Again
             </p>
           </div>
         </div>

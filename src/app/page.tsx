@@ -1,6 +1,5 @@
 // File: /src/app/page.tsx
-//
-import Mission from "@/components/About/Mission";
+// Sections
 import AboutSectionTwo from "@/components/About/AboutSectionTwo";
 import Blog from "@/components/Blog";
 import Brands from "@/components/Brands";
@@ -12,9 +11,12 @@ import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
 import { Metadata } from "next";
 
+// Custom
+import Mission from "@/components/About/Mission";
+
 export const metadata: Metadata = {
   title: "Save the Grove, Again",
-  description: "Description text here.  Lorem ipsum dolor.",
+  description: "Arnprior Community Initiative",
   // other metadata
 };
 
@@ -23,7 +25,6 @@ export default function Home() {
     <>
       <ScrollUp />
       <Hero />
-      <Blog />
     </>
   );
 }

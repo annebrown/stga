@@ -1,39 +1,41 @@
+// /src/components/Hero/index.tsx
 import Link from "next/link";
+import Image from 'next/image';
 
 const Hero = () => {
   return (
     <>
       <section
         id="home"
-        className="relative z-10 overflow-hidden bg-white pb-16 pt-[120px] dark:bg-gray-dark md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
+        className="z-30  m-0 p-0"
       >
-        <div className="container">
+        <div className="w-full h-full z-40">
+          <Image
+            className="relative"
+            src="/images/hero/splash.svg"
+            alt="Field"
+            loading="eager"
+            priority
+            width={3067}
+            height={1556}
+          />
           <div className="-mx-4 flex flex-wrap">
-            <div className="w-full px-4">
-              <div className="mx-auto max-w-[800px] text-center">
-                <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                <img src="/images/hero/logo-sq-detail.svg" alt="Logo" className="inline text-center h-50" />
-                </h1>
-              
-                <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  Some text here
-                </p>
-                <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
-                  <Link
-                    href="https://chng.it/gq42CDb8dY"
-                    className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
-                  >
-                    🔥 Sign the Petition
-                  </Link>
-                  <Link
-                    href="mailto:savethegroveagain@gmail.com"
-                    className="inline-block rounded-sm bg-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
-                  >
-                    Join the Mailing List
-                  </Link>
-                </div>
-              </div>
-            </div>
+
+
+          <div className="mx-auto max-w-[800px] z-40">
+            <Link href="/">
+              <Image
+                src="/images/hero/logo-sq-detail.svg"
+                className="absolute top-5 right-20"
+                sizes="(max-width: 200) 50px, 200px"
+                alt="Logo"
+                loading="eager"
+                priority
+                width={200}
+                height={200}
+              />
+            </Link>
+          </div>
           </div>
         </div>
       </section>
