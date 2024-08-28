@@ -9,9 +9,9 @@ const Hero = () => {
         id="home"
         className="z-30  m-0 p-0"
       >
-        <div className="w-full h-full z-40">
+        <div className="w-full h-full z-40 m-0 p-0">
           <Image
-            className="relative"
+            className="relative m-0 p-0 pl-2 pr-2"
             src="/images/hero/splash.svg"
             alt="Field"
             loading="eager"
