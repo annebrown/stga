@@ -13,6 +13,8 @@ import { Metadata } from "next";
 
 // Custom
 import Mission from "@/components/About/Mission";
+import Answer from "@/components/Answer";
+import Join from "@/components/Join";
 
 export const metadata: Metadata = {
   title: "Save the Grove, Again",
@@ -25,6 +27,8 @@ export default function Home() {
     <>
       <ScrollUp />
       <Hero />
+      <Answer />
+      <Join />
     </>
   );
 }

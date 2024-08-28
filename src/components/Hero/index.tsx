@@ -11,7 +11,7 @@ const Hero = () => {
       >
         <div className="w-full h-full z-40 m-0 p-0">
           <Image
-            className="relative m-0 p-0 pl-2 pr-2"
+            className="relative m-0 p-0 pl-0.5 pr-1"
             src="/images/hero/splash.svg"
             alt="Field"
             loading="eager"
@@ -20,22 +20,19 @@ const Hero = () => {
             height={1556}
           />
           <div className="-mx-4 flex flex-wrap">
-
-
-          <div className="mx-auto max-w-[800px] z-40">
-            <Link href="/">
-              <Image
-                src="/images/hero/logo-sq-detail.svg"
-                className="absolute top-5 right-20"
-                sizes="(max-width: 200) 50px, 200px"
-                alt="Logo"
-                loading="eager"
-                priority
-                width={200}
-                height={200}
-              />
-            </Link>
-          </div>
+            <div className="mx-auto z-40">
+              <Link href="/">
+                <Image
+                  src="/images/hero/logo-sq-detail.svg"
+                  className="absolute top-10 right-10 w-1/5 h-auto"
+                  alt="Logo"
+                  loading="eager"
+                  priority
+                  width={300}
+                  height={300}
+                />
+              </Link>
+            </div>
           </div>
         </div>
       </section>
