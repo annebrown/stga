@@ -5,11 +5,11 @@ import Link from "next/link";
 const Footer = () => {
   return (
     <>
-      <footer className="relative z-10 ml-2 mr-10 mb-5 w-full">
+      <footer className="relative z-10 ml-2 mb-5 w-full">
         <div className="relative w-full pb-0 mb-0 bg-gray-300">
 
-          <div className="relative float-left w-full pt-2 pb-0 mb-0 mr-10 bg-gray-300 rounded-t-lg">
-            <div className="relative float-left px-4 md:w-1/2 lg:w-4/12 xl:w-5/12 float-left">
+          <div className="relative float-left w-full pt-2 pb-0 mb-0 bg-gray-300 rounded-t-lg">
+            <div className="relative md:w-1/2 pl-2 lg:w-4/12 xl:w-5/12 float-left">
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
                   <Image
@@ -99,9 +99,9 @@ const Footer = () => {
               </div>
             </div>
 
-            <div className="relative float-right px-4 md:w-1/2 lg:w-4/12 xl:w-3/12 float-right">
-              <div className="mb-12 lg:mb-16">
-                  <h2 className="mb-10 text-xl font-bold text-black">
+            <div className="relative float-right mr-10">
+              <div className="mb-0">
+                  <h2 className="text-xl font-bold text-black">
                     Links
                   </h2>
                   <ul>
@@ -127,7 +127,7 @@ const Footer = () => {
           </div>
 
           <div className="float-left pb-5 pt-o mt-0 w-full rounded-b-lg bg-gray-300">
-            <p className="text-center text-base text-body-color w-full">
+            <p className="text-center text-base text-body-color">
               Copyright @ 2024 Save the Grove, Again
             </p>
           </div>
