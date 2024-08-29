@@ -1,11 +1,11 @@
-import Mission from "@/components/About/Mission";
+import About from "@/components/About";
 import AboutSectionTwo from "@/components/About/AboutSectionTwo";
 import Breadcrumb from "@/components/Common/Breadcrumb";
 
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About Page | About STGA",
+  title: "About",
   description: "Save the Grove Again, Petition Initiative",
 };
 
@@ -16,8 +16,9 @@ const AboutPage = () => {
         pageName="About Page"
         description="Save the Grove Again, Petition Initiative."
       />
-      <Mission />
-      <AboutSectionTwo />
+      <div className="w-full p-0 px-10 m-0">
+        <About />
+      </div>
     </>
   );
 };
