@@ -5,7 +5,7 @@ import Link from "next/link";
 const Footer = () => {
   return (
     <>
-      <footer className="relative z-10 bg-white pt-16 dark:bg-gray-dark md:pt-20 lg:pt-24">
+      <footer className="relative z-10 bg-white pt-16 md:pt-20 lg:pt-24">
         <div className="container">
           <div className="-mx-4 flex flex-wrap">
 
@@ -13,16 +13,9 @@ const Footer = () => {
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
                   <Image
-                    src="/images/logo/logo.svg"
+                    src="/images/logo/logo-rect.svg"
                     alt="logo"
-                    className="w-full dark:hidden"
-                    width={280}
-                    height={60}
-                  />
-                  <Image
-                    src="/images/logo/logo-2.svg"
-                    alt="logo"
-                    className="hidden w-full dark:block"
+                    className="w-full"
                     width={280}
                     height={60}
                   />
@@ -133,7 +126,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="/"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary"
                     >
                       Something
                     </Link>
@@ -141,7 +134,7 @@ const Footer = () => {
                   <li>
                     <Link
                       href="/about"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary"
                     >
                       About
                     </Link>
@@ -153,7 +146,7 @@ const Footer = () => {
           </div>
 
           <div className="py-8">
-            <p className="text-center text-base text-body-color dark:text-white">
+            <p className="text-center text-base text-body-color">
               Copyright @ 2024 Save the Grove, Again
             </p>
           </div>

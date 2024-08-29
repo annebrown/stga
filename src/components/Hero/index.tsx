@@ -7,11 +7,11 @@ const Hero = () => {
     <>
       <section
         id="home"
-        className="z-30  m-0 p-0"
+        className="z-30 m-0 p-0"
       >
-        <div className="w-full h-full z-40 m-0 p-0">
+        <div className="w-full h-full z-40 m-0 mt-5 p-0">
           <Image
-            className="relative m-0 p-0 pl-0.5 pr-1"
+            className="relative m-0 p-0 pl-1.5 pr-1 rounded-xl"
             src="/images/hero/splash.svg"
             alt="Field"
             loading="eager"
@@ -20,7 +20,7 @@ const Hero = () => {
             height={1556}
           />
           <div className="-mx-4 flex flex-wrap">
-            <div className="mx-auto z-40">
+            <div className="mx-auto z-40 rounded-full">
               <Link href="/">
                 <Image
                   src="/images/hero/logo-sq-detail.svg"

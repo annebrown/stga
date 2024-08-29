@@ -28,6 +28,7 @@ export default function Home() {
       <ScrollUp />
       <Hero />
       <Answer />
+      <Video />
       <Join />
     </>
   );

@@ -7,9 +7,46 @@ const Answer = () => {
     <>
       <section
         id="answer"
-        className="realtive z-30 m-20 mt-5 p-2"
+        className="realtive z-30 mt-5 p-0 w-full"
       >
-        <p className="text-2xl">The last remaining undeveloped area of land that borders the Gillies Grove Old-Growth Forest is being sold to a developer.</p>
+        <div className="
+          flex
+          mx-2
+          
+          items-center
+          justify-cente
+          bg-gray-200
+          rounded-xl
+        ">
+
+          <div className="
+            w-1/2
+            h-full
+            text-justify
+            p-0 m-0
+            text-sm
+            xs:text-base
+            sm:text-lg
+            md:text-2xl
+            lg:text-3xl
+            1xl:text-4xl
+          ">
+              <p className="ml-5 text-[#165D8F]">
+                The last remaining undeveloped area of land that borders the Gillies Grove Old-Growth Forest is being sold to a developer.
+              </p>
+          </div>
+
+          <div className="w-1/2 p-5 py-6 m0">
+            <Image
+              src="/images/map.svg"
+              alt="Logo"
+              loading="eager"
+              priority
+              width={1930}
+              height={1597}
+            />
+          </div>
+        </div>
       </section>
     </>
   );
