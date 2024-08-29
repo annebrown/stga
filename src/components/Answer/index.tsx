@@ -34,6 +34,10 @@ const Answer = () => {
               <p className="ml-5 text-[#165D8F]">
                 The last remaining undeveloped area of land that borders the Gillies Grove Old-Growth Forest is being sold to a developer.
               </p>
+        <div className="flex text-base w-full mt-5 items-center justify-center">    
+          <button className="p-5 m-2 bg-sky-200 rounded-lg hover:bg-white text-#165D8F">Mailing List</button>
+          <button className="p-5 m-2  bg-sky-200 rounded-lg hover:bg-white text-#165D8F">Donations</button>
+        </div>
           </div>
 
           <div className="w-1/2 p-5 py-6 m0">
