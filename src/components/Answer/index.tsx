@@ -14,7 +14,7 @@ const Answer = () => {
           mx-2
           
           items-center
-          justify-cente
+          justify-center
           bg-gray-200
           rounded-xl
         ">
