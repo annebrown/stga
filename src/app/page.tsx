@@ -1,6 +1,5 @@
 // File: /src/app/page.tsx
 // Sections
-import AboutSectionTwo from "@/components/About/AboutSectionTwo";
 import Blog from "@/components/Blog";
 import Brands from "@/components/Brands";
 import ScrollUp from "@/components/Common/ScrollUp";
@@ -12,7 +11,6 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 // Custom
-import Mission from "@/components/About/Mission";
 import Answer from "@/components/Answer";
 import Join from "@/components/Join";
 
