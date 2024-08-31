@@ -99,7 +99,7 @@ const Footer = () => {
               </div>
             </div>
 
-            <div className="relative float-right mr-10">
+            <div className="relative float-right mr-10 pr-10 pt-5">
               <div className="mb-0">
                   <h2 className="text-xl font-bold text-black">
                     Links
