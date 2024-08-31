@@ -5,10 +5,10 @@ import Image from 'next/image';
 const Join = () => {
   return (
     <>
-      <section id="Join" className="z-30">
-        <div className="w-2/3 relative float-left pl-10 pb-5 items-center justify-center">
-          <p className="pb-0 pl-5 pt-15 pr-5 mb-0 h-full text-justify
-            items-center justify-center text-black
+      <section id="Join" className="z-30 grid grid-cols-2 gap-5 ml-1.5 mr-3 w-full center items-center justify-center">
+        <div className="">
+          <p className="text-justify ml-5
+           text-black
             text-2xs
             xs:text-1xs
             sm:text-xs
@@ -21,7 +21,7 @@ const Join = () => {
             Together we can find a better way!
           </p>
         </div>
-        <div className="relative float-right w-1/3 h-full p-0 pr-5 pl-0 pb-15 m-0 mb-10 ml-0">
+        <div className="justify-center text-center w-1/2 mb-5">
           <Image
             className=""
             src="/images/vignette.svg"
