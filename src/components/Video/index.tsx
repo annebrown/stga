@@ -12,11 +12,7 @@ const Video = () => {
   return (
     <section className="relative z-10 py-0">
       <div className="container">
-        <SectionTitle
-          
-          center
-          mb="80px"
-        />
+
 
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4">
