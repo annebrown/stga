@@ -34,7 +34,7 @@ const Answer = () => {
               <p className="ml-5 text-[#165D8F]">
                 The last remaining undeveloped area of land that borders the Gillies Grove Old-Growth Forest is being sold to a developer.
               </p>
-        <div className="flex text-base w-full mt-5 items-center justify-center
+        <div className="flex w-full mt-5 items-center justify-center
             text-xs
             xs:text-sm
             sm:text-base

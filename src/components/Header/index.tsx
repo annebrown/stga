@@ -41,7 +41,7 @@ const Header = () => {
   return (
     <>
       <header
-        className={`header left-0 top-3 z-30 flex w-full bg-white shadow-md h-2 my-0 p-0 pt-7 pb-7 items-center ${
+        className={`header left-0 top-3 z-30 flex w-full bg-white h-2 my-0 p-0 pt-7 pb-7 items-center ${
           sticky
             ? "fixed z-[9999] bg-none !bg-opacity-80 shadow-sticky backdrop-blur-sm transition"
             : "absolute bg-transparent"
@@ -90,15 +90,15 @@ const Header = () => {
                 </button>
                 <nav
                   id="navbarCollapse"
-                  className={`navbar absolute right-0 z-30 w-[250px] rounded border-[.5px] border-body-color/50 bg-white px-6 py-4 duration-300  lg:visible lg:static lg:w-auto lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 ${
+                  className={`navbar absolute right-0 z-500 w-[250px] rounded border-[.5px] border-body-color/50 bg-white px-6 py-4 duration-300  lg:visible lg:static lg:w-auto lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 ${
                     navbarOpen
-                      ? "visibility top-full opacity-100"
+                      ? "visibility top-full opacity-100 z-500"
                       : "invisible top-[120%] opacity-0"
                   }`}
                 >
-                  <ul className="block lg:flex lg:space-x-12">
+                  <ul className="block lg:flex lg:space-x-4 z-500">
                     {menuData.map((menuItem, index) => (
-                      <li key={index} className="group relative">
+                      <li key={index} className="group relative z-500">
                         {menuItem.path ? (
                           <Link
                             href={menuItem.path}
@@ -114,7 +114,7 @@ const Header = () => {
                           <>
                             <p
                               onClick={() => handleSubmenu(index)}
-                              className="flex cursor-pointer items-center justify-between py-2 text-base text-dark group-hover:text-primary lg:mr-0 lg:inline-flex lg:px-0 lg:py-6"
+                              className="flex cursor-pointer items-center justify-between py-2 text-base text-dark group-hover:text-primary lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 z-500"
                             >
                               {menuItem.title}
                               <span className="pl-3">
@@ -137,7 +137,7 @@ const Header = () => {
                                 <Link
                                   href={submenuItem.path}
                                   key={index}
-                                  className="block rounded py-2.5 text-sm text-dark hover:text-primary lg:px-3"
+                                  className="block rounded py-2.5 text-sm text-dark hover:text-primary lg:px-3 z-500"
                                 >
                                   {submenuItem.title}
                                 </Link>

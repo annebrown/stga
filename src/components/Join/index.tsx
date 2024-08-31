@@ -6,7 +6,7 @@ const Join = () => {
   return (
     <>
       <section id="Join" className="z-30">
-        <div className="w-2/3 relative float-left w-1/2 pl-10 pb-5 items-center justify-center">
+        <div className="w-2/3 relative float-left pl-10 pb-5 items-center justify-center">
           <p className="pb-0 pl-5 pt-15 pr-5 mb-0 h-full text-justify
             items-center justify-center text-black
             text-2xs
