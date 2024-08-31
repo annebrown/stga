@@ -5,8 +5,8 @@ import Image from 'next/image';
 const Join = () => {
   return (
     <>
-      <section id="Join" className="">
-        <div className="clear-both z-30 grid grid-cols-2 gap-5 ml-1.5 mr-3 w-full center items-center justify-center">
+      <section id="Join" className="clear-both">
+        <div className=" z-30 ml-1.5 mr-3 pt-5 grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 lg:grid-cols-3">
           <div className="pl-5">
             <p className="
             text-black
