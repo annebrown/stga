@@ -6,9 +6,9 @@ const Footer = () => {
   return (
     <>
       <footer className="relative z-10 ml-2 mb-5 w-full">
-        <div className="relative w-full pb-0 mb-0 bg-gray-300">
+        <div className="relative w-full pb-0 mb-0">
 
-          <div className="relative float-left w-full pt-2 pb-0 mb-0 bg-gray-300 rounded-t-lg">
+          <div className="relative float-left w-full pt-2 pb-0 mb-0  rounded-t-lg">
             <div className="relative md:w-1/2 pl-2 lg:w-4/12 xl:w-5/12 float-left">
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
@@ -126,7 +126,7 @@ const Footer = () => {
             </div>
           </div>
 
-          <div className="float-left pb-5 pt-o mt-0 w-full rounded-b-lg bg-gray-300">
+          <div className="float-left pb-5 pt-o mt-0 w-full rounded-b-lg">
             <p className="text-center text-base text-body-color">
               Copyright @ 2024 Save the Grove, Again
             </p>
