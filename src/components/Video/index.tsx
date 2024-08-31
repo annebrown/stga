@@ -10,11 +10,10 @@ const Video = () => {
   const [isOpen, setOpen] = useState(false);
 
   return (
-    <section className="relative z-10 py-5">
+    <section className="relative z-10 py-0">
       <div className="container">
         <SectionTitle
-          title="Video Title Here"
-          paragraph="Optional Text Here."
+          
           center
           mb="80px"
         />

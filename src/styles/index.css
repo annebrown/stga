@@ -31,9 +31,3 @@
     @apply opacity-100;
   }
 }
-
-div.splash {
-  background-image: url('/images/hero/splash.svg');
-  width: 3067px;
-  height: 1556px;
-}

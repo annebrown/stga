@@ -1,6 +1,9 @@
 // /src/components/Answer/index.tsx
+import React from "react";
+import {Tooltip} from "@nextui-org/tooltip";
 import Link from "next/link";
 import Image from 'next/image';
+import "../../styles/global.css";
 
 const Answer = () => {
   return (
@@ -15,7 +18,7 @@ const Answer = () => {
           
           items-center
           justify-center
-          bg-gray-200
+          bg-white
           rounded-xl
         ">
 
@@ -34,27 +37,34 @@ const Answer = () => {
               <p className="ml-5 text-[#165D8F]">
                 The last remaining undeveloped area of land that borders the Gillies Grove Old-Growth Forest is being sold to a developer.
               </p>
-          <div className="flex w-full mt-5 items-center justify-center
-            text-xs
-            xs:text-sm
-            sm:text-base
-            md:text-lg
-            lg:text-xl
-            1xl:text-1xl
-        ">
-          <form action="https://forms.gle/Dbw6qFcWi66gW7CA8">
-            <button className="p-2 m-2 bg-sky-200 rounded-lg hover:bg-white text-black shadow-md">Mailing List</button>
-            </form>
-          <button className="p-2 m-2  bg-sky-200 rounded-lg hover:bg-white text-black shadow-md
-             text-xs
-            xs:text-sm
-            sm:text-base
-            md:text-lg
-            lg:text-xl
-            1xl:text-1xl
-          ">Donations</button>
-        </div>
-          </div>
+              <div className="flex w-full mt-5 items-center justify-center
+                text-xs
+                xs:text-sm
+                sm:text-base
+                md:text-lg
+                lg:text-xl
+                1xl:text-1xl
+            ">
+              <form action="https://forms.gle/Dbw6qFcWi66gW7CA8">
+                <button className="p-2 m-2 bg-sky-200 rounded-lg hover:bg-white text-black shadow-md">Mailing List</button>
+                </form>
+              <div className="p-2 m-2  bg-sky-200 rounded-lg hover:bg-white text-black shadow-md
+                text-xs
+                xs:text-sm
+                sm:text-base
+                md:text-lg
+                lg:text-xl
+                1xl:text-1xl
+              ">
+       <Tooltip content="Here is how to do donations."><button>Donations</button></Tooltip>
+            
+
+              </div>
+
+
+
+            </div>
+      </div>
 
           <div className="w-1/2 p-5 py-6 m0">
             <Image
@@ -62,8 +72,8 @@ const Answer = () => {
               alt="Logo"
               loading="eager"
               priority
-              width={1930}
-              height={1597}
+              width={1301}
+              height={1148}
             />
           </div>
         </div>

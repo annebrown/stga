@@ -1,0 +1,17 @@
+
+div.splash {
+    background-image: url('/images/hero/splash.svg');
+    width: 3067px;
+    height: 1556px;
+  }
+/* Tooltipped element css */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  background: #ecf2fd;
+  border-radius: 3px;
+  padding: 0 20px;
+  margin: 50px;
+  width: 250px;
+}

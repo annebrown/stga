@@ -13,11 +13,11 @@ const Footer = () => {
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
                   <Image
-                    src="/images/logo-rect.svg"
+                    src="/images/new-logo.svg"
                     alt="logo"
                     className="w-full"
-                    width={280}
-                    height={60}
+                    width={500}
+                    height={137}
                   />
                 </Link>
                 <div className="flex items-center">

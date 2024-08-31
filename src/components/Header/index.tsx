@@ -55,10 +55,10 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src="/images/logo-rect.svg"
+                  src="/images/new-logo.svg"
                   alt="logo"
-                  width={2600}
-                  height={500}
+                  width={500}
+                  height={137}
                 />
               </Link>
             </div>
