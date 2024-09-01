@@ -5,7 +5,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Donations Page",
-  description: "How to donate to Save The Grove, Again",
+  description: "Save The Grove, Again accepts Interac E-Transfers",
   // other metadata
 };
 
@@ -14,7 +14,7 @@ const DonationsPage = () => {
     <>
       <Breadcrumb
         pageName="Donations Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="Donations are accepted via Interac E-Transfer."
       />
 
       <Donations />
