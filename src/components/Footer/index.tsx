@@ -115,6 +115,14 @@ const Footer = () => {
                     </li>
                     <li>
                       <Link
+                        href="/donations"
+                        className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary"
+                      >
+                        Donations
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
                         href="/about"
                         className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary"
                       >
