@@ -7,7 +7,7 @@ const testimonialData: Testimonial[] = [
     id: 1,
     initials: "- P.D",
     content:
-      "The Galilee Centre Land s a treasure in our community - one that we cannot lose. It is a habitat for insects, birds and wildlife and a healing space for many. It is important that we protect our green space when planning for development in our town.",
+      "The Galilee Centre Land is a treasure in our community - one that we cannot lose. It is a habitat for insects, birds and wildlife and a healing space for many. It is important that we protect our green space when planning for development in our town.",
   },
   {
     id: 2,
