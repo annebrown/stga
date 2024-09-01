@@ -4,7 +4,8 @@ div.splash {
     width: 3067px;
     height: 1556px;
   }
-/* Tooltipped element css */
+  
+/* Tooltip - UI */
 .tooltip {
   position: relative;
   display: inline-block;

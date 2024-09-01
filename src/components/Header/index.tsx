@@ -41,27 +41,21 @@ const Header = () => {
   return (
     <>
       <header
-        className={`header left-0 top-3 z-30 flex w-full bg-white h-2 my-0 p-0 pt-7 pb-7 items-center ${
-          sticky
-            ? "fixed z-[9999] bg-none !bg-opacity-80 shadow-sticky backdrop-blur-sm transition"
-            : "absolute bg-transparent"
-        }`}
+        className="header left-0 top-3 z-30 flex w-full bg-white  m-0 p-0 items-center sticky backdrop-blur-sm transition bg-transparent"
       >
-            <div className="w-80 max-w-full px-4 xl:mr-12">
-              <Link
-                href="/"
-                className={`header-logo block ${
-                  sticky ? "py-5 lg:py-2" : "py-8"
-                } `}
-              >
-                <Image
-                  src="/images/new-logo.svg"
-                  alt="logo"
-                  width={500}
-                  height={137}
-                />
-              </Link>
-            </div>
+        <div className="w-80 max-w-full px-4 xl:mr-12">
+          <Link
+            href="/"
+            className="header-logo">
+              <Image
+                className=""
+                src="/images/logo-rect.svg"
+                alt="logo"
+                width={462}
+                height={138}
+              />
+          </Link>
+        </div>
         <div className="container">
           <div className="relative -mx-4 flex items-center justify-between">
             <div className="flex w-full items-center justify-between px-4">

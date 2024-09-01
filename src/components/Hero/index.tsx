@@ -12,12 +12,12 @@ const Hero = () => {
         <div className="w-full h-full z-40 m-0 mt-5 p-0">
           <Image
             className="relative m-0 p-0 pl-1.5 pr-1 rounded-xl"
-            src="/images/hero/splash.png"
+            src="/images/hero/big-splash.svg"
             alt="Field"
             loading="eager"
             priority
-            width={3067}
-            height={1556}
+            width={4684}
+            height={2469}
           />
           <div className="-mx-4 flex flex-wrap">
             <div className="mx-auto z-40 rounded-full">

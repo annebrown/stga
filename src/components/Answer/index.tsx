@@ -4,6 +4,7 @@ import {Tooltip} from "@nextui-org/tooltip";
 import Link from "next/link";
 import Image from 'next/image';
 import "../../styles/global.css";
+import styles from "@/styles/home.module.css";
 
 const Answer = () => {
   return (
@@ -44,32 +45,26 @@ const Answer = () => {
                 md:text-lg
                 lg:text-xl
                 1xl:text-1xl
-            ">
-              <form action="https://forms.gle/Dbw6qFcWi66gW7CA8">
-                <button className="p-2 m-2 bg-sky-200 rounded-lg hover:bg-white text-black shadow-md">Mailing List</button>
-                </form>
-              <div className="p-2 m-2  bg-sky-200 rounded-lg hover:bg-white text-black shadow-md
-                text-xs
-                xs:text-sm
-                sm:text-base
-                md:text-lg
-                lg:text-xl
-                1xl:text-1xl
               ">
-       <Tooltip content="Here is how to do donations."><button>Donations</button></Tooltip>
-            
-
+                <form action="https://forms.gle/Dbw6qFcWi66gW7CA8">
+                  <button className="p-2 m-2 bg-sky-200 rounded-lg hover:bg-white text-black shadow-md">Mailing List</button>
+                  </form>
+                <div className="p-2 m-2  bg-sky-200 rounded-lg hover:bg-white text-black shadow-md
+                  text-xs
+                  xs:text-sm
+                  sm:text-base
+                  md:text-lg
+                  lg:text-xl
+                  1xl:text-1xl
+                ">
+                  <Link href="/donations"><button>Donations</button></Link>    
+                </div>
               </div>
-
-
-
-            </div>
-      </div>
-
+          </div>
           <div className="w-1/2 p-5 py-6 m0">
             <Image
               src="/images/map.svg"
-              alt="Logo"
+              alt="map"
               loading="eager"
               priority
               width={1301}
