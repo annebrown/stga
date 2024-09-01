@@ -14,7 +14,7 @@ const Contact = () => {
                 Details
               </h2>
               <p className="mb-12 text-base font-medium text-body-color">
-                E-Transfer Address: 
+                E-Transfer <strong>Send To</strong> Address:
                   <br /><strong>donations@savethegrove.com</strong><br /><br />
                 Security Question:<br />
                 Security Answer:
