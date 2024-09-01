@@ -6,9 +6,9 @@ const Join = () => {
   return (
     <>
       <section id="Join" className="clear-both">
-        <div className=" z-30 ml-1.5 mr-3 pt-5 grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 lg:grid-cols-3">
+        <div className=" w-full z-30 ml-1.5 mr-3 pt-5 grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2">
           <div className="pl-5">
-            <p className="
+            <p className="pt-5
             text-black
               text-2xs
               xs:text-1xs

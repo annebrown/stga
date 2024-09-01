@@ -43,17 +43,19 @@ const Video = () => {
           </div>
         </div>
       </div>
-
-      <ModalVideo
-        channel="youtube"
-        autoplay={true}
-        start={true}
-        isOpen={isOpen}
-        videoId="tEgtT1LX-Sk"
-        onClose={() => setOpen(false)}
-      />
-
-      <div className="absolute bottom-0 left-0 right-0 z-[-1] h-full w-full bg-[url(/images/video/shape.svg)] bg-cover bg-center bg-no-repeat"></div>
+      <div className="relative">
+        <ModalVideo
+          channel="youtube"
+          width="817.5"
+          height="506"
+          autoplay={true}
+          start={true}
+          isOpen={isOpen}
+          videoId="tEgtT1LX-Sk"
+          className="w-full h-auto"
+          onClose={() => setOpen(false)}
+        />
+      </div>
     </section>
   );
 };

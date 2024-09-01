@@ -5,21 +5,21 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    initials: "- M.K.",
+    initials: "- P.D",
     content:
-      "Residents of the Town of Arnprior and visitors alike have always...",
+      "The Galilee Centre Land s a treasure in our community - one that we cannot lose. It is a habitat for insects, birds and wildlife and a healing space for many. It is important that we protect our green space when planning for development in our town.",
   },
   {
     id: 2,
-    initials: "- M.H.",
+    initials: "- P.M",
     content:
-      "Just as it is a wildlife corridor for...",
+      "Another impact that will be felt will be huge traffic implications around the area that is home to three schools and the hospital.  It will become a very dangerous area to navigate, especially for children.",
   },
   {
     id: 3,
-    initials: "- P.M.",
+    initials: "- K.P",
     content:
-      "Another impact that will be felt...",
+      "I use the Galilee Centre grounds for lessons including: hiking, snowshoeing, xc skiing, fitness runs, cycling, scavenger hunts, tree identification, milkweed studies, soil studies, orienteering, etc. I rely heavily on this land to deliver my lessons.",
   },
 ];
 

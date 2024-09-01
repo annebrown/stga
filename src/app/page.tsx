@@ -28,7 +28,6 @@ export default function Home() {
       <Answer />
       <Video />
       <Join />
-      <Features />
       <Testimonials />
     </>
   );
