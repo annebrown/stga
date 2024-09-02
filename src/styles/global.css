@@ -18,6 +18,6 @@ div.splash {
 }
 
 .intro-video {
-    width: 80%;
+    width: 80vw;
     aspect: video;
 }

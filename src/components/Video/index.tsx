@@ -10,9 +10,9 @@ const Video = () => {
   const [isOpen, setOpen] = useState(false);
 
   return (
-    <section className="z-10">
-        <div className="container mx-auto rounded-lg w-full 1xs:w-screen sm:w-screen md:w-screen h-auto">
-            <iframe class="intro-video" width="1193" height="671" src="https://www.youtube.com/embed/tEgtT1LX-Sk" title="Save the Grove Again"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+    <section className="z-10 w-full h-auto rounded-lg">
+        <div className="container mx-auto  w-full 1xs:w-screen sm:w-screen md:w-screen h-auto">
+            <iframe width="80vh" height="auto" src="https://www.youtube.com/embed/tEgtT1LX-Sk" title="Save the Grove Again"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
     </section>
   );
