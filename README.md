@@ -3,7 +3,7 @@ File: /README.md
 
 ## Description
 
-Green Initiative for Gilles Grove in Arnprior, ON
+Greenspace Initiative for Gilles Grove in Arnprior, ON
 
 
 - [URL: https://www.savethegroveagain.com](https://www.savethegroveagain.com)
