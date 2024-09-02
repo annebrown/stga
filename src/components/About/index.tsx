@@ -5,11 +5,7 @@ import Image from 'next/image';
 const About = () => {
   return (
     <>
-      <section
-        id="About"
-        className="realtive z-30 mt-5 p-0 w-full"
-      >
-        <div>
+      <section id="About" className="realtive z-30 mt-5 p-0 w-full">
           
           <h2 className="text-3xl bold text-center">Our Mission</h2>
 
@@ -19,12 +15,11 @@ const About = () => {
 
           <h2 className="text-3xl bold text-center pb-5">Contact Us</h2>
          
-              <h2 className="text-xl bold text-center">EMAIL</h2>
-              <p className="text-center pb-5">savethegroveagain@gmail.com</p>
-              <h2 className="text-xl bold text-center">WEBSITE</h2>
-              <p className="text-center pb-5">www.savethegroveagain.com</p>
-              <p className="text-center pb-5">Together we can find a better way!</p>
-        </div>
+          <h2 className="text-xl bold text-center">EMAIL</h2>
+          <p className="text-center pb-5">savethegroveagain@gmail.com</p>
+          <h2 className="text-xl bold text-center">WEBSITE</h2>
+          <p className="text-center pb-5">www.savethegroveagain.com</p>
+          <p className="text-center pb-5">Together we can find a better way!</p>
       </section>
     </>
   );
