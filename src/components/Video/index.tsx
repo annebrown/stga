@@ -10,8 +10,8 @@ const Video = () => {
   const [isOpen, setOpen] = useState(false);
 
   return (
-    <section className="z-10 pr-10 pl-1.5 pb-0 mb-0 w-full object-center">
-        <div className="container mx-auto rounded-lg">
+    <section className="z-10 w-full p-0 m-0">
+        <div className="p-0 m-0 container mx-auto rounded-lg  w-full align-items-center">
             <iframe width="1193" height="671" src="https://www.youtube.com/embed/tEgtT1LX-Sk" title="Save the Grove Again"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen />
         </div>
     </section>
