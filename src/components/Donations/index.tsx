@@ -1,4 +1,4 @@
-import donations from "./donations";
+
 
 const Contact = () => {
   return (
