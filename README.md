@@ -1,34 +1,14 @@
 # Save the Grove Again
+File: /README.md
 
-[URL](https://www.savethegroveagain.com)
+## Description
 
-[Petition](https://petition.savethegroveagain.com)
+Green Initiative for Gilles Grove in Arnprior, ON
 
-[MIT License](/LICENSE)
 
-[REPO](https://github.com/annebrown/stga)
-
-<https://youtu.be/tEgtT1LX-Sk>
-
-For Review:
-
-HAVE YOU HEARD
-
-- Larger text
-- Font
-
-Map
-
-- white background
-
-Mailing List Button
-
-- Done
-
-Donations Button
-
-- Pop-up ready for Interac instruction text
-
-Video
-
-- Removed text
+- [URL: https://www.savethegroveagain.com](https://www.savethegroveagain.com)
+- [Video: https://youtu.be/tEgtT1LX-Sk](https://youtu.be/tEgtT1LX-Sk)
+- [Petition: https://petition.savethegroveagain.com](https://petition.savethegroveagain.com)
+- [REPO: https://github.com/annebrown/stga](https://github.com/annebrown/stga)
+- [MIT License: /LICENSE](/LICENSE)
+- Tech Stach: Next.js Full-Stack Web App
