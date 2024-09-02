@@ -10,18 +10,10 @@ const Video = () => {
   const [isOpen, setOpen] = useState(false);
 
   return (
-    <section className="z-10 pr-10 ml-1.5 w-full h-auto">
-        <iframe 
-            src="https://www.youtube.com/embed/tEgtT1LX-Sk" 
-            title="Save the Grove Again" 
-            frameborder="0" 
-            allow="accelerometer"
-            autoplay clipboard-write encrypted-media gyroscope 
-            picture-in-picture web-share center
-            referrerpolicy="strict-origin-when-cross-origin" 
-            allowfullscreen 
-            className="w-full h-auto aspect-video m-5 mr-10 rounded-lg" />
-
+    <section className="z-10 pr-10 pl-1.5 pb-0 mb-0 w-full object-center">
+        <div className="container mx-auto rounded-lg">
+            <iframe width="1193" height="671" src="https://www.youtube.com/embed/tEgtT1LX-Sk" title="Save the Grove Again"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen />
+        </div>
     </section>
   );
 };
