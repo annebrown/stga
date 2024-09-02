@@ -27,10 +27,10 @@ const Testimonials = () => {
   return (
     <>
     <div className=" bg-green-200 relative z-10 pt-7 pb-2 rounded-lg ml-1.5 mr-2">
-      <h1 className="text-3xl font-bold text-center pb-5">
+      <h1 className="text-3xl font-bold text-center pb-5 text-black">
         Local Voices
       </h1>
-      <p className="text-center pb-7">What local are saying about the proposed development:</p>
+      <p className="text-center pb-7 text-black">What local are saying about the proposed development:</p>
 
         <div className="grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 lg:grid-cols-3 mt-0 pt-0 px-5 pb-7">
           {testimonialData.map((testimonial) => (
