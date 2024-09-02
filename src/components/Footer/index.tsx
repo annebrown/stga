@@ -22,7 +22,7 @@ const Footer = () => {
                 </Link>
               </div>
             </div>
-            <div className="">
+            <div className="text-black">
               <h2 className="text-xl font-bold text-black mb-5 text-center">
                 Contact
               </h2>
@@ -31,7 +31,7 @@ const Footer = () => {
               <h3 className="text-base bold text-center">WEBSITE</h3>
               <p className="text-center font-bold pb-7 ">www.savethegroveagain.com</p>
             </div>
-            <div className="mr-10 pr-10">
+            <div className="mr-10 pr-10 text-black">
               <div className="mb-0">
                   <h2 className="text-xl font-bold text-black mb-5 text-center">
                     Links
