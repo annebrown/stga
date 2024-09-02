@@ -26,7 +26,7 @@ const testimonialData: Testimonial[] = [
 const Testimonials = () => {
   return (
     <>
-    <div className=" bg-green-200 relative z-10 pt-7 pb-2 rounded-lg ml-1.5 mr-2">
+    <div className=" bg-green-200 relative z-10 pt-7 pb-2 rounded-lg ml-1.5 mr-2 mb-5">
       <h1 className="text-3xl font-bold text-center pb-5 text-black">
         Local Voices
       </h1>

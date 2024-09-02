@@ -13,7 +13,7 @@ const About = () => {
             Save The Grove Again is a community group committed to preserving the environmental and historical heart of Arnprior. Our aim is to promote awareness within the community about plans to develop a large portion of the adjacent land to The Gillies Grove, to maintain the integrity of this old growth forest, and preserve the historical origins of the town. We value a safe and healthy community where future generations can continue to learn, engage and share in lands that are biodiverse and rich in culture.
           </p>
 
-          <p className="text-center pb-5 text-xl">Together we can find a better way!</p>
+          <p className="text-center pb-10 text-xl">Together we can find a better way!</p>
 
       </section>
     </>
