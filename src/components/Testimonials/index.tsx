@@ -25,21 +25,20 @@ const testimonialData: Testimonial[] = [
 
 const Testimonials = () => {
   return (
-    <section className=" bg-green-200 relative z-10 py-16 md:py-20 lg:py-28 rounded-lg ml-1.5 mr-2">
-      <div className="container">
-        <SectionTitle
-          title="Local Voices"
-          paragraph="What local are saying about the proposed development:"
-          center
-        />
+    <>
+    <div className=" bg-green-200 relative z-10 pt-7 pb-2 rounded-lg ml-1.5 mr-2">
+      <h1 className="text-2xl font-bold text-center">
+        Local Voices
+      </h1>
+      <p className="text-center pb-7">What local are saying about the proposed development:</p>
 
-        <div className="grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 lg:grid-cols-3 mt-0 pt-0 px-5 pb-7">
           {testimonialData.map((testimonial) => (
             <SingleTestimonial key={testimonial.id} testimonial={testimonial} />
           ))}
         </div>
       </div>
-    </section>
+    </>
   );
 };
 

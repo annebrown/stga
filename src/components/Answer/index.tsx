@@ -11,21 +11,11 @@ const Answer = () => {
     <>
       <section
         id="answer"
-        className="realtive z-30 mt-5 p-0 w-full"
-      >
-        <div className="
-          flex
-          mx-2
-          
-          items-center
-          justify-center
-          bg-white
-          rounded-xl
+        className="realtive z-30 mt-5 p-0 w-full">
+        <div className="grid grid-cols-1 gap-2 md:grid-cols-2 mt-0 pt-0 px-5 pb-7
         ">
 
           <div className="
-            w-1/2
-            h-full
             text-justify
             p-0 m-0
             text-sm
@@ -61,8 +51,10 @@ const Answer = () => {
                 </div>
               </div>
           </div>
-          <div className="w-1/2 p-5 py-6 m0">
+
+          <div className="p-2">
             <Image
+              className="rounded-lg"
               src="/images/map.svg"
               alt="map"
               loading="eager"
@@ -71,6 +63,7 @@ const Answer = () => {
               height={1148}
             />
           </div>
+
         </div>
       </section>
     </>
