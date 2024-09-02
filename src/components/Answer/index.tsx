@@ -16,15 +16,25 @@ const Answer = () => {
                         <p className="ml-5 text-[#165D8F] text-justify text-sm xs:text-base sm:text-lg md:text-2xl lg:text-3xl 1xl:text-4xl">
                         The last remaining undeveloped area of land that borders the Gillies Grove Old-Growth Forest is being sold to a developer.
                         </p>
+
                         <div className="flex w-full mt-5 items-center justify-center justify-items-center text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl 1xl:text-1xl">
                             <form action="https://forms.gle/Dbw6qFcWi66gW7CA8">
-                                <button className="p-2 m-2 bg-sky-200 rounded-lg hover:bg-white text-black shadow-md">Mailing List</button>
+                                <button className="p-2 m-2 bg-sky-200 rounded-lg hover:bg-white text-black shadow-md">Join the Mailing List</button>
                             </form>
+
                             <div className="p-2 m-2  bg-sky-200 rounded-lg hover:bg-white text-black shadow-md">
-                                <Link href="/donations"><button>Donations</button></Link>    
+                                <Link href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120"><button>Sign the Petition</button></Link>    
+                            </div>
+
+
+                            <div className="p-2 m-2  bg-sky-200 rounded-lg hover:bg-white text-black shadow-md">
+                                <Link href="/donations"><button>Make a Donation</button></Link>    
                             </div>
                         </div>
                     </div>
+
+
+
                     <div className="rounded-lg p-5 m-5 mr-20 pr-20 w-full h-auto">
                         <Image src="/images/map.svg" alt="map" loading="eager" priority width={1301} height={1148} />
                     </div>
