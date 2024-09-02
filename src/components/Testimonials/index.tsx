@@ -27,7 +27,7 @@ const Testimonials = () => {
   return (
     <>
     <div className=" bg-green-200 relative z-10 pt-7 pb-2 rounded-lg ml-1.5 mr-2">
-      <h1 className="text-2xl font-bold text-center">
+      <h1 className="text-3xl font-bold text-center pb-5">
         Local Voices
       </h1>
       <p className="text-center pb-7">What local are saying about the proposed development:</p>
