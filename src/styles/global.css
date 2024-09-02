@@ -16,3 +16,8 @@ div.splash {
   margin: 50px;
   width: 250px;
 }
+
+.intro-video {
+    width: 80%;
+    aspect: video;
+}
