@@ -14,4 +14,4 @@ Greenspace Initiative for Gilles Grove in Arnprior, ON
 - [Petition: https://petition.savethegroveagain.com](https://petition.savethegroveagain.com)
 - [REPO: https://github.com/annebrown/stga](https://github.com/annebrown/stga)
 - [MIT License: /LICENSE](/LICENSE)
-- Tech Stach: [Next.js](https://nextjs.org/)/[Tailwind](https://tailwindcss.com/) Full-Stack Web App
+- Tech Stack: [Next.js](https://nextjs.org/)/[Tailwind](https://tailwindcss.com/) Full-Stack Web App
