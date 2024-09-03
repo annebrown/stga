@@ -4,9 +4,8 @@ File: /README.md
 
 ## Description
 
-Source Code for "Save the Grove, Again" Website 
-
-Greenspace Initiative for Gilles Grove in Arnprior, ON
+- Source Code for "Save the Grove, Again" Website 
+- Greenspace Initiative for Gilles Grove in Arnprior, ON
 
 ## Links
 
