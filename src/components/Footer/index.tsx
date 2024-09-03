@@ -144,7 +144,7 @@ const Footer = () => {
                 </div>
 
                 <div className="float-left pb-5 pt-o mt-0 w-full rounded-b-lg">
-                    <p className="text-center text-base">
+                    <p className="text-center text-base text-black">
                     Copyright @ 2024 Save the Grove Again
                     </p>
                 </div>
