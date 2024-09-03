@@ -12,21 +12,17 @@ const Video = () => {
   return (
     <section className="z-10 max-w-80% p-0 pl-20 m-0 mx-auto">
         <div className="container m-0 p-0 object-center">
-           
-        </div>
-
-        <div className="-mx-4 flex flex-wrap">
-          <div className="w-full px-4">
-            <div
-              className="mx-auto max-w-[770px] overflow-hidden rounded-md"
-              data-wow-delay=".15s"
-            >
-              <iframe width="897" height="506" src="https://www.youtube.com/embed/tEgtT1LX-Sk" title="Save the Grove Again"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+            <h2 className="text-4xl p-5 text-center">What's at Stake</h2>
+            <div className="-mx-4 flex flex-wrap">
+                <div className="w-full px-4">
+                    <div
+                    className="mx-auto max-w-[770px] overflow-hidden rounded-md"
+                    data-wow-delay=".15s">
+                        <iframe width="897" height="506" src="https://www.youtube.com/embed/tEgtT1LX-Sk"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-
-
     </section>
   );
 };
