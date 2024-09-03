@@ -7,13 +7,19 @@ const About = () => {
     <>
       <section id="About" className="realtive z-30 mt-5 p-0 w-full">
           
-          <h2 className="text-3xl font-bold text-center">Our Mission</h2>
-
-          <p  className="text-justify py-5">
-            Save The Grove Again is a community group committed to preserving the environmental and historical heart of Arnprior. Our aim is to promote awareness within the community about plans to develop a large portion of the adjacent land to The Gillies Grove, to maintain the integrity of this old growth forest, and preserve the historical origins of the town. We value a safe and healthy community where future generations can continue to learn, engage and share in lands that are biodiverse and rich in culture.
-          </p>
-
-          <p className="text-center pb-10 text-xl">Together we can find a better way!</p>
+            <h2 className="text-3xl pb-3 font-bold text-center">Our Mission</h2>
+            <div className="text-center px-20">
+                <p className="text-left py-2">
+                    We are a group of concerned residents committed to preserving Gillies Grove and the land adjacent to the Grove which constitute the environmental and historic heart of Arnprior.
+                </p>
+                <p className="text-left py-2">
+                    We envision a safe and healthy community where future generations can continue to learn from, engage with and share access to lands, such as Gillies Grove, that are biodiverse and rich in history and culture. 
+                </p>
+                <p className="text-left py-2">
+                    To achieve our vision, we will promote community awareness about plans to commercially develop a large portion of the land adjacent to Gillies Grove. We will also advocate for informed and responsible decision-making concerning these plans to ensure the continued public enjoyment of this important site for years to come. 
+                </p>
+            </div>
+          <p className="text-center pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
 
       </section>
     </>
