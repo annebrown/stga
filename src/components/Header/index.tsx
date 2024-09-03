@@ -41,19 +41,18 @@ const Header = () => {
   return (
     <>
       <header
-        className="header left-0 top-3 z-30 flex w-full bg-white  m-0 p-0 items-center sticky backdrop-blur-sm transition bg-transparent"
-      >
-        <div className="w-80 max-w-full px-4 xl:mr-12">
+        className="header left-0 top-3 z-30 flex w-full m-0 p-0 items-center sticky transition bg-white bg-transparent">
+        <div className="w-80 max-w-full">
           <Link
             href="/"
             className="header-logo">
-              <Image
-                className=""
-                src="/images/logo-rect.svg"
-                alt="logo"
-                width={462}
-                height={138}
-              />
+                <Image
+                    className=""
+                    src="/images/logo-rect.svg"
+                    alt="logo"
+                    width={462}
+                    height={138}
+                />
           </Link>
         </div>
         <div className="container">

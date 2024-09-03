@@ -10,19 +10,17 @@ const Video = () => {
   const [isOpen, setOpen] = useState(false);
 
   return (
-    <section className="z-10 max-w-80% p-0 pl-20 m-0 mx-auto">
-        <div className="container m-0 p-0 object-center">
-            <h2 className="text-4xl p-5 text-center">What&apos;s at Stake</h2>
-            <div className="-mx-4 flex flex-wrap">
-                <div className="w-full px-4">
-                    <div
-                    className="mx-auto max-w-[770px] overflow-hidden rounded-md"
-                    data-wow-delay=".15s">
-                        <iframe width="897" height="506" src="https://www.youtube.com/embed/tEgtT1LX-Sk"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-                    </div>
-                </div>
+    <section className="z-10 w-full p-0 pl-20 m-0 mx-auto">
+        <div className="w-full container m-0 p-0 object-center ">
+            <h2 className="text-4xl p-5 text-center">
+                What&apos;s at Stake
+            </h2>
+
+            <div className="rounded-md w-full">
+                <iframe width="897" height="506" src="https://www.youtube.com/embed/tEgtT1LX-Sk"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className="size-full aspect-video" allowFullScreen></iframe>
             </div>
-        </div>
+            </div>
+
     </section>
   );
 };

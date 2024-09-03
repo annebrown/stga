@@ -11,7 +11,7 @@ const Hero = () => {
       >
         <div className="w-full h-full z-40 m-0 mt-5 p-0">
           <Image
-            className="relative m-0 p-0 pl-1.5 pr-1 rounded-xl"
+            className="relative m-0 p-0 rounded-xl"
             src="/images/hero/big-splash.svg"
             alt="Field"
             loading="eager"
