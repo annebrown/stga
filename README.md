@@ -11,10 +11,9 @@ Greenspace Initiative for Gilles Grove in Arnprior, ON
 ## Links
 
 - Production URL: [https://www.savethegroveagain.com](https://www.savethegroveagain.com)
-- Prototype URL: [https://prototype.savethegroveagain.com](https://prototype.savethegroveagain.com)
 - Video: [https://youtu.be/tEgtT1LX-Sk](https://youtu.be/tEgtT1LX-Sk)
 - Petition: [https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120](https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120)
-- REPO: [https://github.com/annebrown/stga](https://github.com/annebrown/stga)
+- Source Code: [https://github.com/annebrown/stga](https://github.com/annebrown/stga)
 
 ## License
 
