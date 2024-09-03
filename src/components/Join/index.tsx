@@ -35,12 +35,12 @@ const Join = () => {
             </div>
           <div className="m-5">
             <Image
-              src="/images/vignette2.svg"
+              src="/images/vignette-green.svg"
               alt="Field"
               loading="eager"
               priority
-              width={830}
-              height={456}
+              width={1057}
+              height={551}
             />
           </div>
         </div>
