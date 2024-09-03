@@ -27,5 +27,3 @@ Greenspace Initiative for Gilles Grove in Arnprior, ON
 
 - Primary: Blue - #165D8F
 - Accent: Green - #38AF34
-
-PXxbVbWuk41!
