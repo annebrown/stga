@@ -10,8 +10,8 @@ const Video = () => {
   const [isOpen, setOpen] = useState(false);
 
   return (
-    <section className="z-10 w-full p-0 pl-20 m-0 mx-auto">
-        <div className="w-full container m-0 p-0 object-center ">
+    <section className="z-10 w-full p-0 m-0 mx-auto">
+        <div className="w-full container m-0 p-0 object-center  mx-auto">
             <h2 className="text-4xl p-5 text-center">
                 What&apos;s at Stake
             </h2>
