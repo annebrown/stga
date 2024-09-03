@@ -12,7 +12,7 @@ const Video = () => {
   return (
     <section className="z-10 max-w-80% p-0 pl-20 m-0 mx-auto">
         <div className="container m-0 p-0 object-center">
-            <h2 className="text-4xl p-5 text-center">What's at Stake</h2>
+            <h2 className="text-4xl p-5 text-center">What&apos;s at Stake</h2>
             <div className="-mx-4 flex flex-wrap">
                 <div className="w-full px-4">
                     <div
