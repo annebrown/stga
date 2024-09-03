@@ -123,7 +123,7 @@ const Footer = () => {
                                 <Link
                                     href="/blog"
                                     className="text-base text-center duration-300 hover:text-primary">
-                                    News
+                                    Blog
                                 </Link>
                                 </li>
                                 <li className="pb-5 text-base text-center">

@@ -5,7 +5,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "Save the Grove Again, Petition Initiative",
+  description: "",
 };
 
 const AboutPage = () => {
