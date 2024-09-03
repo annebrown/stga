@@ -19,16 +19,16 @@ const Answer = () => {
 
                         <div className="flex w-full mt-5 items-center justify-center justify-items-center text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl 1xl:text-1xl">
                             <form action="https://forms.gle/Dbw6qFcWi66gW7CA8">
-                                <button className="p-2 m-2 bg-sky-200 rounded-lg hover:bg-white text-black shadow-md">Join the Mailing List</button>
+                                <button className="p-2 m-2 bg-[#38AF34] rounded-lg hover:bg-sky-200 hover:text-black text-white shadow-md">Subscribe</button>
                             </form>
 
-                            <div className="p-2 m-2  bg-sky-200 rounded-lg hover:bg-white text-black shadow-md">
+                            <div className="p-2 m-2  bg-[#38AF34] rounded-lg hover:bg-sky-200 hover:text-black text-white shadow-md">
                                 <Link href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120"><button>Sign the Petition</button></Link>    
                             </div>
 
 
-                            <div className="p-2 m-2  bg-sky-200 rounded-lg hover:bg-white text-black shadow-md">
-                                <Link href="/donations"><button>Make a Donation</button></Link>    
+                            <div className="p-2 m-2  bg-[#38AF34] rounded-lg hover:bg-sky-200 hover:text-black text-white shadow-md">
+                                <Link href="/donations"><button>Donate Today!</button></Link>    
                             </div>
                         </div>
                     </div>
