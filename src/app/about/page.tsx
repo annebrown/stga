@@ -12,8 +12,8 @@ const AboutPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="About Page"
-        description="Save the Grove Again, Petition Initiative."
+        pageName="About"
+        description=""
       />
       <div className="w-full p-0 px-10 m-0">
         <About />
