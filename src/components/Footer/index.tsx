@@ -22,7 +22,7 @@ const Footer = () => {
                             />
                             </Link>
                             <p className="m-0 p-0 text-base text-black text-center">
-                                Gillies Grove, Arnprior, ON
+                                Arnprior, ON
                             </p>
 
                         
