@@ -13,7 +13,7 @@ const PricingBox = (props: {
         <div className="flex items-center justify-between">
           <h3 className="price mb-2 text-[32px] font-bold text-black">
             $<span className="amount">{price}</span>
-            <span className="time text-lg font-medium text-body-color">
+            <span className="time text-lg font-medium text-black">
               /{duration}
             </span>
           </h3>
@@ -21,7 +21,7 @@ const PricingBox = (props: {
             {packageName}
           </h4>
         </div>
-        <p className="mb-7 text-base text-body-color">{subtitle}</p>
+        <p className="mb-7 text-base text-black">{subtitle}</p>
         <div className="mb-8 border-b border-body-color border-opacity-10 pb-8">
           <button className="flex w-full items-center justify-center rounded-sm bg-primary p-3 text-base font-semibold text-white transition duration-300 ease-in-out hover:bg-opacity-80 hover:shadow-signUp">
             Start Free Trial
