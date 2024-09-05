@@ -76,7 +76,7 @@ const Footer = () => {
                                 </svg>
                             </a>
                             <a
-                                href="/"
+                                href="https://www.youtube.com/embed/tEgtT1LX-Sk"
                                 aria-label="social-link"
                                 target="_blank"
                                 rel="noopener noreferrer"
@@ -92,7 +92,7 @@ const Footer = () => {
                                 </svg>
                             </a>
                             <a
-                                href="/"
+                                href="https://www.instagram.com/#savethegroveagain/"
                                 aria-label="social-link"
                                 target="_blank"
                                 rel="noopener noreferrer"
