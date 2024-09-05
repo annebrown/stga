@@ -1,10 +1,10 @@
 // File: /src/app/page.tsx
 // Sections
 import Blog from "@/components/Blog";
-import Brands from "@/components/Brands";
+// import Brands from "@/components/Brands";
 import ScrollUp from "@/components/Common/ScrollUp";
-import Features from "@/components/Features";
-import Contact from "@/components/Contact";
+// import Features from "@/components/Features";
+// import Contact from "@/components/Contact";
 import Hero from "@/components/Hero";
 import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
@@ -26,6 +26,7 @@ export default function Home() {
       <ScrollUp />
       <Hero />
       <Answer />
+      <Blog />
       <Video />
       <Join />
       <Testimonials />

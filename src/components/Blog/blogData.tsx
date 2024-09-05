@@ -3,17 +3,17 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "Save the Grove Again Information Session- Planting the Seed",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-01.jpg",
+      "Join us for an information session for the Save the Grove Again campaign.",
+    image: "/images/blog/lawn-sign.jpg",
     author: {
-      name: "Samuyl Joshi",
+      name: "Lacey ??",
       image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      designation: "Title?",
     },
-    tags: ["creative"],
-    publishDate: "2025",
+    tags: ["event"],
+    publishDate: "2024-09-05",
   },
   {
     id: 2,
