@@ -72,18 +72,17 @@ const BlogDetailsPage = () => {
                         <li>- 🗞️Subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a></li>
                         <li>- 💰Make a <a className="text-[#38AF34]"  href="https://savethegroveagain.com/donations">donation</a></li>
                         <li>- 🖋️Sign our <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a></li>
-                        <li>- 🏡Place a lawn sign in your yard (email us and we can drop one off!)</li>
-                        <li>- 👍Wear a button to show your support. Email us at:</li> 
-                        <li className="text-center p-5">savethegroveagain@gmail.com</li> 
+                        <li>- 🏡Place a lawn sign in your yard.</li>
+                        <li>- 👍Wear a button to show your support.</li> 
                     </ul>
                   </p>
 
                   <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   Contact Information:</p>
                   <p>
-                  For more information, to ask a question or request a lawn sign, please contact one of our dedicated volunteers at: savethegroveagain@gmail.com. 
+                  For more information, to ask a question or request a lawn sign, please contact one of our dedicated volunteers at: 
                   </p>
-
+                  <p className="text-center p-5">savethegroveagain@gmail.com</p> 
                     <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                         <p className="text-center text-base font-medium italic text-black">
                         🌱Small Steps, 🌳Big Impact!
