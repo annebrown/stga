@@ -46,9 +46,9 @@ const BlogDetailsPage = () => {
                 </div>
                 <div>
                   <p><strong>Event Title:</strong> Save the Grove Again Information Session- Planting the Seed</p>
-                  <p><strong>Event Date:</strong> September 7 2024 at 1:00pm</p>
-                  <p><strong>Event Location:</strong>Emmanuel Anglican Church</p>
-                  <p>(corner of Harrington and Ottawa Street) Arnprior ON</p><br></br>
+                  <p><strong>Event Date:</strong> September 7, 2024 at 1:00pm</p>
+                  <p><strong>Event Location: </strong>Emmanuel Anglican Church</p>
+                  <p className="pl-5">(corner of Harrington and Ottawa Street, Arnprior ON)</p><br></br>
                   <p><strong>Event Desription:</strong></p><br></br>
                   <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   Join us for an information session for the Save the Grove Again campaign, our first event in support of sharing the proposed repurposing of the land once known as Deer Park (known today as Galilee Center grounds). This event is curated by a group of dedicated local volunteers that want to share the love for this ecological and historical piece of land with guest speakers and offerings for community participation in the form of lawn signs, buttons and pamphlets. Come out on September 7th to show your support and help sow the seeds for a more sustainable solution.
