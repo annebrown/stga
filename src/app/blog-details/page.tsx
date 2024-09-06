@@ -37,7 +37,7 @@ const BlogDetailsPage = () => {
                     </div>
                 </div>
 
-                <div>
+                <div className="text-black">
                   <p className="pb-1"><strong>Event Title:</strong> Save the Grove Again Information Session- Planting the Seed</p>
                   <p className="pb-1"><strong>Event Date:</strong> September 7, 2024 at 1:00pm</p>
                   <p className="pb-1"><strong>Event Location: </strong>Emmanuel Anglican Church</p>
