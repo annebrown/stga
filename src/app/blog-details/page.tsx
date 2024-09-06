@@ -75,7 +75,7 @@ const BlogDetailsPage = () => {
                   <p>
                   For more information, to ask a question, request a lawn sign, or obtain a button, please contact one of our dedicated volunteers at: 
                   </p>
-                  <p className="text-center py-10 weight-bold text-[#165D8F] text-3xl">savethegroveagain@gmail.com</p> 
+                  <p className="text-center pb-10 pt-5 weight-bold text-[#165D8F] text-3xl">savethegroveagain@gmail.com</p> 
                     <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                         <p className="text-center text-base font-medium italic text-black">
                         🌱Small Steps, 🌳Big Impact!
@@ -87,17 +87,6 @@ const BlogDetailsPage = () => {
                   
                   
                  <div className="container mx-auto w-full">
-                  <div className="items-center justify-between sm:flex">
-     
-                    <div className="mt-5 mx-auto">
-                      <h5 className="mb-3 text-sm font-medium text-black sm:text-right">
-                        Share this post :
-                      </h5>
-                      <div className="flex items-center sm:justify-end">
-                        <SharePost />
-                      </div>
-                    </div>
-                  </div>
                   </div>
                 </div>
               </div>
