@@ -29,13 +29,7 @@ const SingleBlog = ({ blog }: { blog: Blog }) => {
             {paragraph}
           </p>
           <div className="flex items-center">
-
-            <div className="inline-block">
-              <h4 className="mb-1 text-sm font-medium text-dark">
-                Date
-              </h4>
-              <p className="text-xs text-black">{publishDate}</p>
-            </div>
+            <p className="text-xs text-black">{publishDate}</p>
           </div>
         </div>
       </div>

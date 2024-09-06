@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 const BlogDetailsPage = () => {
   return (
     <>
-      <section className="pb-[120px] pt-[150px]">
+      <section className="pb-[60px] pt-[75px]">
         <div className="container">
           <div className="-mx-4 flex flex-wrap justify-center">
             <div className="w-full px-4 lg:w-8/12">
@@ -21,33 +21,26 @@ const BlogDetailsPage = () => {
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black sm:text-4xl sm:leading-tight">
                 Save the Grove Again Information Session- Planting the Seed
                 </h2>
-                <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4">
-                  <div className="flex flex-wrap items-center">
-                   
-                    <div className="mb-5 flex items-center">
-                      <p className="mr-5 flex items-center text-base font-medium text-black">
-                        <span className="mr-3">
-                       
-
-                        </span>
-                        September 05, 2024
-                      </p>
-             
+                <div className="mb-5 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4">
+                    <div className="flex flex-wrap items-center">
+                        <p className="text-base font-medium text-black">
+                            September 05, 2024
+                        </p>
                     </div>
-                  </div>
-                  <div className="mb-5">
-                    <a
-                      href="#0"
-                      className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white"
-                    >
-                      Event
-                    </a>
-                  </div>
+                    <div className="mb-0">
+                        <a
+                        href="#0"
+                        className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white"
+                        >
+                        Event
+                        </a>
+                    </div>
                 </div>
+
                 <div>
-                  <p><strong>Event Title:</strong> Save the Grove Again Information Session- Planting the Seed</p>
-                  <p><strong>Event Date:</strong> September 7, 2024 at 1:00pm</p>
-                  <p><strong>Event Location: </strong>Emmanuel Anglican Church</p>
+                  <p className="pb-1"><strong>Event Title:</strong> Save the Grove Again Information Session- Planting the Seed</p>
+                  <p className="pb-1"><strong>Event Date:</strong> September 7, 2024 at 1:00pm</p>
+                  <p className="pb-1"><strong>Event Location: </strong>Emmanuel Anglican Church</p>
                   <p className="pl-5">(corner of Harrington and Ottawa Street, Arnprior ON)</p><br></br>
                   <p><strong>Event Desription:</strong></p><br></br>
                   <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
@@ -80,23 +73,23 @@ const BlogDetailsPage = () => {
                   <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   Contact Information:</p>
                   <p>
-                  For more information, to ask a question or request a lawn sign, please contact one of our dedicated volunteers at: 
+                  For more information, to ask a question, request a lawn sign, or obtain a button, please contact one of our dedicated volunteers at: 
                   </p>
-                  <p className="text-center p-5">savethegroveagain@gmail.com</p> 
+                  <p className="text-center py-10 weight-bold text-[#165D8F] text-3xl">savethegroveagain@gmail.com</p> 
                     <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                         <p className="text-center text-base font-medium italic text-black">
                         🌱Small Steps, 🌳Big Impact!
                         </p>
                     </div>
-                    <p>Together we can find a better way, </p>
-                    <p>The volunteers of the Save the Grove Again Campaign ♥️</p><br></br>
+                    <p className="pb-5">Together we can find a better way, </p>
+                    <p>The volunteers of the <span className="text-[#38AF34] px-2">♥️ Save the Grove Again Campaign ♥️</span> </p><br></br>
 
                   
                   
                  <div className="container mx-auto w-full">
                   <div className="items-center justify-between sm:flex">
      
-                    <div className="mb-5">
+                    <div className="mt-5 mx-auto">
                       <h5 className="mb-3 text-sm font-medium text-black sm:text-right">
                         Share this post :
                       </h5>
