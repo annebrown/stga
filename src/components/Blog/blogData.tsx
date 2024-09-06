@@ -15,6 +15,6 @@ const blogData: Blog[] = [
     tags: ["event"],
     publishDate: "September 05, 2024",
   },
-
+ 
 ];
 export default blogData;
