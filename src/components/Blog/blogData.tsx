@@ -6,7 +6,7 @@ const blogData: Blog[] = [
     title: "Save the Grove Again Information Session- Planting the Seed",
     paragraph:
       "Join us for an information session for the Save the Grove Again campaign.",
-    image: "/images/blog/P1040424.JPG",
+    image: "/images/blog/BLOG_1.jpeg",
     author: {
       name: "",
       image: "",
