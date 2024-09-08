@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   // other metadata
 };
 
-const BlogDetailsPage = () => {
+const BlogPage0001 = () => {
   return (
     <>
       <section className="pb-[60px] pt-[75px]">
@@ -98,4 +98,4 @@ const BlogDetailsPage = () => {
   );
 };
 
-export default BlogDetailsPage;
+export default BlogPage0001;

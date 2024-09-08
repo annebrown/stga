@@ -1,14 +1,26 @@
+const withMDX = require('@next/mdx')()
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  images: {
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "cdn.sanity.io",
-        port: "",
-      },
-    ],
+
+
+    pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'mdx'],
+
+    images: {
+        remotePatterns: [
+            {
+                protocol: "https",
+                hostname: "cdn.sanity.io",
+                port: "",
+            },
+        ],
   },
+
+
+
+
+
+
 };
 
-module.exports = nextConfig;
+module.exports = withMDX(nextConfig)
