@@ -15,7 +15,7 @@ const Footer = () => {
                         <Link href="/" className="inline-block">
                             <Image
                                 src="/images/logo-rect.svg"
-                                alt="logo"
+                                alt="Logo - Trees and water inside a circle, with text: Save the Grove Again"
                                 className="w-full m-0 p-0"
                                 width={462}
                                 height={138}

@@ -12,7 +12,7 @@ const Donations = () => {
                 If you would like to support Save the Grove Again please consider making a donation.
                 </p>
                 <p className="text-left py-2">
-                Donations are used to cover the cost of materials including lawn signs, flyers, posters, buttons, webpage domain hosting etc. 
+                Donations are used to cover the cost of materials including lawn signs, flyers, posters, buttons, website domain name etc. 
                 </p>
                 <p className="text-left py-2">
                 Donations are accepted via Interac E-Transfer. Please send your contribution to: savethegroveagain@gmail.com 

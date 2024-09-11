@@ -49,7 +49,7 @@ const Header = () => {
                 <Image
                     className=""
                     src="/images/logo-rect.svg"
-                    alt="logo"
+                    alt="Logo - Trees and water inside a circle, with text: Save the Grove Again"
                     width={462}
                     height={138}
                 />
