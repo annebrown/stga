@@ -1,22 +1,24 @@
+import Donations from "@/components/Donations";
 import Breadcrumb from "@/components/Common/Breadcrumb";
 
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Donations Page",
-  description: "Save The Grove, Again accepts Interac E-Transfers",
+  title: "Donations",
+  description: "",
 };
 
 const DonationsPage = () => {
   return (
     <>
         <Breadcrumb
-            pageName="Donations Page"
-            description="Donations are accepted via Interac E-Transfer"
+            pageName="Donations"
+            description=""
         />
-        <p className="mb-12 ml-10 pl-20 text-base font-medium text-black">
-            E-Transfer <strong>Send To</strong> Address: <span className="weight-bold text-1xl">savethegroveagain@gmail.com</span>
-        </p>
+
+        <div className="w-full p-0 px-10 m-0">
+            <Donations />
+        </div>
     </>
   );
 };
