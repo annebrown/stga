@@ -31,10 +31,10 @@ const BlogPage0002 = () => {
                                     The well-attended launch event on Saturday and all the online activity truly shows that the passion is still alive in Arnprior today. We would like to extend our thanks to all that were able to attend the gathering on Saturday and to all of those that have been helping to spread the word. Together we can find a better way! 
                                 </p>
                                 <p className="text-left py-2">
-                                    We have had a lot of media attention. Let's keep the ball rolling! Keep telling others, wear your button, hand out flyers, and follow, like and share our Facebook page .
+                                    We have had a lot of media attention. Let&apos;s keep the ball rolling! Keep telling others, wear your button, hand out flyers, and follow, like and share our Facebook page .
                                 </p>
                                 <h2 className="my-8 text-3xl font-bold leading-tight text-black sm:text-4xl sm:leading-tight">
-                                    What's Next?
+                                    What&apos;s Next?
                                 </h2>
                                 <p className="text-left py-2">
                                     We are working on the contact list for those wishing to email, call or mail other parties involved. We will let everyone know by email when that becomes available through our website.
