@@ -16,6 +16,21 @@ const blogData: Blog[] = [
     publishDate: "September 05, 2024",
     blogURL: "/blogPage0001"
   },
+  {
+  id: 2,
+  title: "What's Next, after Well-Attended Launch Event",
+  paragraph:
+    "Arnprior citizens and Volunteers gathered together on Saturday September 7th, to show their support.  What's Next?",
+  image: "/images/blog/blog0002/group-pic.svg",
+  author: {
+    name: "",
+    image: "",
+    designation: "",
+  },
+  tags: ["Update"],
+  publishDate: "September 11, 2024",
+  blogURL: "/blogPage0002"
+},
 
 
 ];
