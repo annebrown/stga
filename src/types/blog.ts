@@ -9,6 +9,9 @@ export type Blog = {
   title: string;
   paragraph: string;
   image: string;
+  alt: string;
+  width: number;
+  height: number;
   author: Author;
   tags: string[];
   publishDate: string;

@@ -6,7 +6,10 @@ const blogData: Blog[] = [
     title: "Save the Grove Again Information Session- Planting the Seed",
     paragraph:
       "Join us for an information session for the Save the Grove Again campaign.",
-    image: "/images/blog/BLOG_1.jpeg",
+    image: "/images/blog/blog0001/event-pic.svg",
+    alt: "Trees viewed through leafy border, with text: We need your help to save the grove again, plus Event as blog post category",
+    width: "1000",
+    height: "794",
     author: {
       name: "",
       image: "",
@@ -22,6 +25,9 @@ const blogData: Blog[] = [
   paragraph:
     "Arnprior citizens and Volunteers gathered together on Saturday September 7th, to show their support.  What's Next?",
   image: "/images/blog/blog0002/group-pic.svg",
+  alt: "Event Group Photo, plus Update as post category",
+  width: "1000",
+  height: "750",
   author: {
     name: "",
     image: "",
