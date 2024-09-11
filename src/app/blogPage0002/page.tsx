@@ -43,13 +43,13 @@ const BlogPage0002 = () => {
                                     How to make a difference
                                 </h2>
                                 <p className="text-left py-2">
-                                    Subscribe to be on the mailing list through the website to get the latest updates, announcements and events
+                                    Subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a> to get the latest updates, announcements and events
                                 </p>
                                 <p className="text-left py-2">
-                                    We have set up a volunteer form. If you would like to offer your help please take a few minutes to fill in the form.
+                                    We have set up a volunteer form. If you would like to offer your help please take a few minutes to fill in the form (***NEED LINK***).
                                 </p>
                                 <p className="text-left py-2">
-                                    Take a moment to sign the online petition (please note that donations through change.org do not come directly to our cause, please send an e-transfer to savethegroveagain@gmail.com) 
+                                    Take a moment to sign the <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> (please note that donations through change.org do not come directly to our cause, please send an e-transfer to savethegroveagain@gmail.com) 
                                 </p>
                                 
                                 <p className="text-left py-2">
