@@ -20,7 +20,18 @@ const BlogPage0002 = () => {
                             <h2 className="mb-8 text-3xl font-bold leading-tight text-black sm:text-4xl sm:leading-tight text-center">
                             STGA Launch Event
                             </h2>
+                            
                             <div className="text-center px-20">
+                                <div className="mb-10 w-full overflow-hidden rounded">
+                                    <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
+                                    <Image
+                                        src="/images/blog/blog0002/group-pic.svg"
+                                        alt="image"
+                                        fill
+                                        className="object-cover object-center"
+                                    />
+                                    </div>
+                                </div>
                                 <p className="text-left py-2">
                                     Arnprior citizens and Volunteers of the Save the Grove Again campaign convened at the Emmanuel Anglican Church, on the corner of Ottawa and Harrington street, this past Saturday September 7th, to share their love and support for the forest and meadow area adjacent to the Gillies Grove to counter yet another proposal to develop this sacred green space.
                                 </p>

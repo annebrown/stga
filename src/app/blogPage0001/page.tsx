@@ -1,5 +1,6 @@
 import SharePost from "@/components/Blog/SharePost";
 import TagButton from "@/components/Blog/TagButton";
+import { Blog } from "@/types/blog";
 import Image from "next/image";
 
 import { Metadata } from "next";
@@ -46,21 +47,22 @@ const BlogPage0001 = () => {
                   <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   Join us for an information session for the Save the Grove Again campaign, our first event in support of sharing the proposed repurposing of the land once known as Deer Park (known today as Galilee Center grounds). This event is curated by a group of dedicated local volunteers that want to share the love for this ecological and historical piece of land with guest speakers and offerings for community participation in the form of lawn signs, buttons and pamphlets. Come out on September 7th to show your support and help sow the seeds for a more sustainable solution.
                   </p>
-                  <div className="mb-10 w-full overflow-hidden rounded">
-                    <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
-                      <Image
-                        src="/images/blog/BLOG_1b.jpeg"
-                        alt="image"
-                        fill
-                        className="object-cover object-center"
-                      />
-                    </div>
-                  </div>
+                  <div className="relative mb-10 rounded-t-2xl rounded-b-md">
+
+                    <Image
+                        src="/images/blog/blog0001/event-pic.svg"
+                        alt="Trees viewed through leafy border, with text: We need your help to save the grove again, plus Event as blog post category"
+                        width="1000"
+                        height="750"
+                        className=" aspect-auto max-w-22 h-auto object-cover"
+                    />
+                </div>
+
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   Whether you can join us in person or not on September 7th, please consider supporting this cause in the following ways:
                   </p>
 
-                  <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                  <span className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     <ul>
                         <li>- 🗞️Subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a></li>
                         <li>- 💰Make a <a className="text-[#38AF34]"  href="https://savethegroveagain.com/donations">donation</a></li>
@@ -68,7 +70,7 @@ const BlogPage0001 = () => {
                         <li>- 🏡Place a lawn sign in your yard.</li>
                         <li>- 👍Wear a button to show your support.</li> 
                     </ul>
-                  </p>
+                  </span>
 
                   <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   Contact Information:</p>
