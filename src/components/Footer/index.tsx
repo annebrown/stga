@@ -151,9 +151,9 @@ const Footer = () => {
                                 </li>
                                 <li className="pb-5 text-base text-center">
                                 <Link
-                                    href="/donations"
+                                    href="/action"
                                     className="text-base duration-300 hover:text-primary">
-                                    Donations
+                                    Get Involved!
                                 </Link>
                                 </li>
                                 <li className="pb-5 text-base text-center">
