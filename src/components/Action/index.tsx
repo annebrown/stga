@@ -52,7 +52,7 @@ const Action = () => {
             <div className="w-full">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">MAKE A DONATION</h2>
                 <p>
-                For those who are wanting to make a donation the best way to get money directly to us is via an e-transfer to this email address <span className="text-[#165D8F] font-extrabold">savethegroveagain@gmail.com</span>. Please share that information with others who may want to contribute.
+                Donations are used to cover the cost of materials including lawn signs, flyers, posters, buttons, website domain name etc. For those wanting to make a donation, please direct your Interac E-Transfer to: <span className="text-[#165D8F] font-extrabold">savethegroveagain@gmail.com</span>. Please share that information with others who may want to contribute.
                                
                 </p>
             </div>
