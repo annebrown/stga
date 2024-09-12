@@ -13,7 +13,7 @@ const Action = () => {
             <div className="w-full">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">SPREAD THE WORD</h2>
                 <p className="text-left py-2">
-                We have had a lot of media attention. Let&apos;s keep the ball rolling! Keep telling others, wear your button, hand out flyers, and follow, like and share our Facebook page .
+                We have had a lot of media attention. Let&apos;s keep the ball rolling! Keep telling others, wear your button, hand out flyers, and follow, like and share our Facebook page. To request buttons, lawn signs and flyers, send an email to: <span className="text-[#165D8F] font-extrabold">savethegroveagain@gmail.com</span>.
                 </p>
             </div>
 
@@ -37,7 +37,7 @@ const Action = () => {
                 Take a moment to sign the <a className="text-[#38AF34] font-extrabold"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> 
                 </p>
                 <div className="p-2 bg-[#fbbf24] text-black text-xs m-1">
-                    WARNING: <br/><br/>Donations to change.org DO NOT go towards our cause.  For donations to STGA, please use Interac E-Transfer to <span className="text-[#165D8F] font-extrabold">savethegroveagain@gmail.com</span>.
+                    WARNING: <br/><br/>Donations to change.org DO NOT go towards our cause.  For donations to STGA, please use Interac E-Transfer to: <span className="text-[#165D8F] font-extrabold">savethegroveagain@gmail.com</span>.
                 </div>
                
             </div>
