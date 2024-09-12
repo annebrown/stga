@@ -27,7 +27,7 @@ const Footer = () => {
                     </div>
 
                     <div className="container mx-auto text-black items-center">
-                        <p className="text-center text-xl pb-5"><strong>Email</strong></p>
+                        <p className="text-center text-xl pb-5"><strong>Contacts</strong></p>
                         <p className="text-center pb-5"><strong>savethegroveagain@gmail.com</strong></p>
                         <p className="flex w-full mx-auto self-center text-center">
                             <span className="flex mx-auto">
