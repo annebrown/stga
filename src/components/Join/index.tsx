@@ -8,7 +8,7 @@ const Join = () => {
       <section id="Join" className="clear-both">
         <div className=" w-full z-30 ml-1.5 mr-3 mb-5 pt-2 px-auto py-auto grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 align-items-center">
             <div className="pl-5 py-auto my-auto">
-                <p className="pt-5 m-5 text-justify
+                <p className="m-5 mt-0 text-justify
                 text-black
                 text-2xs
                 xs:text-1xs
@@ -19,7 +19,7 @@ const Join = () => {
                 ">
                     Join us as we gather together our collective love of this ecological and historical gem to counter the development proposal. Together we can find a better and more sustainable solution that meets the needs of all, including; the Galilee Center, a respected retreat center that has been entrusted with the care of this land for many years; the town’s folk who live nearby or use this area for their physical and spiritual wellbeing; the flora, fauna and fungi of the great and incredibly rare forest known as Gillies Grove; and the developer who needs to find ways to build homes for a growing Ontario population.
                 </p>
-                <p className=" m-5 text-center pb-10
+                <p className=" m-5 text-center
                 bold
                 text-[#165D8F]
                 text-sm
@@ -28,7 +28,6 @@ const Join = () => {
                 md:text-1xl
                 lg:text-2xl
                 1xl:text-3xl
-                
                 ">
                     Together we can find a better way!
                 </p>

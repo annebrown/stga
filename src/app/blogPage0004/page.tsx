@@ -5,12 +5,12 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog Placeholder",
+  title: "Latest Blog Placeholder",
   description: "Placeholder for newest blog",
   // other metadata
 };
 
-const BlogPage0003 = () => {
+const BlogPage0004 = () => {
   return (
     <>
       <section className="pb-[60px] pt-[75px]">
@@ -19,7 +19,7 @@ const BlogPage0003 = () => {
             <div className="w-full px-4 lg:w-8/12">
               
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black sm:text-4xl sm:leading-tight">
-                    Newest Blog
+                    Blog 4 Header 1
                 </h2>
                 <div className="mb-5 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4">
                     <div className="flex flex-wrap items-center">
@@ -32,7 +32,7 @@ const BlogPage0003 = () => {
                         href="#0"
                         className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-black"
                         >
-                        Media
+                        XXXXXXXX
                         </a>
                     </div>
                 </div>
@@ -40,12 +40,12 @@ const BlogPage0003 = () => {
                 <div className="text-black">
                   <p><strong>Header 0001</strong></p><br></br>
                   <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  Latest blog text
+                    Blog4 text
                   </p>
                   <div className="mb-10 w-full overflow-hidden rounded">
                     <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
                       <Image
-                        src="/images/blog/blog0003/blog3.svg"
+                        src="/images/blog/blog0004/blog4.svg"
                         alt="image"
                         fill
                         className="object-cover object-center"
@@ -64,4 +64,4 @@ const BlogPage0003 = () => {
   );
 };
 
-export default BlogPage0003;
+export default BlogPage0004;

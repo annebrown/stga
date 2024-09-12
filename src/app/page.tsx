@@ -1,6 +1,7 @@
 // File: /src/app/page.tsx
 // Sections
 import Blog from "@/components/Blog";
+import OnlyLatest from "@/components/Blog/onlyLatest";
 // import Brands from "@/components/Brands";
 import ScrollUp from "@/components/Common/ScrollUp";
 // import Features from "@/components/Features";
@@ -27,7 +28,7 @@ export default function Home() {
       <Hero />
       <Answer />
       <Video />
-      <Blog />
+      <OnlyLatest />
       <Join />
       <Testimonials />
     </>

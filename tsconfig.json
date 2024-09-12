@@ -24,6 +24,6 @@
     ]
   },
   
-  "include": ["next-env.d.ts", ".next/types/**/*.ts", "**/*.ts", "**/*.tsx", "src/app/newsletter/newsletter.mdx"],
+  "include": ["next-env.d.ts", ".next/types/**/*.ts", "**/*.ts", "**/*.tsx", "src/app/newsletter/newsletter.mdx", "src/components/Blog/index.tsx"],
   "exclude": ["node_modules"]
 }

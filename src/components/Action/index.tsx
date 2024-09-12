@@ -8,30 +8,30 @@ const Action = () => {
       <section id="Action" className="realtive z-30 mt-0 p-0 w-full text-black">
           
               
-        <div className="pb-10 grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 md:gap-x-6 lg:gap-x-8 xl:grid-cols-3">
+        <div className="pb-10 grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 md:gap-x-6 lg:gap-x-8 xl:grid-cols-3 h-full">
           
-            <div className="w-full">
+            <div className="w-full bg-gray-50 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">SPREAD THE WORD</h2>
                 <p className="text-left py-2">
                 We have had a lot of media attention. Let&apos;s keep the ball rolling! Keep telling others, wear your button, hand out flyers, and follow, like and share our Facebook page. To request buttons, lawn signs and flyers, send an email to: <span className="text-[#165D8F] font-extrabold">savethegroveagain@gmail.com</span>.
                 </p>
             </div>
 
-            <div className="w-full">
+            <div className="w-full bg-gray-50 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">STAY INFORMED</h2>
                 <p className="text-left py-2">
                     To receive the latest updates, announcements, events, and media coverage, subscribe to our <a className="text-[#38AF34] font-extrabold" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.
                 </p>
             </div>
         
-            <div className="w-full">
+            <div className="w-full bg-gray-50 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">ADD YOUR VOICE</h2>
                 <p className="text-left py-2">
                 We are working on the contact list for those wishing to email, call or mail other parties involved. We will let everyone know by email when that becomes available through our website.
                 </p>
             </div>
 
-            <div className="w-full">
+            <div className="w-full bg-gray-50 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">SIGN THE PETITION</h2>
                 <p className="text-left py-2">
                 Take a moment to sign the <a className="text-[#38AF34] font-extrabold"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> 
@@ -42,14 +42,14 @@ const Action = () => {
                
             </div>
 
-            <div className="w-full">
+            <div className="w-full bg-gray-50 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">VOLUNTEER</h2>
                 <p className="text-left py-2">
                 We have set up a volunteer form. If you would like to offer your help please take a few minutes to fill in the <a  className="text-[#38AF34] font-extrabold" href="https://docs.google.com/forms/d/e/1FAIpQLSc611weSVb3qvnl6KJd6AZ_lmRn0yStEYDpxIkE9bVJhFTeUQ/viewform?usp=sf_link">form</a>.
                 </p>
             </div>
 
-            <div className="w-full">
+            <div className="w-full bg-gray-50 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">MAKE A DONATION</h2>
                 <p>
                 Donations are used to cover the cost of materials including lawn signs, flyers, posters, buttons, website domain name etc. For those wanting to make a donation, please direct your Interac E-Transfer to: <span className="text-[#165D8F] font-extrabold">savethegroveagain@gmail.com</span>. Please share that information with others who may want to contribute.
