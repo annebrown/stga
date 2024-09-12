@@ -9,7 +9,7 @@ const blogData: Blog[] = [
     image: "/images/blog/blog0001/event-pic.svg",
     alt: "Trees viewed through leafy border, with text: We need your help to save the grove again, plus Event as blog post category",
     width: 1000,
-    height: 794,
+    height: 750,
     author: {
       name: "",
       image: "",
