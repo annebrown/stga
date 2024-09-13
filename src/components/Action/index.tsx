@@ -69,7 +69,7 @@ const Action = () => {
     
 
             <div className="rounded-lg w-full bg-green-500 p-5">
-                <p>
+                <p className="text-wrap">
                     <a href="https://www.omilacombe.ca" className="text-[#165D8F]"><strong>Missionary Oblates of Mary Immaculate Lacombe Canada</strong></a><br/>
                     <a href="https://www.omilacombe.ca" className="text-white">https://www.omilacombe.ca</a><br/>
                     Attention Provincial Council members<br/>
@@ -78,7 +78,7 @@ const Action = () => {
                 </p>
             </div>
             <div className="rounded-lg w-full bg-green-500 p-5">
-                <p>
+                <p className="text-wrap">
                     <a href="https://www.galileecentre.com" className="text-[#165D8F]"><strong>Galilee Centre</strong></a><br/>
                     <a href="https://www.galileecentre.com" className="text-white">https://www.galileecentre.com</a><br/>
                     Board President: David Perrin<br/>
@@ -88,7 +88,7 @@ const Action = () => {
 
 
             <div className="rounded-lg w-full bg-green-500 p-5">
-                <p>
+                <p className="text-wrap">
                     <a href="https://www.thomascavanagh.ca" className="text-[#165D8F]"><strong>Thomas Cavanagh Construction Limited (Cavanagh Communities)</strong></a><br/>
                     <a href="https://www.thomascavanagh.ca" className="text-white">https://www.thomascavanagh.ca</a><br/>
                     Owner: Jeff Cavanagh<br/>
@@ -97,19 +97,59 @@ const Action = () => {
                     Tel: (613) 257-2918<br/>
                 </p>
             </div>
+            <div className="rounded-lg w-full bg-green-500 p-5">
+                <p className="text-wrap">
+                <a href="https://johnyakabuski.com" className="text-[#165D8F]"><strong>Legislative Assembly of Ontario</strong></a><br/>
+                   <a href="https://johnyakabuski.com" className="text-white">https://johnyakabuski.com</a><br/>
+                   John Yakabuski<br/>
+                   John.Yakabuski@pc.ola.org<br/>
+                </p>
+            </div>
 
             <div className="rounded-lg w-full bg-green-500 p-5">
-                <p>
+                <p className="text-wrap">
+                <a href="http://cherylgallant.com" className="text-[#165D8F]"><strong>Member of Parliament</strong></a><br/>
+                   <a href="http://cherylgallant.com" className="text-white">https://johnyakabuski.com</a><br/>
+                   Cheryl Gallant<br/>
+                   cheryl.gallant@parl.gc.ca<br/>
+                </p>
+            </div>
+            <div className="rounded-lg w-full bg-green-500 p-5">
+                <p className="text-wrap">
                 <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524" className="text-[#165D8F]"><strong>Town of Arnprior</strong></a><br/>
                    <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524" className="text-white">https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524</a><br/>
                     Mayor: Lisa McGee<br/>
                     lmcgee@arnprior.ca<br/>
                     ​​613-322-0271<br/>
-
+                    <br/>
                     County Councillor: Dan Lynch<br/>
                     dlynch@arnprior.ca<br/>
+                    613-623-0146<br/>
+                    <br/>
+                    Councillor: Chris Toner<br/>
+                    ctoner@arnprior.ca<br/>
+                    613-913-9571<br/>
+                    <br/>
+                    Councillor: Billy Denault<br/>
+                    bdenault@arnprior.ca<br/>
+                    613-447-7275<br/>
+                    <br/>
+                    Councillor: Chris Couper<br/>
+                    ccouper@arnprior.ca<br/>
+                    613-518-4081<br/>
+                    <br/>
+                    Councillor: Tom Burnette<br/>
+                    tburnette@arnprior.ca<br/>
+                    613 623 5630<br/>
+                    <br/>
+                    Councillor: Lynn Cloutier<br/>
+                    lcloutier@arnprior.ca<br/>
+                    613-371-6036<br/>
+
                 </p>
             </div>
+
+
 
         </div>
         </div>
