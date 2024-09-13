@@ -15,7 +15,10 @@ const Action = () => {
                     SPREAD THE WORD
                 </h2>
                 <p className="text-left py-2">
-                    We have had a lot of media attention. Let&apos;s keep the ball rolling! Keep telling others, wear your button, hand out flyers, and follow, like and share our Facebook page. To request buttons, lawn signs and flyers, send an email to: <span className="text-[#165D8F] font-extrabold">savethegroveagain@gmail.com</span>.
+                    We have had a lot of media attention. Let&apos;s keep the ball rolling! Keep telling others, wear your button, hand out flyers, and follow, like and share our Facebook page. To request buttons, lawn signs and flyers, send an email to: &nbsp;  
+                        <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
+                            savethegroveagain@gmail.com
+                    </a>.
                 </p>
             </div>
 
@@ -24,7 +27,7 @@ const Action = () => {
                     STAY INFORMED
                 </h2>
                 <p className="text-left py-2">
-                    To receive the latest updates, announcements, events, and media coverage, subscribe to our <a className="text-[#38AF34] font-extrabold" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.
+                    To receive the latest updates, announcements, events, and media coverage, subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/f orms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.
                 </p>
             </div>
 
@@ -33,10 +36,22 @@ const Action = () => {
                     SIGN THE PETITION
                 </h2>
                 <p className="text-left py-2">
-                    Take a moment to sign the <a className="text-[#38AF34] font-extrabold"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> 
+                    Take a moment to sign the <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> 
                 </p>
-                <div className="p-2 bg-[#fbbf24] text-black text-xs m-1">
-                    WARNING: <br/><br/>Donations to change.org DO NOT go towards our cause.  For donations to STGA, please use Interac E-Transfer to: <span className="text-[#165D8F] font-extrabold">savethegroveagain@gmail.com</span>.
+                <div className="p-2 bg-amber-100 text-black text-xs m-1">
+                    <p className="font-bold pb-0 mb-0.5">
+                        WARNING
+                    </p>
+                    <p>
+                        Donations to change.org DO NOT go towards our cause.  For donations to STGA, please use Interac E-Transfer to:
+                    </p>
+                    <p className="text-[#38AF34] p-0.5 m-0.5 mt-1.5 text-center">
+                        <span className="bg-white p-0.5 px-2">
+                            <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
+                                savethegroveagain@gmail.com
+                            </a>
+                        </span>
+                    </p>
                 </div>
                
             </div>
@@ -46,7 +61,7 @@ const Action = () => {
                     VOLUNTEER
                 </h2>
                 <p className="text-left py-2">
-                    We have set up a volunteer form. If you would like to offer your help please take a few minutes to fill in the <a  className="text-[#38AF34] font-extrabold" href="https://docs.google.com/forms/d/e/1FAIpQLSc611weSVb3qvnl6KJd6AZ_lmRn0yStEYDpxIkE9bVJhFTeUQ/viewform?usp=sf_link">form</a>.
+                    We have set up a volunteer form. If you would like to offer your help please take a few minutes to fill in the <a  className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSc611weSVb3qvnl6KJd6AZ_lmRn0yStEYDpxIkE9bVJhFTeUQ/viewform?usp=sf_link">form</a>.
                 </p>
             </div>
 
@@ -55,7 +70,12 @@ const Action = () => {
                     MAKE A DONATION
                 </h2>
                 <p>
-                    Donations are used to cover the cost of materials including lawn signs, flyers, posters, buttons, website domain name etc. For those wanting to make a donation, please direct your Interac E-Transfer to: <span className="text-[#165D8F] font-extrabold">savethegroveagain@gmail.com</span>. Please share that information with others who may want to contribute.             
+                    Donations are used to cover the cost of materials including lawn signs, flyers, posters, buttons, website domain name etc. For those wanting to make a donation, please direct your Interac E-Transfer to: 
+                    <span className="text-[#38AF34] bg-white p-0.5">
+                        <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
+                            savethegroveagain@gmail.com
+                        </a>
+                    </span>. Please share that information with others who may want to contribute.             
                 </p>
             </div>
 
@@ -85,8 +105,10 @@ const Action = () => {
                         <a href="https://www.omilacombe.ca" className="text-green-500">
                             www.omilacombe.ca
                         </a><br/>
-                        Attention Provincial Council members<br/>
-                        information@omilacombe.ca<br/>
+                        Attention: Provincial Council members<br/>
+                        <a href="mailto:information@omilacombe.ca" className="text-[#38AF34]">
+                            information@omilacombe.ca<br/>
+                        </a>
                         (613) 230-2225<br/>
                     </p>
                 </div>
@@ -99,7 +121,9 @@ const Action = () => {
                             www.galileecentre.com
                         </a><br/>
                         Board President: David Perrin<br/>
-                        communications@galileecentre.com<br/>
+                        <a href="mailto:communications@galileecentre.com" className="text-[#38AF34]">
+                            communications@galileecentre.com
+                        </a><br/>
                     </p>
                 </div>
 
@@ -113,7 +137,9 @@ const Action = () => {
                         </a><br/>
                         Owner: Jeff Cavanagh<br/>
                         Contact: Pierre Dufresne<br/>
-                        pdufresne@thomascavanagh.ca<br/>
+                        <a href="mailto:pdufresne@thomascavanagh.ca" className="text-[#38AF34]">
+                            pdufresne@thomascavanagh.ca<br/>
+                        </a>
                         (613) 257-2918<br/>
                     </p>
                 </div>
@@ -137,37 +163,51 @@ const Action = () => {
             <div className="mt-10 rounded-lg grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 md:gap-x-6 lg:gap-x-8 xl:grid-cols-3 h-full ">
                 <div className="rounded-lg w-full bg-white p-5">
                     Mayor: Lisa McGee<br/>
-                    lmcgee@arnprior.ca<br/>
+                    <a href="mailto:lmcgee@arnprior.ca" className="text-[#38AF34]">
+                        lmcgee@arnprior.ca<br/>
+                    </a>
                     ​​613-322-0271<br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     County Councillor: Dan Lynch<br/>
-                    dlynch@arnprior.ca<br/>
+                    <a href="mailto:dlynch@arnprior.ca" className="text-[#38AF34]">
+                        dlynch@arnprior.ca<br/>
+                    </a>
                     613-623-0146<br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     Councillor: Chris Toner<br/>
-                    ctoner@arnprior.ca<br/>
+                    <a href="mailto:ctoner@arnprior.ca" className="text-[#38AF34]">
+                        ctoner@arnprior.ca<br/>
+                    </a>
                     613-913-9571<br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     Councillor: Billy Denault<br/>
-                    bdenault@arnprior.ca<br/>
+                    <a href="mailto:bdenault@arnprior.ca" className="text-[#38AF34]">
+                        bdenault@arnprior.ca<br/>
+                    </a>
                     613-447-7275<br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     Councillor: Chris Couper<br/>
-                    ccouper@arnprior.ca<br/>
+                    <a href="mailto:ccouper@arnprior.ca" className="text-[#38AF34]">
+                        ccouper@arnprior.ca<br/>
+                    </a>
                     613-518-4081<br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     Councillor: Tom Burnette<br/>
-                    tburnette@arnprior.ca<br/>
+                    <a href="mailto:tburnette@arnprior.ca" className="text-[#38AF34]">
+                        tburnette@arnprior.ca<br/>
+                    </a>
                     613 623 5630<br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     Councillor: Lynn Cloutier<br/>
-                    lcloutier@arnprior.ca<br/>
+                    <a href="mailto:lcloutier@arnprior.ca" className="text-[#38AF34]">
+                        lcloutier@arnprior.ca<br/>
+                    </a>
                     613-371-6036<br/>
                 </div>
             </div>
@@ -185,7 +225,9 @@ const Action = () => {
                             johnyakabuski.com
                         </a><br/>
                         John Yakabuski<br/>
-                        John.Yakabuski@pc.ola.org<br/>
+                        <a href="mailto:John.Yakabuski@pc.ola.org" className="text-[#38AF34]">
+                            John.Yakabuski@pc.ola.org<br/>
+                        </a>
                     </p>
                 </div>
             </div>
@@ -201,7 +243,9 @@ const Action = () => {
                             johnyakabuski.com
                         </a><br/>
                         Cheryl Gallant<br/>
-                        cheryl.gallant@parl.gc.ca<br/>
+                        <a href="mailto:cheryl.gallant@parl.gc.ca" className="text-[#38AF34]">
+                            cheryl.gallant@parl.gc.ca<br/>
+                        </a>
                     </p>
                 </div>
             </div>
