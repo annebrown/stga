@@ -83,7 +83,7 @@ const Action = () => {
                             <strong>Missionary Oblates of Mary Immaculate Lacombe Canada</strong>
                         </a><br/>
                         <a href="https://www.omilacombe.ca" className="text-green-500">
-                            https://www.omilacombe.ca
+                            www.omilacombe.ca
                         </a><br/>
                         Attention Provincial Council members<br/>
                         information@omilacombe.ca<br/>
@@ -96,7 +96,7 @@ const Action = () => {
                             <strong>Galilee Centre</strong>
                         </a><br/>
                         <a href="https://www.galileecentre.com" className="text-green-500">
-                            https://www.galileecentre.com
+                            www.galileecentre.com
                         </a><br/>
                         Board President: David Perrin<br/>
                         communications@galileecentre.com<br/>
@@ -109,7 +109,7 @@ const Action = () => {
                             <strong>Thomas Cavanagh Construction Limited (Cavanagh Communities)</strong>
                         </a><br/>
                         <a href="https://www.thomascavanagh.ca" className="text-green-500">
-                            https://www.thomascavanagh.ca
+                            www.thomascavanagh.ca
                         </a><br/>
                         Owner: Jeff Cavanagh<br/>
                         Contact: Pierre Dufresne<br/>
@@ -118,35 +118,11 @@ const Action = () => {
                     </p>
                 </div>
 
-                <div className="rounded-lg w-full bg-white p-5">
-                    <p className="text-wrap">
-                        <a href="https://johnyakabuski.com" className="text-[#165D8F]">
-                            <strong>Legislative Assembly of Ontario</strong>
-                        </a><br/>
-                        <a href="https://johnyakabuski.com" className="text-green-500">
-                            https://johnyakabuski.com
-                        </a><br/>
-                        John Yakabuski<br/>
-                        John.Yakabuski@pc.ola.org<br/>
-                    </p>
-                </div>
-
-                <div className="rounded-lg w-full bg-white p-5">
-                    <p className="text-wrap">
-                        <a href="http://cherylgallant.com" className="text-[#165D8F]">
-                            <strong>Member of Parliament</strong>
-                        </a><br/>
-                        <a href="http://cherylgallant.com" className="text-green-500">
-                            https://johnyakabuski.com
-                        </a><br/>
-                        Cheryl Gallant<br/>
-                        cheryl.gallant@parl.gc.ca<br/>
-                    </p>
-                </div>
             </div>
         </div>
 
         <div className="p-10 bg-green-200">
+            
             <h1 className="pb-0 mb-0 text-3xl font-bold text-center pb-10 text-black center">
                 <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524" className="text-[#165D8F]">
                     <strong>Town of Arnprior</strong>
@@ -154,7 +130,7 @@ const Action = () => {
              </h1>
             <p className="text-center pt-0 mt-0 underline">
                 <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524" className="text-green-800">
-                        https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524
+                        www.arnprior.ca
                 </a>
             </p>
 
@@ -196,6 +172,41 @@ const Action = () => {
                 </div>
             </div>
         </div>
+        <div className="text-center">
+            <div className="px-20 my-0 bg-green-200">
+                <h2 className="pt-5 mt-0 pb-5 mb-0 text-3xl font-bold text-center text-black center text-black">
+                    <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524">
+                        <strong>Legislative Assembly of Ontario</strong>
+                    </a><br/>
+                </h2>
+                <div className="rounded-lg w-full bg-white p-5">
+                    <p className="text-wrap">
+                        <a href="https://johnyakabuski.com" className="text-green-500">
+                            johnyakabuski.com
+                        </a><br/>
+                        John Yakabuski<br/>
+                        John.Yakabuski@pc.ola.org<br/>
+                    </p>
+                </div>
+            </div>
+            <div className="p-20 my-0 bg-green-200">
+                <h2 className="pt-0 mt-0 mb-5 text-3xl font-bold text-center text-black center text-black">
+                    <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524">
+                        <strong>Member of Parliament</strong>
+                    </a><br/>
+                </h2>
+                <div className="rounded-lg w-full bg-white p-5">
+                    <p className="text-wrap center">
+                        <a href="http://cherylgallant.com" className="text-green-500">
+                            johnyakabuski.com
+                        </a><br/>
+                        Cheryl Gallant<br/>
+                        cheryl.gallant@parl.gc.ca<br/>
+                    </p>
+                </div>
+            </div>
+        </div>
+
         <p className="text-center mt-5 pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
 
       </section>
