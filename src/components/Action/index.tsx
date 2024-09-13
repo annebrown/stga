@@ -60,7 +60,13 @@ const Action = () => {
                 </p>
             </div>
         </div>
-        <div className="p-10 rounded-lg grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 md:gap-x-6 lg:gap-x-8 xl:grid-cols-3 h-full bg-green-200">
+<div className="p-10 bg-green-200">
+        <h1 className="text-3xl font-bold text-center pb-10 text-black center">
+        List of Contacts
+        </h1>
+        <div className="rounded-lg grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 md:gap-x-6 lg:gap-x-8 xl:grid-cols-3 h-full ">
+
+    
 
             <div className="rounded-lg w-full bg-green-500 p-5">
                 <p>
@@ -106,7 +112,7 @@ const Action = () => {
             </div>
 
         </div>
-
+        </div>
         <p className="text-center mt-5 pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
 
       </section>
