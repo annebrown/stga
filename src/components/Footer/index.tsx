@@ -28,7 +28,7 @@ const Footer = () => {
 
                     <div className="container mx-auto text-black items-center">
                         <p className="text-center text-xl pb-5"><strong>Contacts</strong></p>
-                        <p className="text-center pb-5"><strong>savethegroveagain@gmail.com</strong></p>
+                        <p className="text-center pb-5">savethegroveagain@gmail.com</p>
                         <p className="flex w-full mx-auto self-center text-center">
                             <span className="flex mx-auto">
 
@@ -79,10 +79,10 @@ const Footer = () => {
                         </p>
                     </div>
 
-                    <div className="float-right mr-10 pr-10 text-black">
+                    <div className="float-right mr-10 pr-10 text-black ">
                         <div className="mb-0">
                             <h2 className="text-xl font-bold text-black mb-5 text-center">
-                                Links
+                                Menu
                             </h2>
                             <ul>
                                 <li className="pb-5 text-base text-center">

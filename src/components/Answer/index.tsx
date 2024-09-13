@@ -16,11 +16,6 @@ const Answer = () => {
                         <p className="text-[#165D8F] text-justify text-sm xs:text-base sm:text-lg md:text-2xl lg:text-3xl 1xl:text-4xl">
                         The last remaining undeveloped area of land that borders the Gillies Grove Old-Growth Forest is being sold to a developer.
                         </p>
-                        <div className="p-5 mt-10 bg-[#38AF34] rounded-lg hover:bg-sky-200 hover:text-black text-white text-3xl font-extrabold w-fit shadow-md mx-auto">
-                            <Link href="/action"  className="h-full">
-                                <button  className="h-full">Get Involved!</button>
-                            </Link>    
-                        </div>
 
                         <div className="grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 lg:grid-cols-3 w-full mt-10 justify-center text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl 1xl:text-1xl self-center text-center">
 
