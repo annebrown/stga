@@ -20,16 +20,34 @@ const BlogPage0002 = () => {
                             <h2 className="mb-8 text-3xl font-bold leading-tight text-black sm:text-4xl sm:leading-tight text-center">
                             STGA Launch Event
                             </h2>
+
+                            <div className="mb-5 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4">
+                                <div className="flex flex-wrap items-center">
+                                    <p className="text-base font-medium text-black">
+                                        September 11, 2024
+                                    </p>
+                                </div>
+                                <div className="mb-0">
+                                    <a
+                                    href="#0"
+                                    className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-black"
+                                    >
+                                        Update
+                                    </a>
+                                </div>
+                            </div>
+
+
                             
                             <div className="text-center px-20">
                                 <div className="mb-10 w-full overflow-hidden rounded">
-                                    <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
-                                    <Image
-                                        src="/images/blog/blog0002/group-pic.svg"
-                                        alt="image"
-                                        fill
-                                        className="object-cover object-center"
-                                    />
+                                    <div className="relative aspect-[100/75] w-full">
+                                        <Image
+                                            src="/images/blog/blog0002/group-pic.svg"
+                                            alt="image"
+                                            fill
+                                            className="object-cover object-center h-fit"
+                                        />
                                     </div>
                                 </div>
                                 <p className="text-left py-2">

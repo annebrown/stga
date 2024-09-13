@@ -23,13 +23,6 @@ const Action = () => {
                     To receive the latest updates, announcements, events, and media coverage, subscribe to our <a className="text-[#38AF34] font-extrabold" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.
                 </p>
             </div>
-        
-            <div className="w-full bg-gray-50 p-5">
-                <h2 className="text-[#165D8F] text-lg font-extrabold">ADD YOUR VOICE</h2>
-                <p className="text-left py-2">
-                We are working on the contact list for those wishing to email, call or mail other parties involved. We will let everyone know by email when that becomes available through our website.
-                </p>
-            </div>
 
             <div className="w-full bg-gray-50 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">SIGN THE PETITION</h2>
@@ -57,9 +50,64 @@ const Action = () => {
                 </p>
             </div>
 
+            <div className="w-full bg-gray-50 p-5">
+                <h2 className="text-[#165D8F] text-lg font-extrabold">SPEAK OUT!</h2>
+                <p className="text-left py-2">
+                    Let’s not underestimate the power of community. 
+                </p>
+                <p className="text-left py-2">
+                Below you will find contact information for the parties involved in the sale of this land, as well as contacts for all levels of government. We urge anyone who opposes the development of adjacent land to Gillies Grove to call or email these parties and get your voice heard! 
+                </p>
+            </div>
+        </div>
+        <div className="p-10 rounded-lg grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 md:gap-x-6 lg:gap-x-8 xl:grid-cols-3 h-full bg-green-200">
+
+            <div className="rounded-lg w-full bg-green-500 p-5">
+                <p>
+                    <a href="https://www.omilacombe.ca" className="text-[#165D8F]"><strong>Missionary Oblates of Mary Immaculate Lacombe Canada</strong></a><br/>
+                    <a href="https://www.omilacombe.ca" className="text-white">https://www.omilacombe.ca</a><br/>
+                    Attention Provincial Council members<br/>
+                    information@omilacombe.ca<br/>
+                    (613) 230-2225<br/>
+                </p>
+            </div>
+            <div className="rounded-lg w-full bg-green-500 p-5">
+                <p>
+                    <a href="https://www.galileecentre.com" className="text-[#165D8F]"><strong>Galilee Centre</strong></a><br/>
+                    <a href="https://www.galileecentre.com" className="text-white">https://www.galileecentre.com</a><br/>
+                    Board President: David Perrin<br/>
+                    communications@galileecentre.com<br/>
+                </p>
+            </div>
+
+
+            <div className="rounded-lg w-full bg-green-500 p-5">
+                <p>
+                    <a href="https://www.thomascavanagh.ca" className="text-[#165D8F]"><strong>Thomas Cavanagh Construction Limited (Cavanagh Communities)</strong></a><br/>
+                    <a href="https://www.thomascavanagh.ca" className="text-white">https://www.thomascavanagh.ca</a><br/>
+                    Owner: Jeff Cavanagh<br/>
+                    Contact: Pierre Dufresne<br/>
+                    pdufresne@thomascavanagh.ca<br/>
+                    Tel: (613) 257-2918<br/>
+                </p>
+            </div>
+
+            <div className="rounded-lg w-full bg-green-500 p-5">
+                <p>
+                <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524" className="text-[#165D8F]"><strong>Town of Arnprior</strong></a><br/>
+                   <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524" className="text-white">https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524</a><br/>
+                    Mayor: Lisa McGee<br/>
+                    lmcgee@arnprior.ca<br/>
+                    ​​613-322-0271<br/>
+
+                    County Councillor: Dan Lynch<br/>
+                    dlynch@arnprior.ca<br/>
+                </p>
+            </div>
+
         </div>
 
-        <p className="text-center pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
+        <p className="text-center mt-5 pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
 
       </section>
     </>

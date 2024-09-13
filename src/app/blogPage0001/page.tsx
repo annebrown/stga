@@ -22,6 +22,8 @@ const BlogPage0001 = () => {
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black sm:text-4xl sm:leading-tight">
                 Save the Grove Again Information Session- Planting the Seed
                 </h2>
+
+                
                 <div className="mb-5 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4">
                     <div className="flex flex-wrap items-center">
                         <p className="text-base font-medium text-black">
