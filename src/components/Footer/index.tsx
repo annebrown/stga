@@ -28,7 +28,11 @@ const Footer = () => {
 
                     <div className="container mx-auto text-black items-center">
                         <p className="text-center text-xl pb-5"><strong>Contacts</strong></p>
-                        <p className="text-center pb-5">savethegroveagain@gmail.com</p>
+                        <p className="text-center pb-5">
+                            <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34] hover:text-primary">
+                                    savethegroveagain@gmail.com
+                            </a>
+                        </p>
                         <p className="flex w-full mx-auto self-center text-center">
                             <span className="flex mx-auto">
 
@@ -37,7 +41,7 @@ const Footer = () => {
                                     aria-label="social-link"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="mr-6 duration-300 hover:text-primary"
+                                    className="mr-6 duration-300 hover:text-primary text-[#38AF34]"
                                 >
                                     <svg
                                         width="18"
@@ -54,7 +58,7 @@ const Footer = () => {
                                     aria-label="social-link"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="mr-6 text-black duration-300 hover:text-primary"
+                                    className="mr-6 duration-300 hover:text-primary text-[#38AF34]"
                                 >
                                     <svg
                                     width="18"
@@ -88,21 +92,21 @@ const Footer = () => {
                                 <li className="pb-5 text-base text-center">
                                 <Link
                                     href="/blog"
-                                    className="text-base text-center duration-300 hover:text-primary">
+                                    className="text-base text-center duration-300 hover:text-primary text-[#38AF34]">
                                     Blog
                                 </Link>
                                 </li>
                                 <li className="pb-5 text-base text-center">
                                 <Link
                                     href="/action"
-                                    className="text-base duration-300 hover:text-primary">
+                                    className="text-base duration-300 hover:text-primary text-[#38AF34]">
                                     Get Involved!
                                 </Link>
                                 </li>
                                 <li className="pb-5 text-base text-center">
                                 <Link
                                     href="/about"
-                                    className="text-base duration-300 hover:text-primary">
+                                    className="text-base duration-300 hover:text-primary text-[#38AF34]">
                                     About
                                 </Link>
                                 </li>

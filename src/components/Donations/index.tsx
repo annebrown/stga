@@ -15,7 +15,7 @@ const Donations = () => {
                 Donations are used to cover the cost of materials including lawn signs, flyers, posters, buttons, website domain name etc. 
                 </p>
                 <p className="text-left py-2">
-                Donations are accepted via Interac E-Transfer. Please send your contribution to: savethegroveagain@gmail.com 
+                Donations are accepted via Interac E-Transfer. Please send your contribution to:  <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">savethegroveagain@gmail.com</a>
                 </p>
                 <p className="text-left py-2">
                 If you are not able to make a donation and would like to help in another way, please fill out our  

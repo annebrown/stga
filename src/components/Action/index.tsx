@@ -109,7 +109,7 @@ const Action = () => {
                         <a href="mailto:information@omilacombe.ca" className="text-[#38AF34]">
                             information@omilacombe.ca<br/>
                         </a>
-                        (613) 230-2225<br/>
+                        <Link href="tel:6132302225" className="text-[#38AF34]">(613)230-2225</Link><br/>
                     </p>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
@@ -140,7 +140,7 @@ const Action = () => {
                         <a href="mailto:pdufresne@thomascavanagh.ca" className="text-[#38AF34]">
                             pdufresne@thomascavanagh.ca<br/>
                         </a>
-                        (613) 257-2918<br/>
+                        <a href="tel:6132572918" className="text-[#38AF34]">(613)257-2918</a><br/>
                     </p>
                 </div>
 
@@ -149,7 +149,7 @@ const Action = () => {
 
         <div className="p-10 bg-green-200">
             
-            <h1 className="pb-0 mb-0 text-3xl font-bold text-center pb-10 text-black center">
+            <h1 className="mb-0 text-3xl font-bold text-center pb-2 text-black center">
                 <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524" className="text-[#165D8F]">
                     <strong>Town of Arnprior</strong>
                 </a><br/>
@@ -166,55 +166,56 @@ const Action = () => {
                     <a href="mailto:lmcgee@arnprior.ca" className="text-[#38AF34]">
                         lmcgee@arnprior.ca<br/>
                     </a>
-                    ​​613-322-0271<br/>
+                    <a href="tel:​6133220271" className="text-[#38AF34]">(613)​322-0271</a><br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     County Councillor: Dan Lynch<br/>
                     <a href="mailto:dlynch@arnprior.ca" className="text-[#38AF34]">
                         dlynch@arnprior.ca<br/>
                     </a>
-                    613-623-0146<br/>
+                    <a href="tel:6136230146" className="text-[#38AF34]">(613)623-0146</a><br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     Councillor: Chris Toner<br/>
                     <a href="mailto:ctoner@arnprior.ca" className="text-[#38AF34]">
                         ctoner@arnprior.ca<br/>
                     </a>
-                    613-913-9571<br/>
+                    <a href="tel:6139139571" className="text-[#38AF34]">(613)913-9571</a><br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     Councillor: Billy Denault<br/>
                     <a href="mailto:bdenault@arnprior.ca" className="text-[#38AF34]">
                         bdenault@arnprior.ca<br/>
                     </a>
-                    613-447-7275<br/>
+                    <a href="tel:6134477275" className="text-[#38AF34]">(613)447-7275</a><br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     Councillor: Chris Couper<br/>
                     <a href="mailto:ccouper@arnprior.ca" className="text-[#38AF34]">
                         ccouper@arnprior.ca<br/>
                     </a>
-                    613-518-4081<br/>
+                    <a href="tel:6135184081" className="text-[#38AF34]">(613)518-4081</a>
+                    <br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     Councillor: Tom Burnette<br/>
                     <a href="mailto:tburnette@arnprior.ca" className="text-[#38AF34]">
                         tburnette@arnprior.ca<br/>
                     </a>
-                    613 623 5630<br/>
+                    <a href="tel:6136235630" className="text-[#38AF34]">(613)623-5630</a>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     Councillor: Lynn Cloutier<br/>
                     <a href="mailto:lcloutier@arnprior.ca" className="text-[#38AF34]">
                         lcloutier@arnprior.ca<br/>
                     </a>
-                    613-371-6036<br/>
+                    <a href="tel:6133716036" className="text-[#38AF34]">(613)371-6036</a><br/>
                 </div>
             </div>
         </div>
         <div className="text-center">
             <div className="px-20 my-0 bg-green-200">
-                <h2 className="pt-5 mt-0 pb-5 mb-0 text-3xl font-bold text-center text-black center text-black">
+                <h2 className="pt-5 mt-0 pb-5 mb-0 text-3xl font-bold text-center center text-black">
                     <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524">
                         <strong>Legislative Assembly of Ontario</strong>
                     </a><br/>
@@ -232,7 +233,7 @@ const Action = () => {
                 </div>
             </div>
             <div className="p-20 my-0 bg-green-200">
-                <h2 className="pt-0 mt-0 mb-5 text-3xl font-bold text-center text-black center text-black">
+                <h2 className="pt-0 mt-0 mb-5 text-3xl font-bold text-center center text-black">
                     <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524">
                         <strong>Member of Parliament</strong>
                     </a><br/>
@@ -240,7 +241,7 @@ const Action = () => {
                 <div className="rounded-lg w-full bg-white p-5">
                     <p className="text-wrap center">
                         <a href="http://cherylgallant.com" className="text-green-500">
-                            johnyakabuski.com
+                        cherylgallant.com
                         </a><br/>
                         Cheryl Gallant<br/>
                         <a href="mailto:cheryl.gallant@parl.gc.ca" className="text-[#38AF34]">

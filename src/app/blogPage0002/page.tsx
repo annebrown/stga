@@ -78,11 +78,15 @@ const BlogPage0002 = () => {
                                     We have set up a volunteer form. If you would like to offer your help please take a few minutes to fill in the <a  className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSc611weSVb3qvnl6KJd6AZ_lmRn0yStEYDpxIkE9bVJhFTeUQ/viewform?usp=sf_link">form</a>.
                                 </p>
                                 <p className="text-left py-2">
-                                    Take a moment to sign the <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> (please note that donations through change.org do not come directly to our cause, please send an e-transfer to savethegroveagain@gmail.com) 
+                                    Take a moment to sign the <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> (please note that donations through change.org do not come directly to our cause, please send an e-transfer to&nbsp;
+                                        <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
+                                    savethegroveagain@gmail.com</a>.
                                 </p>
                                 
                                 <p className="text-left py-2">
-                                    For those who are wanting to make a donation the best way to get money directly to us is via an e-transfer to this email address savethegroveagain@gmail.com. Please share that information with others who may want to contribute.
+                                    For those who are wanting to make a donation the best way to get money directly to us is via an e-transfer to this email address 
+                                    <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
+                                    savethegroveagain@gmail.com</a>. Please share that information with others who may want to contribute.
                                 </p>
 
                             
