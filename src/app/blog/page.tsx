@@ -5,7 +5,7 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog Page",
+  title: "Blog Posts",
   description: "News and Events",
   // other metadata
 };
@@ -14,7 +14,7 @@ const Blog = () => {
   return (
     <>
       <Breadcrumb
-        pageName="Blog Page"
+        pageName="Blog Posts"
         description="News and Events"
       />
 
