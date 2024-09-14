@@ -214,7 +214,7 @@ const Action = () => {
             </div>
         </div>
         <div className="text-center">
-            <div className="px-20 my-0 bg-green-200">
+            <div className="px-10 my-0 bg-green-200">
                 <h2 className="pt-5 mt-0 pb-5 mb-0 text-3xl font-bold text-center center text-black">
                     <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524">
                         <strong>Legislative Assembly of Ontario</strong>
@@ -232,7 +232,7 @@ const Action = () => {
                     </p>
                 </div>
             </div>
-            <div className="p-20 my-0 bg-green-200">
+            <div className="p-10 my-0 bg-green-200">
                 <h2 className="pt-0 mt-0 mb-5 text-3xl font-bold text-center center text-black">
                     <a href="https://www.arnprior.ca/en/town-hall/contact-us.aspx?_mid_=7524">
                         <strong>Member of Parliament</strong>
