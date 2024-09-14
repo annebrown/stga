@@ -45,8 +45,9 @@ const BlogPage0002 = () => {
                                         <Image
                                             src="/images/blog/blog0002/group-pic.svg"
                                             alt="image"
-                                            fill
                                             className="object-cover object-center h-fit"
+                                            width="1000"
+                                            height="750"
                                         />
                                     </div>
                                 </div>
@@ -84,12 +85,40 @@ const BlogPage0002 = () => {
                                 </p>
                                 
                                 <p className="text-left py-2">
-                                    For those who are wanting to make a donation the best way to get money directly to us is via an e-transfer to this email address 
+                                    For those who are wanting to make a donation the best way to get money directly to us is via an e-transfer to email address: &nbsp;
                                     <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
-                                    savethegroveagain@gmail.com</a>. Please share that information with others who may want to contribute.
+                                    savethegroveagain@gmail.com</a>.  Please share that information with others who may want to contribute.
                                 </p>
 
-                            
+                                <div className="py-10 grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 md:gap-x-6 lg:gap-x-8 xl:grid-cols-3">
+                    <Image
+                        className="relative m-0 p-0 rounded-xl w-150px"
+                        src="/images/blog/blog0002/lady-button-and-sign.svg"
+                        alt="Field"
+                        loading="eager"
+                        priority
+                        width={408}
+                        height={544}
+                    />
+                    <Image
+                        className="relative m-0 p-0 rounded-xl w-150px"
+                        src="/images/blog/blog0002/table-and-materials.svg"
+                        alt="Field"
+                        loading="eager"
+                        priority
+                        width={408}
+                        height={544}
+                    />
+                    <Image
+                        className="relative m-0 p-0 rounded-xl w-150px"
+                        src="/images/blog/blog0002/lawn-sign.svg"
+                        alt="Field"
+                        loading="eager"
+                        priority
+                        width={408}
+                        height={544}
+                    />
+                </div>
 
                             </div>
 

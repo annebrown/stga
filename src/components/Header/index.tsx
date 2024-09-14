@@ -48,7 +48,7 @@ const Header = () => {
             className="header-logo">
                 <Image
                     className=""
-                    src="/images/logo-rect.svg"
+                    src="/images/logo/logo-rect.svg"
                     alt="Logo - Trees and water inside a circle, with text: Save the Grove Again"
                     width={462}
                     height={138}

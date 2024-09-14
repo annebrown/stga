@@ -42,7 +42,7 @@ const Answer = () => {
 
                     </div>
                     <div className="h-full rounded-lg p-5 m-5 w-full">
-                        <Image src="/images/map.svg" alt="map" loading="eager" priority width={1301} height={1148} />
+                        <Image src="/images/answer/map.svg" alt="map" loading="eager" priority width={1301} height={1148} />
                     </div>
 
                 </div>
