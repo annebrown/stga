@@ -2,6 +2,24 @@ import { Blog } from "@/types/blog";
 
 const blogData: Blog[] = [
     {
+        id: 3,
+        title: "URGENT REQUEST",
+        paragraph:
+          "Urgent Call to Action for Save the Grove Again Volunteers",
+        image: "/images/blog/blog0003/logo-sq-detail.svg",
+        alt: "Accessibility Text - for plog3 pic",
+        width: 500,
+        height: 500,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["Action"],
+        publishDate: "September 15, 2024",
+        blogURL: "/blogPage0003"
+    },
+    {
         id: 2,
         title: "What's Next, after Well-Attended Launch Event",
         paragraph:
