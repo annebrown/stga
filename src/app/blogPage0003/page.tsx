@@ -123,7 +123,7 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                     </p>
 
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
-We also have a new page up on our website called Get Involved! You can find more contact information for municipal, provincial and federal governments here. We will continue to update it. If you have any suggestions for additions please reach out and let us know. 
+We also have a new page up on our website called <Link href="https://savethegroveagain.com/action" className="duration-300 hover:text-primary text-[#38AF34]">Get Involved!</Link>  You can find more contact information for municipal, provincial and federal governments here. We will continue to update it. If you have any suggestions for additions please reach out and let us know. 
                   </p>
 
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
