@@ -104,23 +104,23 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   There was a request at the community gathering last Saturday that we provide form letters. We feel it is important for these parties to hear from individuals, plus we can't speak for each of you.  Consequently, we have compiled some information to assist you in writing your own letters:
                   </p>
-                  <h3>Thomas Cavanaugh Construction</h3>
-                  <p>In writing to Cavanagh we suggest that you address the concerns about the health and longevity of the Grove and that you impress the rarity of this old growth ecosystem. Please also include any personal reasons that you oppose them purchasing this land to develop. 
+                  <h3 className="text-xl font-bold pb-3">Thomas Cavanaugh Construction</h3>
+                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">In writing to Cavanagh we suggest that you address the concerns about the health and longevity of the Grove and that you impress the rarity of this old growth ecosystem. Please also include any personal reasons that you oppose them purchasing this land to develop. 
                   </p>
 
-                  <h3>Galilee Centre</h3>
+                  <h3 className="text-xl font-bold pb-3">Galilee Centre</h3>
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  <Link className="" href="">
-                    Support Information for Letters to Galilee Centre Board of Directors
-                  </Link>
+                  <Link href="../galilee.tsx" className="mr-6 duration-300 hover:text-primary text-[#38AF34]">
+                        Support Information for Letters to Galilee Centre Board of Directors
+                    </Link>
                   </p>
 
-                  <h3>Missionary Oblates of Mary Immaculate Lacombe Canada</h3>
-                <Link href="../omi-lacombe.tsx"></Link>
-
-                <p>
-                    
-                </p>
+                  <h3 className="text-xl font-bold pb-3">Missionary Oblates of Mary Immaculate Lacombe Canada</h3>
+                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                    <Link href="../omi-lacombe.tsx" className="mr-6 duration-300 hover:text-primary text-[#38AF34]">
+                        Support Information for Letters to OMI Lacombe Provincial Council
+                    </Link>
+                    </p>
 
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
 We also have a new page up on our website called Get Involved! You can find more contact information for municipal, provincial and federal governments here. We will continue to update it. If you have any suggestions for additions please reach out and let us know. 
