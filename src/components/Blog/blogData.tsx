@@ -6,7 +6,7 @@ const blogData: Blog[] = [
         title: "URGENT REQUEST",
         paragraph:
           "Urgent Call to Action for Save the Grove Again Volunteers",
-        image: "/images/blog/blog0003/logo-sq-detail.svg",
+        image: "/images/blog/blog0003/blog3.svg",
         alt: "Accessibility Text - for plog3 pic",
         width: 500,
         height: 500,
