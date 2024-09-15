@@ -137,15 +137,18 @@ We also have a new page up on our website called Get Involved! You can find more
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     
                   <Image
-                  className="inline"
+                  className="inline align-top "
                   src="/images/logo/logo-sq-detail.svg"
                   alt="Logo - Trees and water inside a circle"
                   loading="eager"
                   priority
-                  width={30}
-                  height={30}
+                  
+                  width={40}
+                  height={40}
                 />
-                    Save the Grove Again Committee
+                    &nbsp;<span className="align-bottom">
+                        Save the Grove Again Committee
+                    </span>
                  
                   </p>
 
