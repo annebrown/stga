@@ -257,7 +257,6 @@ const Action = () => {
         <div>
             <div className="w-full bg-white p-5 mt-5 text-center">
 
-                <hr className="border-[#165D8F] border-1" /><br />
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   There was a request at the community gathering last Saturday that we provide form letters. We feel it is important for these parties to hear from individuals, plus we can&apos;t speak for each of you.  Consequently, we have compiled some information to assist you in writing your own letters:
                   </p>
@@ -281,7 +280,7 @@ const Action = () => {
 
                     Additional <Link href="https://docs.google.com/document/d/1RxpQHeKJCeBm7pLh7X_LhudDXYBPwd4ta3epOikFq7Y/edit#" className="duration-300 hover:text-primary text-[#38AF34]">TEMPLATE/EXAMPLE LETTERS</Link>h ave been provided by a community member for letters to Lacombe, Galilee Centre, Cavanagh, Mayor McGee and John Yakabuski, Legislative Assembly of Ontario.
 
-                    <hr className="border-[#165D8F] border-1 my-10" /><br />
+    
 
             </div>
 
