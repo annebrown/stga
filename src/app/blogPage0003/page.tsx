@@ -43,7 +43,7 @@ const BlogPage0003 = () => {
                   <p><strong>Good evening Save the Grove Again community,</strong></p><br></br>
                   <p className="mb-10 text-base font-medium leading-relaxed text-black">
                     
-We are reaching out with a time sensitive request. On Monday September 16th at 5:00pm Cavanagh's due diligence period on their Agreement of Purchase and Sale will end and the deal will move into a different phase, one that will likely be more concrete. If we want any chance to stop this from progressing we need to get loud. We are calling on all 180 of you to make the time between tonight and Monday to write letters to the following parties:
+We are reaching out with a time sensitive request. On Monday September 16th at 5:00pm Cavanagh&quot;s due diligence period on their Agreement of Purchase and Sale will end and the deal will move into a different phase, one that will likely be more concrete. If we want any chance to stop this from progressing we need to get loud. We are calling on all 180 of you to make the time between tonight and Monday to write letters to the following parties:
                   </p>
 
                   
@@ -136,7 +136,7 @@ We also have a new page up on our website called Get Involved! You can find more
 
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     
-                    <Image href="images/logo/logo-sq-detail.svg" height="10" width="10" /> 
+                    <Image href="images/logo/logo-sq-detail.svg"  className="h-10px w-10px"  alt="Logo - Trees and water inside a circle"/> 
                     Save the Grove Again Committee
                  
                   </p>
