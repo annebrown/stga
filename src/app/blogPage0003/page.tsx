@@ -99,8 +99,8 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                             </p>
                         </div>
                     </div>
-                </div>
-
+                </div><br />
+<hr className="border-[#165D8F] border-1" /><br />
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   There was a request at the community gathering last Saturday that we provide form letters. We feel it is important for these parties to hear from individuals, plus we can&apos;t speak for each of you.  Consequently, we have compiled some information to assist you in writing your own letters:
                   </p>
@@ -121,8 +121,9 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                         Support Information for Letters to OMI Lacombe Provincial Council
                     </Link>
                     </p>
+                    <hr className="border-[#165D8F] border-1" /><br />
 
-                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
+                  <p className="mb-8 mt-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
 We also have a new page up on our website called <Link href="https://savethegroveagain.com/action" className="duration-300 hover:text-primary text-[#38AF34]">Get Involved!</Link>  You can find more contact information for municipal, provincial and federal governments here. We will continue to update it. If you have any suggestions for additions please reach out and let us know. 
                   </p>
 
