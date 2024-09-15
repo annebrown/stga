@@ -121,6 +121,9 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                         Support Information for Letters to OMI Lacombe Provincial Council
                     </Link>
                     </p>
+
+                    Additional <Link href="https://docs.google.com/document/d/1RxpQHeKJCeBm7pLh7X_LhudDXYBPwd4ta3epOikFq7Y/edit#" className="duration-300 hover:text-primary text-[#38AF34]">TEMPLATE/EXAMPLE LETTERS</Link> to Lacombe, Galilee Centre, Cavanagh, Mayor McGee and John Yakabuski, Legislative Assembly of Ontario
+
                     <hr className="border-[#165D8F] border-1 my-10" /><br />
 
                     <Image
