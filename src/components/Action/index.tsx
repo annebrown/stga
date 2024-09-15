@@ -278,7 +278,7 @@ const Action = () => {
                     </Link>
                     </p>
 
-                    Additional <Link href="https://docs.google.com/document/d/1RxpQHeKJCeBm7pLh7X_LhudDXYBPwd4ta3epOikFq7Y/edit#" className="duration-300 hover:text-primary text-[#38AF34]">TEMPLATE/EXAMPLE LETTERS</Link>h ave been provided by a community member for letters to Lacombe, Galilee Centre, Cavanagh, Mayor McGee and John Yakabuski, Legislative Assembly of Ontario.
+                    Additional <Link href="https://docs.google.com/document/d/1RxpQHeKJCeBm7pLh7X_LhudDXYBPwd4ta3epOikFq7Y/edit?usp=sharing" className="duration-300 hover:text-primary text-[#38AF34]">TEMPLATE/EXAMPLE LETTERS</Link> have been provided by a community member for letters to Lacombe, Galilee Centre, Cavanagh, Mayor McGee and John Yakabuski, Legislative Assembly of Ontario.
 
     
 
