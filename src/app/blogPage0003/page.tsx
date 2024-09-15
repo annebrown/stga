@@ -121,7 +121,7 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                         Support Information for Letters to OMI Lacombe Provincial Council
                     </Link>
                     </p>
-                    <hr className="border-[#165D8F] border-1" /><br />
+                    <hr className="border-[#165D8F] border-1 my-10" /><br />
 
                     <Image
                         src="/images/blog/blog0003/blog3-2.svg"
