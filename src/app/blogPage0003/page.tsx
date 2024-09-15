@@ -102,12 +102,46 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                 </div>
 
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  Another paragraph.
+                  There was a request at the community gathering last Saturday that we provide form letters. We feel it is important for these parties to hear from individuals, plus we can't speak for each of you.  Consequently, we have compiled some information to assist you in writing your own letters:
+                  </p>
+                  <h3>Thomas Cavanaugh Construction</h3>
+                  <p>In writing to Cavanagh we suggest that you address the concerns about the health and longevity of the Grove and that you impress the rarity of this old growth ecosystem. Please also include any personal reasons that you oppose them purchasing this land to develop. 
                   </p>
 
+                  <h3>Galilee Centre</h3>
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  Another paragraph.
+                  <Link className="" href="">
+                    Support Information for Letters to Galilee Centre Board of Directors
+                  </Link>
                   </p>
+
+                  <h3>Missionary Oblates of Mary Immaculate Lacombe Canada</h3>
+                <Link href="../omi-lacombe.tsx"></Link>
+
+                <p>
+                    
+                </p>
+
+                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
+We also have a new page up on our website called Get Involved! You can find more contact information for municipal, provincial and federal governments here. We will continue to update it. If you have any suggestions for additions please reach out and let us know. 
+                  </p>
+
+                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
+                  Let's keep the ball rolling and not let the momentum gained fizzle out. Share this information with others and ask for help. We can make a difference. Please commit to writing these letters not only for our community but for future generations! 
+                  </p>
+
+                  <p className="text-center pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
+
+
+
+                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                    
+                    <Image href="images/logo/logo-sq-detail.svg" height="10" width="10" /> 
+                    Save the Grove Again Committee
+                 
+                  </p>
+
+
 
                 </div>
             </div>
