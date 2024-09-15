@@ -78,21 +78,24 @@ const Action = () => {
                     </span>. Please share that information with others who may want to contribute.             
                 </p>
             </div>
+        </div>
 
-            <div className="w-full bg-gray-50 p-5">
-                <h2 className="text-[#165D8F] text-lg font-extrabold">
+
+        <div className="p-10 bg-green-200">
+
+            <div className="w-full bg-gray-50 p-5 text-center">
+                <h2 className="text-[#165D8F] text-lg font-extrabold text-center">
                     SPEAK OUT!
                 </h2>
-                <p className="text-left py-2">
+                <p className="text-left py-2 text-center">
                     Let&quot;s not underestimate the power of community. 
                 </p>
-                <p className="text-left py-2">
+                <p className="text-left py-2 text-center">
                     Below you will find contact information for the parties involved in the sale of this land, as well as contacts for all levels of government. We urge anyone who opposes the development of adjacent land to Gillies Grove to call or email these parties and get your voice heard! 
                 </p>
             </div>
-        </div>
-        <div className="p-10 bg-green-200">
-            <h1 className="text-3xl font-bold text-center pb-10 text-black center">
+        
+            <h1 className="mt-5 text-3xl font-bold text-center pb-10 text-black center">
                 List of Contacts
              </h1>
             <div className="rounded-lg grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 md:gap-x-6 lg:gap-x-8 xl:grid-cols-3 h-full ">
@@ -250,6 +253,42 @@ const Action = () => {
                     </p>
                 </div>
             </div>
+        </div>
+        <div>
+            <div className="w-full bg-white p-5 mt-5 text-center">
+
+                <hr className="border-[#165D8F] border-1" /><br />
+                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                  There was a request at the community gathering last Saturday that we provide form letters. We feel it is important for these parties to hear from individuals, plus we can&apos;t speak for each of you.  Consequently, we have compiled some information to assist you in writing your own letters:
+                  </p>
+                  <h3 className="text-xl font-bold pb-3">Thomas Cavanaugh Construction</h3>
+                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">In writing to Cavanagh we suggest that you address the concerns about the health and longevity of the Grove and that you impress the rarity of this old growth ecosystem. Please also include any personal reasons that you oppose them purchasing this land to develop. 
+                  </p>
+
+                  <h3 className="text-xl font-bold pb-3">Galilee Centre</h3>
+                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                  <Link href="https://docs.google.com/document/d/1WkPekfrC49DgsMQOYiMMg8P-Z5KT_9SbPdYENNX_64w/edit" className="mr-6 duration-300 hover:text-primary text-[#38AF34]">
+                        Support Information for Letters to Galilee Centre Board of Directors
+                    </Link>
+                  </p>
+
+                  <h3 className="text-xl font-bold pb-3">Missionary Oblates of Mary Immaculate Lacombe Canada</h3>
+                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                    <Link href="https://docs.google.com/document/d/1WkPekfrC49DgsMQOYiMMg8P-Z5KT_9SbPdYENNX_64w/edit" className="mr-6 duration-300 hover:text-primary text-[#38AF34]">
+                        Support Information for Letters to OMI Lacombe Provincial Council
+                    </Link>
+                    </p>
+
+                    Additional <Link href="https://docs.google.com/document/d/1RxpQHeKJCeBm7pLh7X_LhudDXYBPwd4ta3epOikFq7Y/edit#" className="duration-300 hover:text-primary text-[#38AF34]">TEMPLATE/EXAMPLE LETTERS</Link>h ave been provided by a community member for letters to Lacombe, Galilee Centre, Cavanagh, Mayor McGee and John Yakabuski, Legislative Assembly of Ontario.
+
+                    <hr className="border-[#165D8F] border-1 my-10" /><br />
+
+            </div>
+
+            
+
+
+            
         </div>
 
         <p className="text-center mt-5 pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
