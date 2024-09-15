@@ -43,7 +43,7 @@ const BlogPage0003 = () => {
                   <p><strong>Good evening Save the Grove Again community,</strong></p><br></br>
                   <p className="mb-10 text-base font-medium leading-relaxed text-black">
                     
-We are reaching out with a time sensitive request. On Monday September 16th at 5:00pm Cavanagh&quot;s due diligence period on their Agreement of Purchase and Sale will end and the deal will move into a different phase, one that will likely be more concrete. If we want any chance to stop this from progressing we need to get loud. We are calling on all 180 of you to make the time between tonight and Monday to write letters to the following parties:
+We are reaching out with a time sensitive request. On Monday September 16th at 5:00pm Cavanagh&apos;s due diligence period on their Agreement of Purchase and Sale will end and the deal will move into a different phase, one that will likely be more concrete. If we want any chance to stop this from progressing we need to get loud. We are calling on all 180 of you to make the time between tonight and Monday to write letters to the following parties:
                   </p>
 
                   
@@ -102,7 +102,7 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                 </div>
 
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  There was a request at the community gathering last Saturday that we provide form letters. We feel it is important for these parties to hear from individuals, plus we can&quot;t speak for each of you.  Consequently, we have compiled some information to assist you in writing your own letters:
+                  There was a request at the community gathering last Saturday that we provide form letters. We feel it is important for these parties to hear from individuals, plus we can&apos;t speak for each of you.  Consequently, we have compiled some information to assist you in writing your own letters:
                   </p>
                   <h3 className="text-xl font-bold pb-3">Thomas Cavanaugh Construction</h3>
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">In writing to Cavanagh we suggest that you address the concerns about the health and longevity of the Grove and that you impress the rarity of this old growth ecosystem. Please also include any personal reasons that you oppose them purchasing this land to develop. 
@@ -127,7 +127,7 @@ We also have a new page up on our website called Get Involved! You can find more
                   </p>
 
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
-                  Let&quot;s keep the ball rolling and not let the momentum gained fizzle out. Share this information with others and ask for help. We can make a difference. Please commit to writing these letters not only for our community but for future generations! 
+                  Let&apos;s keep the ball rolling and not let the momentum gained fizzle out. Share this information with others and ask for help. We can make a difference. Please commit to writing these letters not only for our community but for future generations! 
                   </p>
 
                   <p className="text-center pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
