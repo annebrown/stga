@@ -143,10 +143,10 @@ We also have a new page up on our website called <Link href="https://savethegrov
                   loading="eager"
                   priority
                   
-                  width={40}
-                  height={40}
+                  width={60}
+                  height={60}
                 />
-                    &nbsp;<span className="align-bottom">
+                    &nbsp;<span className="align-bottom pb-2">
                         Save the Grove Again Committee
                     </span>
                  
