@@ -9,7 +9,39 @@ const Action = () => {
           
               
         <div className="pb-10 grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 md:gap-x-6 lg:gap-x-8 xl:grid-cols-3 h-full">
-          
+
+            <div className="w-full bg-gray-50 p-5">
+                <h2 className="text-[#165D8F] text-lg font-extrabold">
+                    SIGN THE PETITION
+                </h2>
+                <p className="text-left py-2">
+                    Take a moment to sign the <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> or sign the petition in person at one of the following business locations in town: <br />
+                    Ottawa Valley Coffee, 32 Elgin St. W.<br /> 
+                    Remax Office, 1 Daniel St. N.<br />
+                    Ultimate Fitness Gym, 4-53 James St<br />
+                    Seniors Active Living Centre, 350 John St N.<br />
+                    Tina’s Hair Shop, 57C Madawaska St.
+                </p>
+                <div className="p-2 bg-amber-100 text-black text-xs m-1">
+                    <p className="font-bold pb-0 mb-0.5">
+                        WARNING
+                    </p>
+                    <p>
+                        Donations to change.org DO NOT go towards our cause.  For donations to STGA, please use Interac E-Transfer to:
+                    </p>
+                    <p className="text-[#38AF34] p-0.5 m-0.5 mt-1.5 text-center">
+                        <span className="bg-white p-0.5 px-2">
+                            <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
+                                savethegroveagain@gmail.com
+                            </a>
+                        </span>
+                    </p>
+                </div>
+            </div>
+
+
+
+
             <div className="w-full bg-gray-50 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     SPREAD THE WORD
@@ -31,30 +63,7 @@ const Action = () => {
                 </p>
             </div>
 
-            <div className="w-full bg-gray-50 p-5">
-                <h2 className="text-[#165D8F] text-lg font-extrabold">
-                    SIGN THE PETITION
-                </h2>
-                <p className="text-left py-2">
-                    Take a moment to sign the <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> 
-                </p>
-                <div className="p-2 bg-amber-100 text-black text-xs m-1">
-                    <p className="font-bold pb-0 mb-0.5">
-                        WARNING
-                    </p>
-                    <p>
-                        Donations to change.org DO NOT go towards our cause.  For donations to STGA, please use Interac E-Transfer to:
-                    </p>
-                    <p className="text-[#38AF34] p-0.5 m-0.5 mt-1.5 text-center">
-                        <span className="bg-white p-0.5 px-2">
-                            <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
-                                savethegroveagain@gmail.com
-                            </a>
-                        </span>
-                    </p>
-                </div>
-               
-            </div>
+           
 
             <div className="w-full bg-gray-50 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
