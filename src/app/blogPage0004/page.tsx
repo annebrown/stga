@@ -40,17 +40,15 @@ const BlogPage0004 = () => {
 
                 <div className="text-black">
                     <p>
-                        <strong>STGA Chair, Lacey Smith responds to Galilee Centre&apos;s Newsletter</strong> sent out Monday September 16th, the last day of Cavanagh&apos;s due diligence period.
-                    </p><br></br>
-                    <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                        ---- WILL PUT IMG HERE----
-                    </p>
+                        <strong>STGA Chair, Lacey Smith responds to Galilee Centre's Newsletter</strong> sent out Monday September 16th, the last day of Cavanagh's due diligence period.
+                    </p><br /><br /><br />
                     <div className="mb-10 w-full overflow-hidden rounded">
-                        <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
+                        <div className="relative float-right">
                             <Image
                                 src="/images/blog/blog0004/blog4.svg"
                                 alt="image"
-                                fill
+                                width="592"
+                                height="790"
                                 className="object-cover object-center"
                             />
                         </div>
