@@ -97,12 +97,12 @@ const BlogPage0004 = () => {
                     </p>
                     <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
 
-                        Write a letter to Cavanagh expressing your opposition to a development Owner: Jeff Cavanagh <br />
-                    
+                        Write a letter to Cavanagh expressing your opposition to the development: <br /> 
+Owner: Jeff Cavanagh <br />                    
 Contact: Pierre Dufresne <br />
 pdufresne@thomascavanagh.ca <br />
-613 257-2918 <br />
-Find out about other ways that you can <a href="/action" className="duration-300 hover:text-primary text-[#38AF34]">make a difference</a>  <br /></p>
+613 257-2918 <br /><br /> 
+Find out about other ways that you can <a href="/action" className="duration-300 hover:text-primary text-[#38AF34]">make a difference</a>.  <br /></p>
 
                 </div>
             </div>
