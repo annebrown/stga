@@ -15,13 +15,13 @@ const Action = () => {
                     SIGN THE PETITION
                 </h2>
                 <p className="text-left py-2">
-                    Take a moment to sign the <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> or sign the petition in person at one of the following business locations in town: <br />
-                    Ottawa Valley Coffee, 32 Elgin St. W.<br /> 
-                    Remax Office, 1 Daniel St. N.<br />
-                    Ultimate Fitness Gym, 4-53 James St<br />
-                    Seniors Active Living Centre, 350 John St N.<br />
-                    Tina’s Hair Shop, 57C Madawaska St.
-                </p>
+                    Take a moment to sign the <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> or sign in person at one of the following business locations in town: <br /><br />
+                    <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Ottawa Valley Coffee</span>, 32 Elgin St. W.<br /> 
+                    <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Remax Office</span>, 1 Daniel St. N.<br />
+                    <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Ultimate Fitness Gym</span>, 4-53 James St<br />
+                    <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Seniors Active Living Centre</span>, 350 John St N.<br />
+                    <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Tina’s Hair Shop</span>, 57C Madawaska St.
+                </p><br />
                 <div className="p-2 bg-amber-100 text-black text-xs m-1">
                     <p className="font-bold pb-0 mb-0.5">
                         WARNING
