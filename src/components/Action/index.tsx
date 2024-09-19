@@ -87,10 +87,10 @@ const Action = () => {
                 <h2 className="text-[#165D8F] text-lg font-extrabold text-center">
                     SPEAK OUT!
                 </h2>
-                <p className="text-left py-2 text-center">
+                <p className="py-2 text-center">
                     Let&quot;s not underestimate the power of community. 
                 </p>
-                <p className="text-left py-2 text-center">
+                <p className="py-2 text-center">
                     Below you will find contact information for the parties involved in the sale of this land, as well as contacts for all levels of government. We urge anyone who opposes the development of adjacent land to Gillies Grove to call or email these parties and get your voice heard! 
                 </p>
             </div>

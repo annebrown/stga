@@ -1,0 +1,67 @@
+import SharePost from "@/components/Blog/SharePost";
+import TagButton from "@/components/Blog/TagButton";
+import Image from "next/image";
+
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Latest Blog Placeholder",
+  description: "Placeholder for newest blog",
+  // other metadata
+};
+
+const BlogPage0005 = () => {
+  return (
+    <>
+      <section className="pb-[60px] pt-[75px]">
+        <div className="container">
+          <div className="-mx-4 flex flex-wrap justify-center">
+            <div className="w-full px-4 lg:w-8/12">
+              
+                <h2 className="mb-8 text-3xl font-bold leading-tight text-black sm:text-4xl sm:leading-tight">
+                    Blog 4 Header 1
+                </h2>
+                <div className="mb-5 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4">
+                    <div className="flex flex-wrap items-center">
+                        <p className="text-base font-medium text-black">
+                            September 12, 2024
+                        </p>
+                    </div>
+                    <div className="mb-0">
+                        <a
+                        href="#0"
+                        className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-black"
+                        >
+                        XXXXXXXX
+                        </a>
+                    </div>
+                </div>
+
+                <div className="text-black">
+                  <p><strong>Header 0001</strong></p><br></br>
+                  <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                    Blog4 text
+                  </p>
+                  <div className="mb-10 w-full overflow-hidden rounded">
+                    <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
+                      <Image
+                        src="/images/blog/blog0005/blog4.svg"
+                        alt="image"
+                        fill
+                        className="object-cover object-center"
+                      />
+                    </div>
+                  </div>
+                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                  Another paragraph.
+                  </p>
+                </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+};
+
+export default BlogPage0005;

@@ -2,6 +2,24 @@ import { Blog } from "@/types/blog";
 
 const blogData: Blog[] = [
     {
+        id: 4,
+        title: "RESPONSE TO GALILEE’S LETTER TO THE COMMUNITY",
+        paragraph:
+          "STGA Chair Lacey Smith responds to Galilee Centre’s Newsletter sent out Monday September 16th, the last day of Cavanagh’s due diligence period.",
+        image: "/images/blog/blog0003/blog3.svg",
+        alt: "Accessibility Text - for plog4 pic",
+        width: 500,
+        height: 500,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["Important News"],
+        publishDate: "September 18, 2024",
+        blogURL: "/blogPage0004"
+    },
+    {
         id: 3,
         title: "URGENT REQUEST",
         paragraph:
