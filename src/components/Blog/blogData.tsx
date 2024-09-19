@@ -17,7 +17,7 @@ const blogData: Blog[] = [
         },
         tags: ["Important News"],
         publishDate: "September 18, 2024",
-        blogURL: "/blogPage0004"
+        blogURL: "/blog/posts/blogPage0001"
     },
     {
         id: 3,

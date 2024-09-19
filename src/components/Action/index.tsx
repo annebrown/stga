@@ -16,11 +16,26 @@ const Action = () => {
                 </h2>
                 <p className="text-left py-2">
                     You can <span className="text-amber-600">either</span> sign the <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> <span className="text-amber-600">or</span> sign in person at one of the following locations in town: <br /><br />
-                    <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Ottawa Valley Coffee</span>, 32 Elgin St. W.<br /> 
-                    <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Remax Office</span>, 1 Daniel St. N.<br />
-                    <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Ultimate Fitness Gym</span>, 4-53 James St<br />
-                    <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Seniors Active Living Centre</span>, 350 John St N.<br />
-                    <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Tina’s Hair Shop</span>, 57C Madawaska St.
+                    <span className="text-[#165D8F]">
+                        Ottawa Valley Coffee
+                    </span><br /> 
+                        &nbsp;&nbsp;&nbsp;32 Elgin St. W.<br /> 
+                    <span className="text-[#165D8F]">
+                        Remax Office
+                    </span><br />
+                        &nbsp;&nbsp;&nbsp;1 Daniel St. N.<br />
+                    <span className="text-[#165D8F]">
+                        Ultimate Fitness Gym
+                    </span><br />
+                    &nbsp;&nbsp;&nbsp;4-53 James St<br />
+                    <span className="text-[#165D8F]">
+                        Seniors Active Living Centre
+                    </span><br />
+                        &nbsp;&nbsp;&nbsp;350 John St N.<br />
+                    <span className="text-[#165D8F]">
+                        Tina’s Hair Shop
+                    </span><br />
+                        &nbsp;&nbsp;&nbsp;57C Madawaska St.
                 </p><br />
                 <div className="p-2 bg-amber-100 text-black text-xs m-1">
                     <p className="font-bold pb-0 mb-0.5">
