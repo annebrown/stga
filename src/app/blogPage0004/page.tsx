@@ -40,7 +40,7 @@ const BlogPage0004 = () => {
 
                 <div className="text-black">
                     <p>
-                        <strong>STGA Chair, Lacey Smith responds to Galilee Centre's Newsletter</strong> sent out Monday September 16th, the last day of Cavanagh's due diligence period.
+                        <strong>STGA Chair, Lacey Smith responds to Galilee Centre&apos;s Newsletter</strong> sent out Monday September 16th, the last day of Cavanagh&apos;s due diligence period.
                     </p><br /><br /><br />
                     <div className="mb-10 w-full overflow-hidden rounded">
                         <div className="relative float-right">
