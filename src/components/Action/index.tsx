@@ -15,7 +15,7 @@ const Action = () => {
                     SIGN THE PETITION
                 </h2>
                 <p className="text-left py-2">
-                    Take a moment to sign the <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> or sign in person at one of the following business locations in town: <br /><br />
+                    Take a moment to <span className="text-amber-600">either</span> sign the <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> <span className="text-amber-600">or</span> sign in person at one of the following locations in town: <br /><br />
                     <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Ottawa Valley Coffee</span>, 32 Elgin St. W.<br /> 
                     <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Remax Office</span>, 1 Daniel St. N.<br />
                     <span className="text-[#165D8F]">&nbsp;&nbsp;&nbsp;Ultimate Fitness Gym</span>, 4-53 James St<br />
