@@ -10,7 +10,7 @@ const Action = () => {
               
         <div className="pb-10 grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 md:gap-x-6 lg:gap-x-8 xl:grid-cols-3 h-full">
 
-            <div className="w-full bg-gray-50 p-5">
+            <div className="w-full bg-gray-100 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     SIGN THE PETITION
                 </h2>
@@ -42,7 +42,7 @@ const Action = () => {
 
 
 
-            <div className="w-full bg-gray-50 p-5">
+            <div className="w-full bg-gray-100 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     SPREAD THE WORD
                 </h2>
@@ -54,7 +54,7 @@ const Action = () => {
                 </p>
             </div>
 
-            <div className="w-full bg-gray-50 p-5">
+            <div className="w-full bg-gray-100 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     STAY INFORMED
                 </h2>
@@ -65,7 +65,7 @@ const Action = () => {
 
            
 
-            <div className="w-full bg-gray-50 p-5">
+            <div className="w-full bg-gray-100 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     VOLUNTEER
                 </h2>
@@ -74,7 +74,7 @@ const Action = () => {
                 </p>
             </div>
 
-            <div className="w-full bg-gray-50 p-5">
+            <div className="w-full bg-gray-100 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     MAKE A DONATION
                 </h2>
