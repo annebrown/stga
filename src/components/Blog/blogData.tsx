@@ -34,7 +34,7 @@ const blogData: Blog[] = [
           image: "",
           designation: "",
         },
-        tags: ["Expert Witness"],
+        tags: ["Expert Opinion"],
         publishDate: "September 20, 2024",
         blogURL: "/blog/posts/blogPage0005"
     },
