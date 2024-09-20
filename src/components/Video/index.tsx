@@ -17,7 +17,12 @@ const Video = () => {
             </h2>
 
             <div className="rounded-md w-full">
-                <iframe width="897" height="506" src="https://www.youtube.com/embed/tEgtT1LX-Sk"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className="size-full aspect-video" allowFullScreen></iframe>
+                <iframe 
+                    width="897" height="506" 
+                    src="https://www.youtube.com/embed/tEgtT1LX-Sk"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    className="size-full aspect-video" 
+                    allowFullScreen>
+                </iframe>
             </div>
             </div>
 

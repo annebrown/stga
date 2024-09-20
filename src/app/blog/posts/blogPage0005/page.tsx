@@ -81,10 +81,13 @@ const BlogPage0005 = () => {
                             Together we can find a better way!
                         </p>
                         <div className="rounded-md w-full mb-20">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/iO8HxEQVGZQ?si=ScORcyWMi_B9HcIh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <iframe 
+                                width="560" height="315" 
+                                src="https://www.youtube.com/embed/iO8HxEQVGZQ?si=ScORcyWMi_B9HcIh" 
+                                title="YouTube video player" 
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+                            </iframe>
                         </div>
-
-
 
                         <p><strong>
                             With our deepest appreciation we would like to thank Alberto Suárez-Esteban, Ph.D in Biology with a concentration in Plant Ecology and Conservation, M.Sc in Biodiversity, B.Sc.in Biology, for speaking at the Save the Grove Again launch event on Saturday, September 7, 2024.
