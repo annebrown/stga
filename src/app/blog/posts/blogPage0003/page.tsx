@@ -129,7 +129,7 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                     <Image
                         src="/images/blog/blog0003/blog3-2.svg"
 
-                        alt="Two children in wood-surrounded field"
+                        alt="Two children in woods-bordered field"
                         loading="eager"
                         priority
                         width={1709}

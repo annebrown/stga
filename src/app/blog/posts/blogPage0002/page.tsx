@@ -44,7 +44,7 @@ const BlogPage0002 = () => {
                                     <div className="relative aspect-[100/75] w-full">
                                         <Image
                                             src="/images/blog/blog0002/group-pic.svg"
-                                            alt="image"
+                                            alt="Event Group Photo, plus Update as post category"
                                             className="object-cover object-center h-fit"
                                             width="1000"
                                             height="750"

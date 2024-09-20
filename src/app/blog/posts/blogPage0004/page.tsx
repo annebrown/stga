@@ -46,7 +46,7 @@ const BlogPage0004 = () => {
                         <div className="relative float-right">
                             <Image
                                 src="/images/blog/blog0004/blog4.svg"
-                                alt="image"
+                                alt="Bucolic winding sandy path through forest-bordered field"
                                 width="592"
                                 height="790"
                                 className="object-cover object-center"

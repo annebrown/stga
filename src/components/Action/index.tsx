@@ -23,7 +23,7 @@ const Action = () => {
                     <span className="text-[#165D8F]">
                         Remax Office
                     </span><br />
-                        &nbsp;&nbsp;&nbsp;1 Daniel St. N.<br />
+                        &nbsp;&nbsp;&nbsp;215 Daniel St. S.<br />
                     <span className="text-[#165D8F]">
                         Ultimate Fitness Gym
                     </span><br />
@@ -31,7 +31,7 @@ const Action = () => {
                     <span className="text-[#165D8F]">
                         Seniors Active Living Centre
                     </span><br />
-                        &nbsp;&nbsp;&nbsp;350 John St N.<br />
+                        &nbsp;&nbsp;&nbsp;77B Madawaska St.<br />
                     <span className="text-[#165D8F]">
                         Tina’s Hair Shop
                     </span><br />
