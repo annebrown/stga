@@ -41,7 +41,7 @@ const BlogPage0005 = () => {
                         </div>
 
                         <div className="text-black">
-                            <div class="callout-left wide">
+
 
                                 <p className="font-bold"> 
                                     “At some point we need to show that we have the maturity to understand that what we do to our environment we do to ourselves because we are just a part of it”
@@ -49,7 +49,7 @@ const BlogPage0005 = () => {
                                 <p className="text-right pb-10">
                                     -Alberto Suárez-Esteban, Ph.D, M.Sc, B.Sc.
                                 </p>
-                            </div>
+
                         </div>
                         <div className="mb-10 w-full overflow-hidden rounded">
                             <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
@@ -71,11 +71,11 @@ const BlogPage0005 = () => {
                             However, currently we sit at a crossroads for the tangible future of Gillies Grove. In one direction we have a beacon for biodiversity, community networking and a thriving old-growth forest for generations to come. In the other we have more pavement, more noise and a town with a deteriorating forest. 
                         </p>
                         <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                            This is why we call on the Town of Arnprior and its citizens to help Save the Grove Again. Let's be mature stewards of this land and work together to ensure the security of the forest's health and move towards a future in which Gillies Grove persists for many generations to come. Not only is Gillies Grove a rare part of nature, it is also Arnprior's heart. It's the central organ that connects, cleanses and provides vital nourishment to the people and animals of the town. 
+                            This is why we call on the Town of Arnprior and its citizens to help Save the Grove Again. Let&apos;s be mature stewards of this land and work together to ensure the security of the forest&apos;s health and move towards a future in which Gillies Grove persists for many generations to come. Not only is Gillies Grove a rare part of nature, it is also Arnprior&apos;s heart. It&apos;s the central organ that connects, cleanses and provides vital nourishment to the people and animals of the town. 
                         </p>
                     
                         <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                            Let's keep the heart of Arnprior beating to benefit both current and future generations.
+                            Let&apos;s keep the heart of Arnprior beating to benefit both current and future generations.
                         </p>
                         <p className="text-center mt-5 pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">
                             Together we can find a better way!
