@@ -71,11 +71,11 @@ const BlogPage0005 = () => {
                             However, currently we sit at a crossroads for the tangible future of Gillies Grove. In one direction we have a beacon for biodiversity, community networking and a thriving old-growth forest for generations to come. In the other we have more pavement, more noise and a town with a deteriorating forest. 
                         </p>
                         <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                            This is why we call on the Town of Arnprior and its citizens to help Save the Grove Again. Let’s be mature stewards of this land and work together to ensure the security of the forest's health and move towards a future in which Gillies Grove persists for many generations to come. Not only is Gillies Grove a rare part of nature, it is also Arnprior’s heart. It’s the central organ that connects, cleanses and provides vital nourishment to the people and animals of the town. 
+                            This is why we call on the Town of Arnprior and its citizens to help Save the Grove Again. Let's be mature stewards of this land and work together to ensure the security of the forest's health and move towards a future in which Gillies Grove persists for many generations to come. Not only is Gillies Grove a rare part of nature, it is also Arnprior's heart. It's the central organ that connects, cleanses and provides vital nourishment to the people and animals of the town. 
                         </p>
                     
                         <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                            Let’s keep the heart of Arnprior beating to benefit both current and future generations.
+                            Let's keep the heart of Arnprior beating to benefit both current and future generations.
                         </p>
                         <p className="text-center mt-5 pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">
                             Together we can find a better way!
