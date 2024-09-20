@@ -8,8 +8,8 @@ const blogData: Blog[] = [
           "MMMMMM",
         image: "/images/blog/blog000X/blogX.svg",
         alt: "MMMMMM - Alt text for image",
-        width: MMMMMM - Number,
-        height: MMMMMM - Number,
+        width: 552,
+        height: 296,
         author: {
           name: "",
           image: "",
@@ -19,26 +19,26 @@ const blogData: Blog[] = [
         publishDate: "September MMMMMM-DAY, 2024",
         blogURL: "/blog/posts/blogPage000X"
     },
-
+ */
     {
         id: 5,
-        title: "MMMMMM",
+        title: "Expert Opinion on Proposed Development",
         paragraph:
-          "MMMMMM",
+          "Alberto Suárez-Esteban, Ph.D in Biology with a concentration in Plant Ecology and Conservation, M.Sc in Biodiversity, B.Sc.in Biology, speaks at the STGA Launch event on Saturday, September 7, 2024",
         image: "/images/blog/blog0005/blog5.svg",
-        alt: "MMMMMM - Alt text for image 5",
-        width: 592,
-        height: 790,
+        alt: "Human and dog walk along beautiful wooded trail with signage, Hemlock Loop",
+        width: 552,
+        height: 296,
         author: {
           name: "",
           image: "",
           designation: "",
         },
-        tags: ["MMMMMM - TAG"],
-        publishDate: "September MMMMMM-DAY, 2024",
+        tags: ["Expert Witness"],
+        publishDate: "September 20, 2024",
         blogURL: "/blog/posts/blogPage0005"
     },
-    */
+   
     {
         id: 4,
         title: "RESPONSE TO GALILEE'S LETTER TO THE COMMUNITY",
