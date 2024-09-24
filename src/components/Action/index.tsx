@@ -29,10 +29,6 @@ const Action = () => {
                     </span><br />
                     &nbsp;&nbsp;&nbsp;4-53 James St<br />
                     <span className="text-[#165D8F]">
-                        Seniors Active Living Centre
-                    </span><br />
-                        &nbsp;&nbsp;&nbsp;77B Madawaska St.<br />
-                    <span className="text-[#165D8F]">
                         Tina’s Hair Shop
                     </span><br />
                         &nbsp;&nbsp;&nbsp;57C Madawaska St.
