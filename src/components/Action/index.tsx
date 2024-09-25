@@ -27,7 +27,7 @@ const Action = () => {
                     <span className="text-[#165D8F]">
                         Ultimate Fitness Gym
                     </span><br />
-                    &nbsp;&nbsp;&nbsp;4-53 James St<br />
+                        &nbsp;&nbsp;&nbsp;4-53 James St<br />
                     <span className="text-[#165D8F]">
                         Tina’s Hair Shop
                     </span><br />
