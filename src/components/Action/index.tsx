@@ -27,13 +27,17 @@ const Action = () => {
                     <span className="text-[#165D8F]">
                         Ultimate Fitness Gym
                     </span><br />
-                    &nbsp;&nbsp;&nbsp;4-53 James St<br />
+                        &nbsp;&nbsp;&nbsp;4-53 James St<br />
                     <span className="text-[#165D8F]">
                         Tina’s Hair Shop
                     </span><br />
-                        &nbsp;&nbsp;&nbsp;57C Madawaska St.
-                </p><br />
-                <div className="p-2 bg-amber-100 text-black text-xs m-1">
+                        &nbsp;&nbsp;&nbsp;57C Madawaska St.<br />
+                    <span className="text-[#165D8F]">
+                        The Vintage Crate
+                    </span><br /> 
+                        &nbsp;&nbsp;&nbsp;159 John St. N.<br />
+                </p>
+                <div className="p-2 bg-amber-100 text-black text-xs mt-2">
                     <p className="font-bold pb-0 mb-0.5">
                         WARNING
                     </p>
