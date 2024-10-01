@@ -31,7 +31,11 @@ const Action = () => {
                     <span className="text-[#165D8F]">
                         Tina’s Hair Shop
                     </span><br />
-                        &nbsp;&nbsp;&nbsp;57C Madawaska St.
+                        &nbsp;&nbsp;&nbsp;57C Madawaska St.<br />
+                    <span className="text-[#165D8F]">
+                        The Vintage Crate
+                    </span><br /> 
+                        &nbsp;&nbsp;&nbsp;159 John St. N.<br />
                 </p><br />
                 <div className="p-2 bg-amber-100 text-black text-xs m-1">
                     <p className="font-bold pb-0 mb-0.5">
