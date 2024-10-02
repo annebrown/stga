@@ -36,6 +36,10 @@ const Action = () => {
                         The Vintage Crate
                     </span><br /> 
                         &nbsp;&nbsp;&nbsp;159 John St. N.<br />
+                    <span className="text-[#165D8F]">
+                        Sweet & Sassy Cafe and Bistro
+                    </span><br /> 
+                        &nbsp;&nbsp;&nbsp;114 John St. N.<br />
                 </p>
                 <div className="p-2 bg-amber-100 text-black text-xs mt-2">
                     <p className="font-bold pb-0 mb-0.5">
