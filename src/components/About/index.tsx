@@ -18,9 +18,8 @@ const About = () => {
                 <p className="text-left py-2">
                     To achieve our vision, we will promote community awareness about plans to commercially develop a large portion of the land adjacent to Gillies Grove. We will also advocate for informed and responsible decision-making concerning these plans to ensure the continued public enjoyment of this important site for years to come. 
                 </p>
-                <p className="text-left py-2">
-                    See <a href="/faq" className=" text-[#38AF34]">Frequently Asked Questions</a> for more information.
-                </p>
+                
+
             </div>
           <p className="text-center pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
 

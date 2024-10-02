@@ -27,6 +27,7 @@ const FAQ = () => {
                         Icecream.
                     </p>
                 </div>
+            
             </div>
           <p className="text-center pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
 
