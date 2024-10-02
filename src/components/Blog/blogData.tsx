@@ -27,8 +27,8 @@ const blogData: Blog[] = [
           "BLAH BLAH BLAH",
         image: "/images/blog/blog0006/blog6.svg",
         alt: "Green Globe",
-        width: 552,
-        height: 296,
+        width: 1000,
+        height: 750,
         author: {
           name: "",
           image: "",

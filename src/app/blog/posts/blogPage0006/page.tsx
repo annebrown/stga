@@ -44,7 +44,7 @@ const BlogPage0006 = () => {
                     First Papagraph
                   </p>
                   <div className="mb-10 w-full overflow-hidden rounded">
-                    <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
+                    <div className="relative aspect-[100/75] w-full sm:aspect-[97/44]">
                       <Image
                         src="/images/blog/blog0006/blog6.svg"
                         alt="Green Globe"
