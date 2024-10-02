@@ -30,7 +30,7 @@ const FAQ = () => {
                     2. What is the current zoning of this piece of land? 
                     </p>
                     <p className="text-justify p-2">
-                    The land is predominantly zoned as 'Future Development' with a small strip along the river that is zoned as 'Environmentally Protected'. 
+                    The land is predominantly zoned as &apos;Future Development&apos; with a small strip along the river that is zoned as &apos;Environmentally Protected&apos;. 
                     </p>
                 </div>
             
@@ -39,13 +39,13 @@ const FAQ = () => {
                     3. What will the development be? 
                     </p>
                     <p className="text-justify p-2">
-                    At this time we have heard no official plans about what is being considered for the development of this property. As the Agreement of Purchase and Sale is with 'Cavanagh Communities', a housing complex is assumed but this has never been confirmed nor denied.
+                    At this time we have heard no official plans about what is being considered for the development of this property. As the Agreement of Purchase and Sale is with &apos;Cavanagh Communities&apos;, a housing complex is assumed but this has never been confirmed nor denied.
                     </p>
                 </div>
             
                 <div className="text-center">
                     <p className="text-left p-2 font-bold">
-                    4. Why haven't I heard about this?
+                    4. Why haven&apos;t I heard about this?
                     </p>
                     <p className="text-justify p-2">
                     There has been little made public about this, and most of the information shared from the Galilee Center has been after the fact. The Town themselves were never consulted regarding the future of this land. Unless you are on the Galilee Center mailing list or know someone who is, you probably have not heard about this.
@@ -64,7 +64,7 @@ const FAQ = () => {
 
                 <div className="text-center">
                     <p className="text-left p-2 font-bold">
-                    6. Isn’t this already a done deal?
+                    6. Isn&apos;t this already a done deal?
                     </p>
                     <p className="text-justify p-2">
                     6
@@ -73,7 +73,7 @@ const FAQ = () => {
 
                 <div className="text-center">
                     <p className="text-left p-2 font-bold">
-                    7. But, isn't this just a sale between two private parties?
+                    7. But, isn&apos;t this just a sale between two private parties?
                     </p>
                     <p className="text-justify p-2">
                     This argument can made for insignificant property changes, such as when property will not be altered in any excessive way. This becomes a weak argument when land is being changed dramatically. There are limits to what can be built where and we should all be thankful for that as no one would like a dump site or rifle range next door. Town planning and community involvement must be able to help steer land alterations when those changes will affect them in such a profound way. This is one of those times.
@@ -82,16 +82,16 @@ const FAQ = () => {
 
                 <div className="text-center">
                     <p className="text-left p-2 font-bold">
-                    8. Why didn't the Hospital buy the land?
+                    8. Why didn&apos;t the Hospital buy the land?
                     </p>
                     <p className="text-justify p-2">
-                    What we understand is that the Hospital was in negotiations with the Galilee Centre’s Board of Directors for the purchase of the land for many months. We were told that a verbal agreement had been reached. When the agreement was drawn up in writing by the hospital and submitted to Galilee, all communications ceased. It could be suggested that Galilee Center was no longer content with the terms of the agreement, however that was never brought to the attention of the Hospital's administration.
+                    What we understand is that the Hospital was in negotiations with the Galilee Centre’s Board of Directors for the purchase of the land for many months. We were told that a verbal agreement had been reached. When the agreement was drawn up in writing by the hospital and submitted to Galilee, all communications ceased. It could be suggested that Galilee Center was no longer content with the terms of the agreement, however that was never brought to the attention of the Hospital&apos;s administration.
                     </p>
                 </div>
 
                 <div className="text-center">
                     <p className="text-left p-2 font-bold">
-                    9. Why didn't the Nature Conservancy of Canada buy the land?
+                    9. Why didn&apos;t the Nature Conservancy of Canada buy the land?
                     </p>
                     <p className="text-justify p-2">
                     The Nature Conservancy of Canada has stated that they expressed an interest in buying the land, and that interest was expressed to the Galilee Center. The Galilee Centre Board of Directors never entertained this offer with any discussions. Therefore, they do not know how much land the NCC was interested in purchasing, nor how much they were willing to pay for it.
