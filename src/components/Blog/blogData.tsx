@@ -19,7 +19,7 @@ const blogData: Blog[] = [
         publishDate: "September MMMMMM-DAY, 2024",
         blogURL: "/blog/posts/blogPage000X"
     },
- */
+
     {
         id: 6,
         title: "Big News!",
@@ -38,7 +38,7 @@ const blogData: Blog[] = [
         publishDate: "October 2, 2024",
         blogURL: "/blog/posts/blogPage0006"
     },
- 
+    */
     {
         id: 5,
         title: "Expert Opinion on Proposed Development",
