@@ -6,7 +6,7 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Gig News!",
+  title: "Giving Thanks to the Grove!",
   description: "Arnprior Releases ALL Available Land for Greenspace!",
   // other metadata
 };
@@ -20,7 +20,7 @@ const BlogPage0006 = () => {
             <div className="w-full px-4 lg:w-8/12">
               
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black sm:text-4xl sm:leading-tight">
-                    Big News!
+                Giving Thanks to the Grove
                 </h2>
                 <div className="mb-5 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4">
                     <div className="flex flex-wrap items-center">
@@ -33,15 +33,15 @@ const BlogPage0006 = () => {
                         href="#0"
                         className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-black"
                         >
-                        SOME TAG
+                        EVENT
                         </a>
                     </div>
                 </div>
 
                 <div className="text-black">
-                  <p><strong>Big News!</strong></p><br></br>
+                  <p><strong>BLAH BLAH BLAH BLAH</strong></p><br></br>
                   <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  Arnprior Releases ALL Available Land for Greenspace
+                    First Papagraph
                   </p>
                   <div className="mb-10 w-full overflow-hidden rounded">
                     <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">

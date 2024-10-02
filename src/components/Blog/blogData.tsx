@@ -22,9 +22,9 @@ const blogData: Blog[] = [
   */
     {
         id: 6,
-        title: "Big News!",
+        title: "Giving Thanks to the Grove",
         paragraph:
-          "Arnprior Releases ALL Available Land for Greenspace!",
+          "BLAH BLAH BLAH",
         image: "/images/blog/blog0006/blog6.svg",
         alt: "Green Globe",
         width: 552,
@@ -34,7 +34,7 @@ const blogData: Blog[] = [
           image: "",
           designation: "",
         },
-        tags: ["SOME TAG"],
+        tags: ["EVENT"],
         publishDate: "October 2, 2024",
         blogURL: "/blog/posts/blogPage0006"
     },
