@@ -7,7 +7,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Giving Thanks to the Grove!",
-  description: "Arnprior Releases ALL Available Land for Greenspace!",
+  description: "Silent Walk + Social Gathering",
   // other metadata
 };
 
@@ -39,14 +39,14 @@ const BlogPage0006 = () => {
                 </div>
 
                 <div className="text-black">
-                    <p><strong>BLAH BLAH BLAH BLAH</strong></p><br></br>
+                    <p><strong>Silent Walk + Social Gathering</strong></p><br></br>
                     <p 
                         className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed"
                     >
-                        First Papagraph
+                        Join us as we come together as a community once again to show our dedication to protecting the Grove from future development. We will first take a silent walk together to appreciate our beloved old-growth forest and finish with a gathering to discuss next steps, answer questions and celebrate victories.
                     </p>
-
-                    <div className="aspect-[100/75]">
+                    
+                    <div className="aspect-[100/75] hidden">
                         <Image
                             src="/images/blog/blog0006/blog6.svg"
                             alt="Green Globe"
@@ -56,7 +56,7 @@ const BlogPage0006 = () => {
                     </div>
 
                 
-                    <div className="aspect-[75/100]">
+                    <div className="aspect-[75/100] hidden">
                         <Image
                             src="/images/blog/blog0006/blog6b.svg"
                             alt="Green Globe"
@@ -65,11 +65,30 @@ const BlogPage0006 = () => {
                         />
                     </div>
                
-                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Another paragraph here.
-                  </p>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    YAP
+                    <p className="mb-8 font-bold text-center">
+                    Silent Walk
+                    </p>
+
+                    <p className="mb-8 text-center">
+                        <strong>Where:</strong> Meet at the entrance to Gillies Grove (off Ottawa Street)
+                    </p>
+                    <p className="mb-8 text-center">
+                        <strong>When:</strong> Sunday, October 6, 2024    
+                    </p>
+
+                    <p className="mb-8 text-center">
+                        <strong>Time:</strong> Time: at 11:11 a.m    
+                    </p> 
+
+                    <p className="mb-8 text-center font-bold">
+                        <strong>Social Gathering</strong>
+
+
+Where: at Emmanuel Anglican Church (corner of Ottawa and Harrington) 
+When: After the Walk on Sunday, October 6, 2024
+Time: Estimated time is 11:40 
+*Time could vary slightly
+
                   </p>
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     This is the last paragraph.

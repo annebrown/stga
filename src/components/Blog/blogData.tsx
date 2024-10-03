@@ -24,9 +24,9 @@ const blogData: Blog[] = [
         id: 6,
         title: "Giving Thanks to the Grove",
         paragraph:
-          "BLAH BLAH BLAH",
+          "Silent Walk + Social Gathering",
         image: "/images/blog/blog0006/blog6.svg",
-        alt: "Green Globe",
+        alt: "Beautiful Woodland Path",
         width: 1000,
         height: 750,
         author: {
@@ -35,7 +35,7 @@ const blogData: Blog[] = [
           designation: "",
         },
         tags: ["EVENT"],
-        publishDate: "October 2, 2024",
+        publishDate: "October 3, 2024",
         blogURL: "/blog/posts/blogPage0006"
     },
   
