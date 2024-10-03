@@ -38,8 +38,8 @@ const BlogPage0006 = () => {
                     </div>
                 </div>
 
-                <div className="text-black  text-center">
-                    <p><strong>Silent Walk + Social Gathering</strong></p><br></br>
+          
+                    <p className="text-2xl"><strong>Silent Walk + Social Gathering</strong></p><br></br>
                     <p 
                         className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed  text-center"
                     >
@@ -65,14 +65,14 @@ const BlogPage0006 = () => {
                         />
                     </div>
                
-                    <p className="mb-8 font-bold text-center">
-                    Silent Walk
+                    <p className="mb-8 text-center font-bold text-2xl">
+                        Silent Walk
                     </p>
 
-                    <p className="mb-8 text-center">
+                    <p className="mb-2 text-center">
                         <strong>Where:</strong> Meet at the entrance to Gillies Grove (off Ottawa Street)
                     </p>
-                    <p className="mb-8 text-center">
+                    <p className="mb-2 text-center">
                         <strong>When:</strong> Sunday, October 6, 2024    
                     </p>
 
@@ -80,20 +80,47 @@ const BlogPage0006 = () => {
                         <strong>Time:</strong> Time: at 11:11 a.m    
                     </p> 
 
-                    <p className="mb-8 text-center font-bold">
+
+                    <p className="mb-8 text-center font-bold text-2xl">
                         <strong>Social Gathering</strong>
+                    </p>
 
+                    <p className="mb-2 text-center">
+                        <strong>Where:</strong> at Emmanuel Anglican Church (corner of Ottawa and Harrington)
+                    </p>
+                    <p className="mb-2 text-center">
+                        <strong>When:</strong> After the Walk on Sunday, October 6, 2024  
+                    </p>
 
-Where: at Emmanuel Anglican Church (corner of Ottawa and Harrington) 
-When: After the Walk on Sunday, October 6, 2024
-Time: Estimated time is 11:40 
-*Time could vary slightly
+                    <p className="mb-2 text-center">
+                        <strong>Time:</strong> Estimated time is 11:40    
+                    </p> 
 
-                  </p>
-                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    This is the last paragraph.
-                  </p>
-                </div>
+                    <p className="mb-8 text-center text-xs">
+                        *Time could vary slightly
+                    </p>
+                   
+
+                    <p className="mb-8 text-center italic">
+                    We encourage any and all to attend the social event following the silent walk. The walk is not mandatory to attend the social gathering.
+                    </p>
+
+                    <p className="mb-8 text-center font-bold text-2xl">
+                        This is more than just an event—it is a call to action!
+                    </p>
+
+                    <p className="mb-8">
+                        Our campaign to save the Grove is gaining momentum, and with your support, we are confident that we can stop the development.
+                    </p>
+                    <p className="mb-8">
+                        As we approach Thanksgiving, this silent walk is an opportunity to reflect on the deep history of the Grove, to reaffirm our dedication to preserving it for future generations and a moment for the Community to come together again and continue to take one step at a time towards a better way!
+
+                    </p>
+                    <p className="mb-8">
+                    Let’s keep Growing and ensure that Gillies Grove remains a sanctuary for generations to come.
+                    </p>
+                    <p className="text-center pb-8 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
+
             </div>
           </div>
 
