@@ -9,7 +9,7 @@ const FAQ = () => {
             <h2 className="text-3xl pb-5 mb-5 font-bold text-center">
                 Frequently Asked Questions
             </h2>
-            <div className="flex-col columns-1 md:columns-2 col-gap-8">
+            <div className="flex-col columns-1 md:columns-2 col-gap-10">
   
                 <div className="break-inside-avoid-column">
                     <p className="py-2 font-bold">
