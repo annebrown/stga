@@ -9,7 +9,7 @@ const FAQ = () => {
             <h2 className="text-3xl pb-5 mb-5 font-bold text-center">
                 Frequently Asked Questions
             </h2>
-            <div className="flex-col columns-1 md:columns-2">
+            <div className="flex-col columns-1 md:columns-2 col-gap-8">
   
                 <div className="break-inside-avoid-column">
                     <p className="py-2 font-bold">
@@ -24,16 +24,16 @@ const FAQ = () => {
                     </div>
                 </div>
                     
-                <div className="break-inside-avoid-column">
-              
-                    <p className="text-left p-2 font-bold">
+                <div className="break-inside-avoid-column mt-5">
+                    <p className="text-left p-2 mt-5 font-bold">
                         2. What is the current zoning of this piece of land? 
                     </p>
                     <p className="text-justify p-2">
                         The land is predominantly zoned as &apos;Future Development&apos; with a small strip along the river that is zoned as &apos;Environmentally Protected&apos;. 
                     </p>
                 </div>
-                <div className="break-inside-avoid-column">
+
+                <div className="break-inside-avoid-column mt-5">
                     <p className="text-left p-2 font-bold">
                         3. What will the development be? 
                     </p>
@@ -42,7 +42,7 @@ const FAQ = () => {
                     </p>
                 </div>
             
-                <div className="break-inside-avoid-column">
+                <div className="break-inside-avoid-column mt-5">
                     <p className="text-left p-2 font-bold">
                         4. Why haven&apos;t I heard about this?
                     </p>
@@ -51,7 +51,7 @@ const FAQ = () => {
                     </p>
                 </div>
 
-                <div className="break-inside-avoid-column">
+                <div className="break-inside-avoid-column mt-5">
                     <p className="text-left p-2 font-bold">
                         5. What stage is the sale at now?
                     </p>
@@ -60,7 +60,7 @@ const FAQ = () => {
                     </p>
                 </div>
 
-                <div className="break-inside-avoid-column">
+                <div className="break-inside-avoid-column mt-5">
                     <p className="text-left p-2 font-bold">
                         6. Isn&apos;t this already a done deal?
                     </p>
@@ -69,7 +69,7 @@ const FAQ = () => {
                     </p>
                 </div>
 
-                <div className="break-inside-avoid-column">
+                <div className="break-inside-avoid-column mt-5">
                     <p className="text-left p-2 font-bold">
                         7. But, isn&apos;t this just a sale between two private parties?
                     </p>
@@ -78,7 +78,7 @@ const FAQ = () => {
                     </p>
                 </div>
 
-                <div className="break-inside-avoid-column">
+                <div className="break-inside-avoid-column mt-5">
                     <p className="text-left p-2 font-bold">
                         8. Why didn&apos;t the Hospital buy the land?
                     </p>
@@ -87,7 +87,7 @@ const FAQ = () => {
                     </p>
                 </div>
 
-                <div className="break-inside-avoid-column">
+                <div className="break-inside-avoid-column mt-5">
                     <p className="text-left p-2 font-bold">
                         9. Why didn&apos;t the Nature Conservancy of Canada buy the land?
                     </p>
@@ -96,8 +96,8 @@ const FAQ = () => {
                     </p>
                 </div>
 
-                <div className="break-inside-avoid-column">
-                    <p className="text-left p-2 font-bold bg-amber-300">
+                <div className="break-inside-avoid-column mt-5">
+                    <p className="text-left p-1 mb-2 font-bold bg-amber-300">
                         10. Why is STGA not supporting the Galilee Centre?
                     </p>
                     <p className="text-justify p-2">
@@ -109,7 +109,7 @@ const FAQ = () => {
                     </p>
                 </div>
 
-                <div className="break-inside-avoid-column">
+                <div className="break-inside-avoid-column mt-5">
                     <p className="text-left p-2 font-bold">
                         11. Why is STGA not supporting the Galilee Centre?
                     </p>
@@ -118,7 +118,7 @@ const FAQ = () => {
                     </p>
                 </div>
 
-                <div className="break-inside-avoid-column">
+                <div className="break-inside-avoid-column mt-5">
                     <p className="text-left p-2 font-bold">
                         12. How can I help?
                     </p>
