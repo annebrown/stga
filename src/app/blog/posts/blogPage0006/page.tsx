@@ -46,22 +46,13 @@ const BlogPage0006 = () => {
                         Join us as we come together as a community once again to show our dedication to protecting the Grove from future development. We will first take a silent walk together to appreciate our beloved old-growth forest and finish with a gathering to discuss next steps, answer questions and celebrate victories.
                     </p>
                     
-                    <div className="aspect-[100/75] hidden">
+                    <div className="aspect-[100/75] mb-10 self-center">
                         <Image
                             src="/images/blog/blog0006/blog6.svg"
                             alt="Green Globe"
-                            fill
-                            className="w-10"
-                        />
-                    </div>
+                            width="1000"
+                            height="750"
 
-                
-                    <div className="aspect-[75/100] hidden">
-                        <Image
-                            src="/images/blog/blog0006/blog6b.svg"
-                            alt="Green Globe"
-                            fill
-                            className=""
                         />
                     </div>
                
@@ -105,9 +96,18 @@ const BlogPage0006 = () => {
                     We encourage any and all to attend the social event following the silent walk. The walk is not mandatory to attend the social gathering.
                     </p>
 
-                    <p className="mb-8 text-center font-bold text-2xl">
+                    <p className="mb-15 text-center font-bold text-2xl">
                         This is more than just an event—it is a call to action!
                     </p>
+
+                    <div className="mb-10 mt-10 self-center">
+                        <Image
+                            src="/images/blog/blog0006/blog6b.svg"
+                            alt="Looking up through very tall deciduous trees"
+                            width="750"
+                            height="1000"
+                        />
+                    </div>
 
                     <p className="mb-8">
                         Our campaign to save the Grove is gaining momentum, and with your support, we are confident that we can stop the development.
