@@ -38,10 +38,10 @@ const BlogPage0006 = () => {
                     </div>
                 </div>
 
-                <div className="text-black">
+                <div className="text-black  text-center">
                     <p><strong>Silent Walk + Social Gathering</strong></p><br></br>
                     <p 
-                        className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed"
+                        className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed  text-center"
                     >
                         Join us as we come together as a community once again to show our dedication to protecting the Grove from future development. We will first take a silent walk together to appreciate our beloved old-growth forest and finish with a gathering to discuss next steps, answer questions and celebrate victories.
                     </p>
