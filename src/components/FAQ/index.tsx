@@ -1,29 +1,32 @@
 // /src/components/FAQ/index.tsx
 import Link from "next/link";
-
+import Image from 'next/image';
 const FAQ = () => {
   return (
     <>
       <section id="FAQ" className="realtive z-30 mt-0 p-0 w-full text-black">
           
-            <h2 className="text-3xl pb-3 font-bold text-center">
+            <h2 className="text-3xl pb-5 mb-5 font-bold text-center">
                 Frequently Asked Questions
             </h2>
             <div 
                 className="
-                    grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 
+                    grid  sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 
                     gap-5">
 
-                <div className="text-center">
+                <div>
                     <p className="text-left py-2 font-bold">
                     1. Where is this property that is being considered for development?
                     </p>
-                    <p className="text-justify py-2">
-                    It is approximately 20 acres of land spanning from the eastern edge of the Gillies Grove Nature Reserve, south to Harrington Street, north to the Ottawa River and east to John Street. The piece effectively wraps around the Galilee Center buildings and cemetery, and is best illustrated by this map.
-
-                    (insert map here)
-
-                    </p>
+                    <div className="">
+                        <p className="relative float-left text-justify py-2 w-1/2">
+                        It is approximately 20 acres of land spanning from the eastern edge of the Gillies Grove Nature Reserve, south to Harrington Street, north to the Ottawa River and east to John Street. The piece effectively wraps around the Galilee Center buildings and cemetery, and is best illustrated by this map.
+                        </p>
+                        <div className="relative float-right w-1/2 rounded-lg p-0 pt-5 m-0">
+                            <Image src="/images/answer/map.svg" alt="map" loading="eager" priority width={1301} height={1148} />
+                        </div>
+                    </div>
+                    
                 </div>
                 <div className="text-center">
                     <p className="text-left p-2 font-bold">
@@ -32,9 +35,8 @@ const FAQ = () => {
                     <p className="text-justify p-2">
                     The land is predominantly zoned as &apos;Future Development&apos; with a small strip along the river that is zoned as &apos;Environmentally Protected&apos;. 
                     </p>
-                </div>
-            
-                <div className="text-center">
+                    </div>
+                    <div className="text-center">
                     <p className="text-left p-2 font-bold">
                     3. What will the development be? 
                     </p>
@@ -76,7 +78,7 @@ const FAQ = () => {
                     7. But, isn&apos;t this just a sale between two private parties?
                     </p>
                     <p className="text-justify p-2">
-                    This argument can made for insignificant property changes, such as when property will not be altered in any excessive way. This becomes a weak argument when land is being changed dramatically. There are limits to what can be built where and we should all be thankful for that as no one would like a dump site or rifle range next door. Town planning and community involvement must be able to help steer land alterations when those changes will affect them in such a profound way. This is one of those times.
+                    This argument can be made for insignificant property changes, such as when property will not be altered in any excessive way. This becomes a weak argument when land is being changed dramatically. There are limits to what can be built where and we should all be thankful for that as no one would like a dump site or rifle range next door. Town planning and community involvement must be able to help steer land alterations when those changes will affect them in such a profound way. This is one of those times.
                     </p>
                 </div>
 

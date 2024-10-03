@@ -58,15 +58,12 @@ const Action = () => {
                 </div>
             </div>
 
-
-
-
             <div className="w-full bg-gray-100 p-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     SPREAD THE WORD
                 </h2>
                 <p className="text-left py-2">
-                    We have had a lot of media attention. Let&apos;s keep the ball rolling! Keep telling others, wear your button, hand out flyers, and follow, like and share our Facebook page. To request buttons, lawn signs and flyers, send an email to: &nbsp;  
+                    We have had a lot of media attention. Let&apos;s keep the ball rolling! Keep telling others, wear your button, hand out flyers, and follow, like and share our <a className="text-[#38AF34]" href="https://www.facebook.com/people/Save-the-Grove-Again/61565284064994/">Facebook page</a>. To request buttons, lawn signs and flyers, send an email to: &nbsp;  
                         <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
                             savethegroveagain@gmail.com
                     </a>.
