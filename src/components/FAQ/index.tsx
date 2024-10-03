@@ -110,7 +110,7 @@ const FAQ = () => {
                         11. Why is STGA not supporting the Galilee Centre?
                     </p>
                     <p className="text-justify p-2">
-                    The Galilee Center has been a part of this community for 49 years. The Grove old-growth forest has always been a part of this area. The area surrounding the Galilee Center contains some of the most precious heritage buildings and historical landmarks of all of Arnprior. These date back nearly 200 years. There were options that Galilee could have taken that preserved this area's ecological and historical significance but they chose not to take them. As such, we do not feel that they have displayed community reciprocity and therefor we no longer believe that saving the Galilee is of interest to the people of Arnprior.
+                    The Galilee Center has been a part of this community for 49 years. The Grove old-growth forest has always been a part of this area. The area surrounding the Galilee Center contains some of the most precious heritage buildings and historical landmarks of all of Arnprior. These date back nearly 200 years. There were options that Galilee could have taken that preserved this area&apos;s ecological and historical significance but they chose not to take them. As such, we do not feel that they have displayed community reciprocity and therefor we no longer believe that saving the Galilee is of interest to the people of Arnprior.
                     </p>
                 </div>
 
