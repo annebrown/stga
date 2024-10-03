@@ -7,15 +7,17 @@ const Action = () => {
     <>
       <section id="Action" className="realtive z-30 mt-0 p-0 w-full text-black">
           
-              
-        <div className="pb-10 grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 md:gap-x-6 lg:gap-x-8 xl:grid-cols-3 h-full">
+      <div className="flex-col columns-1 md:columns-2 break-inside-avoid-column my-10">
 
-            <div className="w-full bg-gray-100 p-5">
+            <div className="break-before-colum w-full bg-gray-100 p-5 my-5 mt-0">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     SIGN THE PETITION
                 </h2>
                 <p className="text-left py-2">
-                    You can <span className="text-amber-600">either</span> sign the <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a> <span className="text-amber-600">or</span> sign in person at one of the following locations in town: <br /><br />
+                    You can <span className="text-amber-600">either</span> sign the <a className="text-[#38AF34]"  
+                    href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">
+                        online petition
+                    </a> <span className="text-amber-600">or</span> sign in person at one of the following locations in town: <br /><br />
                     <span className="text-[#165D8F]">
                         Ottawa Valley Coffee
                     </span><br /> 
@@ -58,7 +60,7 @@ const Action = () => {
                 </div>
             </div>
 
-            <div className="w-full bg-gray-100 p-5">
+            <div className="w-full bg-gray-100 p-5  my-5 break-inside-avoid-column">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     SPREAD THE WORD
                 </h2>
@@ -70,7 +72,7 @@ const Action = () => {
                 </p>
             </div>
 
-            <div className="w-full bg-gray-100 p-5">
+            <div className="w-full bg-gray-100 p-5 my-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     STAY INFORMED
                 </h2>
@@ -81,7 +83,7 @@ const Action = () => {
 
            
 
-            <div className="w-full bg-gray-100 p-5">
+            <div className="w-full bg-gray-100 p-5 my-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     VOLUNTEER
                 </h2>
@@ -90,7 +92,7 @@ const Action = () => {
                 </p>
             </div>
 
-            <div className="w-full bg-gray-100 p-5">
+            <div className="w-full bg-gray-100 p-5" my-5>
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     MAKE A DONATION
                 </h2>

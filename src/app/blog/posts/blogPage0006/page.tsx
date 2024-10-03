@@ -16,7 +16,7 @@ const BlogPage0006 = () => {
     <>
       <section className="pb-[60px] pt-[75px]">
         <div className="container">
-          <div className="-mx-4 flex flex-wrap justify-center">
+
             <div className="w-full px-4 lg:w-8/12">
               
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black sm:text-4xl sm:leading-tight">
@@ -39,20 +39,32 @@ const BlogPage0006 = () => {
                 </div>
 
                 <div className="text-black">
-                  <p><strong>BLAH BLAH BLAH BLAH</strong></p><br></br>
-                  <p className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    First Papagraph
-                  </p>
-                  <div className="mb-10 w-full overflow-hidden rounded">
-                    <div className="relative aspect-[100/75] w-full sm:aspect-[97/44]">
-                      <Image
-                        src="/images/blog/blog0006/blog6.svg"
-                        alt="Green Globe"
-                        fill
-                        className="object-cover object-center"
-                      />
+                    <p><strong>BLAH BLAH BLAH BLAH</strong></p><br></br>
+                    <p 
+                        className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed"
+                    >
+                        First Papagraph
+                    </p>
+
+                    <div className="aspect-[100/75]">
+                        <Image
+                            src="/images/blog/blog0006/blog6.svg"
+                            alt="Green Globe"
+                            fill
+                            className="w-10"
+                        />
                     </div>
-                  </div>
+
+                
+                    <div className="aspect-[75/100]">
+                        <Image
+                            src="/images/blog/blog0006/blog6b.svg"
+                            alt="Green Globe"
+                            fill
+                            className=""
+                        />
+                    </div>
+               
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     Another paragraph here.
                   </p>
@@ -65,7 +77,7 @@ const BlogPage0006 = () => {
                 </div>
             </div>
           </div>
-        </div>
+
       </section>
     </>
   );

@@ -9,132 +9,132 @@ const FAQ = () => {
             <h2 className="text-3xl pb-5 mb-5 font-bold text-center">
                 Frequently Asked Questions
             </h2>
-            <div 
-                className="
-                    grid  sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 
-                    gap-5">
-
-                <div>
-                    <p className="text-left py-2 font-bold">
-                    1. Where is this property that is being considered for development?
+            <div className="flex-col columns-1 md:columns-2">
+  
+                <div className="break-inside-avoid-column">
+                    <p className="py-2 font-bold">
+                        1. Where is this property that is being considered for  development?
                     </p>
-                    <div className="">
-                        <p className="relative float-left text-justify py-2 w-1/2">
-                        It is approximately 20 acres of land spanning from the eastern edge of the Gillies Grove Nature Reserve, south to Harrington Street, north to the Ottawa River and east to John Street. The piece effectively wraps around the Galilee Center buildings and cemetery, and is best illustrated by this map.
-                        </p>
-                        <div className="relative float-right w-1/2 rounded-lg p-0 pt-5 m-0">
-                            <Image src="/images/answer/map.svg" alt="map" loading="eager" priority width={1301} height={1148} />
-                        </div>
-                    </div>
                     
-                </div>
-                <div className="text-center">
-                    <p className="text-left p-2 font-bold">
-                    2. What is the current zoning of this piece of land? 
+                    <p className="text-justify py-2">
+                        It is approximately 20 acres of land spanning from the eastern edge of the Gillies Grove Nature Reserve, south to Harrington Street, north to the Ottawa River and east to John Street. The piece effectively wraps around the Galilee Center buildings and cemetery, and is best illustrated by this map.
                     </p>
-                    <p className="text-justify p-2">
-                    The land is predominantly zoned as &apos;Future Development&apos; with a small strip along the river that is zoned as &apos;Environmentally Protected&apos;. 
-                    </p>
+                    <div className="my-5 mr-5 w-full">
+                        <Image src="/images/answer/map.svg" alt="map" loading="eager" priority width={1301} height={1148} />
                     </div>
-                    <div className="text-center">
+                </div>
+                    
+                <div className="break-inside-avoid-column">
+              
                     <p className="text-left p-2 font-bold">
-                    3. What will the development be? 
+                        2. What is the current zoning of this piece of land? 
                     </p>
                     <p className="text-justify p-2">
-                    At this time we have heard no official plans about what is being considered for the development of this property. As the Agreement of Purchase and Sale is with &apos;Cavanagh Communities&apos;, a housing complex is assumed but this has never been confirmed nor denied.
+                        The land is predominantly zoned as &apos;Future Development&apos; with a small strip along the river that is zoned as &apos;Environmentally Protected&apos;. 
+                    </p>
+                </div>
+                <div className="break-inside-avoid-column">
+                    <p className="text-left p-2 font-bold">
+                        3. What will the development be? 
+                    </p>
+                    <p className="text-justify p-2">
+                        At this time we have heard no official plans about what is being considered for the development of this property. As the Agreement of Purchase and Sale is with &apos;Cavanagh Communities&apos;, a housing complex is assumed but this has never been confirmed nor denied.
                     </p>
                 </div>
             
-                <div className="text-center">
+                <div className="break-inside-avoid-column">
                     <p className="text-left p-2 font-bold">
-                    4. Why haven&apos;t I heard about this?
+                        4. Why haven&apos;t I heard about this?
                     </p>
                     <p className="text-justify p-2">
-                    There has been little made public about this, and most of the information shared from the Galilee Center has been after the fact. The Town themselves were never consulted regarding the future of this land. Unless you are on the Galilee Center mailing list or know someone who is, you probably have not heard about this.
+                        There has been little made public about this, and most of the information shared from the Galilee Center has been after the fact. The Town themselves were never consulted regarding the future of this land. Unless you are on the Galilee Center mailing list or know someone who is, you probably have not heard about this.
                     </p>
                 </div>
 
-
-                <div className="text-center">
+                <div className="break-inside-avoid-column">
                     <p className="text-left p-2 font-bold">
-                    5. What stage is the sale at now?
+                        5. What stage is the sale at now?
                     </p>
                     <p className="text-justify p-2">
-                    At this time, Galilee Canter and Cavanagh Communities have an Agreement of Purchase and Sale with a due diligence period that was to expire on September 16th at 5:00pm. Due diligence is typically when a prospective buyer will ensure that the property meets their requirements. No request to sever the land nor rezone it has been made as of yet. The title of this land is still under Galilee Mission Center of Arnprior Corporation. We are not aware what the closing date for the sale is, this information has not been made public. Recently we learned that the due diligence period was extended by Cavanagh for an additional 30 days.
+                        At this time, Galilee Canter and Cavanagh Communities have an Agreement of Purchase and Sale with a due diligence period that was to expire on September 16th at 5:00pm. Due diligence is typically when a prospective buyer will ensure that the property meets their requirements. No request to sever the land nor rezone it has been made as of yet. The title of this land is still under Galilee Mission Center of Arnprior Corporation. We are not aware what the closing date for the sale is, this information has not been made public. Recently we learned that the due diligence period was extended by Cavanagh for an additional 30 days.
                     </p>
                 </div>
 
-                <div className="text-center">
+                <div className="break-inside-avoid-column">
                     <p className="text-left p-2 font-bold">
-                    6. Isn&apos;t this already a done deal?
+                        6. Isn&apos;t this already a done deal?
                     </p>
                     <p className="text-justify p-2">
-                    6
+                        As of this moment, the land has not been sold, it is still owned by Galilee Centre. There is a conditional sale agreement between Cavanagh and Galilee, which either party could walk away from with possible penalties. We do not have the specifics as to what those penalties might be. We have requested meetings with both Cavanagh and Galilee to discuss the terms of this so that another arrangement can be made, but so far neither will meet with us. The community of Arnprior does not want this deal and are willing to do what it takes to find another solution.
                     </p>
                 </div>
 
-                <div className="text-center">
+                <div className="break-inside-avoid-column">
                     <p className="text-left p-2 font-bold">
-                    7. But, isn&apos;t this just a sale between two private parties?
+                        7. But, isn&apos;t this just a sale between two private parties?
                     </p>
                     <p className="text-justify p-2">
-                    This argument can be made for insignificant property changes, such as when property will not be altered in any excessive way. This becomes a weak argument when land is being changed dramatically. There are limits to what can be built where and we should all be thankful for that as no one would like a dump site or rifle range next door. Town planning and community involvement must be able to help steer land alterations when those changes will affect them in such a profound way. This is one of those times.
+                        This argument can be made for insignificant property changes, such as when property will not be altered in any excessive way. This becomes a weak argument when land is being changed dramatically. There are limits to what can be built where and we should all be thankful for that as no one would like a dump site or rifle range next door. Town planning and community involvement must be able to help steer land alterations when those changes will affect them in such a profound way. This is one of those times.
                     </p>
                 </div>
 
-                <div className="text-center">
+                <div className="break-inside-avoid-column">
                     <p className="text-left p-2 font-bold">
-                    8. Why didn&apos;t the Hospital buy the land?
+                        8. Why didn&apos;t the Hospital buy the land?
                     </p>
                     <p className="text-justify p-2">
-                    What we understand is that the Hospital was in negotiations with the Galilee Centre’s Board of Directors for the purchase of the land for many months. We were told that a verbal agreement had been reached. When the agreement was drawn up in writing by the hospital and submitted to Galilee, all communications ceased. It could be suggested that Galilee Center was no longer content with the terms of the agreement, however that was never brought to the attention of the Hospital&apos;s administration.
+                        What we understand is that the Hospital was in negotiations with the Galilee Centre’s Board of Directors for the purchase of the land for many months. We were told that a verbal agreement had been reached. When the agreement was drawn up in writing by the hospital and submitted to Galilee, all communications ceased. It could be suggested that Galilee Center was no longer content with the terms of the agreement, however that was never brought to the attention of the Hospital&apos;s administration.
                     </p>
                 </div>
 
-                <div className="text-center">
+                <div className="break-inside-avoid-column">
                     <p className="text-left p-2 font-bold">
-                    9. Why didn&apos;t the Nature Conservancy of Canada buy the land?
+                        9. Why didn&apos;t the Nature Conservancy of Canada buy the land?
                     </p>
                     <p className="text-justify p-2">
-                    The Nature Conservancy of Canada has stated that they expressed an interest in buying the land, and that interest was expressed to the Galilee Center. The Galilee Centre Board of Directors never entertained this offer with any discussions. Therefore, they do not know how much land the NCC was interested in purchasing, nor how much they were willing to pay for it.
+                        The Nature Conservancy of Canada has stated that they expressed an interest in buying the land, and that interest was expressed to the Galilee Center. The Galilee Centre Board of Directors never entertained this offer with any discussions. Therefore, they do not know how much land the NCC was interested in purchasing, nor how much they were willing to pay for it.
                     </p>
                 </div>
 
-                <div className="text-center">
-                    <p className="text-left p-2 font-bold">
-                    10. Where does the town stand on this?
+                <div className="break-inside-avoid-column">
+                    <p className="text-left p-2 font-bold bg-amber-300">
+                        10. Why is STGA not supporting the Galilee Centre?
                     </p>
                     <p className="text-justify p-2">
-                    10
+                        The Galilee Center has been a part of this community for 49 years. The Grove old-growth forest has always been a part of this area. The area surrounding the Galilee Center contains some of the most precious heritage buildings and historical landmarks of all of Arnprior. These date back nearly 200 years. There were options that Galilee could have taken that preserved this area&apos;s ecological and historical significance but they chose not to take them. As such, we do not feel that they have displayed community reciprocity and therefor we no longer believe that saving the Galilee is of interest to the people of Arnprior
                     </p>
                 </div>
 
-                <div className="text-center">
+                <div className="break-inside-avoid-column">
                     <p className="text-left p-2 font-bold">
-                    11. Why is STGA not supporting the Galilee Centre?
+                        11. Why is STGA not supporting the Galilee Centre?
                     </p>
                     <p className="text-justify p-2">
-                    11
+                    The Galilee Center has been a part of this community for 49 years. The Grove old-growth forest has always been a part of this area. The area surrounding the Galilee Center contains some of the most precious heritage buildings and historical landmarks of all of Arnprior. These date back nearly 200 years. There were options that Galilee could have taken that preserved this area's ecological and historical significance but they chose not to take them. As such, we do not feel that they have displayed community reciprocity and therefor we no longer believe that saving the Galilee is of interest to the people of Arnprior.
                     </p>
                 </div>
 
-                <div className="text-center">
+                <div className="break-inside-avoid-column">
                     <p className="text-left p-2 font-bold">
-                    12. How can I help?
+                        12. How can I help?
                     </p>
                     <p className="text-left p-2">
                         This is one of our most frequently asked questions! Right now we are looking for signatures on our petition, volunteers, and donations. You can also sign up on our mailing list to stay informed. We have devoted a whole page on our website just for this! You can find it <a className="text-[#38AF34]" href="/action">here</a>.
                     </p>
                 </div>
 
-               
-            </div>
-            <p className="pt-5">
-                    If you have any questions that we have not covered on this page, please feel free to send them to us at <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
-                        savethegroveagain.com<br/>
-                    </a>
-                </p>
-          <p className="text-center pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
+        </div>
+           
+        <p className="pt-5">
+            If you have any questions that we have not covered on this page, please feel free to send them to us at <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
+                savethegroveagain.com<br/>
+            </a>
+        </p>
+        <p 
+            className="text-center pb-10 text-2xl weight-bold pt-8 text-[#165D8F] "
+        >
+            Together we can find a better way!
+        </p>
 
       </section>
     </>
