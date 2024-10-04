@@ -13,14 +13,22 @@ const menuData: Menu[] = [
     path: "/blog",
     newTab: false,
   },
+
   {
-    id: 2,
+    id: 3,
     title: "Get Involved!",
     path: "/action",
     newTab: false,
   },
   {
-    id: 3,
+    id: 4,
+    title: "FAQ",
+    path: "/faq",
+    newTab: false,
+  },
+
+  {
+    id: 5,
     title: "ABOUT",
     path: "/about",
     newTab: false,
