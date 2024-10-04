@@ -97,7 +97,7 @@ const FAQ = () => {
                 </div>
 
                 <div className="break-inside-avoid-column mt-5">
-                    <p className="text-left p-1 mb-2 font-bold bg-amber-300">
+                    <p className="text-left p-1 mb-2 font-bold">
                         10. Why is STGA not supporting the Galilee Centre?
                     </p>
                     <p className="text-justify p-2">
