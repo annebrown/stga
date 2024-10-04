@@ -68,7 +68,7 @@ const BlogPage0006 = () => {
                     </p>
 
                     <p className="mb-8 text-center">
-                        <strong>Time:</strong> Time: at 11:11 a.m    
+                        <strong>Time:</strong> 11:11 a.m    
                     </p> 
 
 
