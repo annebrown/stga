@@ -110,7 +110,7 @@ const FAQ = () => {
                         11. How can I help?
                     </p>
                     <p className="text-justify p-2">
-                    This is one of our most frequently asked questions! Right now we are looking for signatures on our petition, volunteers, and donations. We have devoted a whole page on our website just for this! You can find it <a className="text-[#38AF34]" href="/action">here</a>. (link to Get Involved! page) While you are there, sign up for our mailing list so you can stay informed. 
+                    This is one of our most frequently asked questions! Right now we are looking for signatures on our petition, volunteers, and donations. We have devoted a whole page on our website just for this! You can find it <a className="text-[#38AF34]" href="/action">here</a>.  While you are there, sign up for our mailing list so you can stay informed. 
 
                     </p>
                 </div>
