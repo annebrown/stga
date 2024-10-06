@@ -92,7 +92,7 @@ const FAQ = () => {
                         9. Why didn&apos;t the Nature Conservancy of Canada buy the land?
                     </p>
                     <p className="text-justify p-2">
-                        The Nature Conservancy of Canada has stated that they expressed an interest in buying the land, and that interest was expressed to the Galilee Center and to OMI Lacombe. The Galilee Centre Board of Directors never entertained this offer with any discussions. Therefore, they do not know how much land the NCC was interested in purchasing, nor how much they were willing to pay for it.
+                    The Nature Conservancy of Canada has stated that they expressed an interest in buying the land, and that interest was expressed to the Galilee Center and to OMI Lacombe. The Galilee Centre Board of Directors never responded to this request and no discussions were had. Therefore, they do not know how much land the NCC was interested in purchasing, nor how much they were willing to pay for it.
                     </p>
                 </div>
 
