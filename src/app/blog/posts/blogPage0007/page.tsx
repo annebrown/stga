@@ -17,8 +17,9 @@ const BlogPage0007 = () => {
       <section className="pb-[60px] pt-[75px]">
         <div className="container">
 
-            <div className="mx-auto w-full px-4 md:w-8/12 lg:w-8/12 justify-center">
-
+            <div className=
+                "mx-auto w-full px-4 md:w-8/12 lg:w-8/12 justify-center"
+            >
                 <div className="mb-5 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4">
                     <div className="flex flex-wrap items-center">
                         <p className="text-base font-medium text-black">
@@ -30,20 +31,22 @@ const BlogPage0007 = () => {
                         href="#0"
                         className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-black"
                         >
-                        UPDATE
+                            UPDATE
                         </a>
                     </div>
                 </div>
 
           
-                    <p className="text-2xl"><strong>Not a Done Deal!</strong></p><br></br>
+                    <p className="text-2xl">
+                        <strong>Not a Done Deal!</strong>
+                    </p><br></br>
                     <p 
                         className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                     >
-                       This is not a Done Deal - we don&quot;t want a housing development beside and cutting into the Grove, so what is our vision?
+                       This is not a Done Deal - we don&apos;t want a housing development beside and cutting into the Grove, so what is our vision?
                     </p>
                     
-                    <div className="aspect-[500/270]">
+                    <div className="aspect-[500/270] align-center">
                         <Image
                             src="/images/blog/blog0007/blog7.svg"
                             alt="People walking a woodland path"
@@ -56,7 +59,9 @@ const BlogPage0007 = () => {
                     <p className="mb-8 text-center italic">
                         What perfect rule for happiness,—<br />
                         To live and help to live.<br />
-                        <span className="underline">The Pines by Ruby Archer</span> <br />
+                        <span className="underline">
+                            The Pines by Ruby Archer
+                        </span> <br />
                     </p>
 
                     <p className="mb-8">
@@ -78,50 +83,48 @@ const BlogPage0007 = () => {
                         We would like to take a moment to thank all the local businesses, <Link href={"#LocalBusinesses"}className="duration-300 hover:text-primary text-[#38AF34]">listed below</Link> for their support in sharing posters and selling buttons, the media coverage we’ve received <a href="#" className="duration-300 hover:text-primary text-[#38AF34]">(Link coming soon)</a>,and the community members who are writing letters, initiating conversations and showing their support with lawn signs. We couldn’t do it without YOU! Thank you
                     </p>
                     <p className="mb-8 text-center">
-                        Watch and Share our YouTube video <a href="https://www.youtube.com/watch?v=0KzLuBh6jqU&themeRefresh=1" className="duration-300 hover:text-primary text-[#38AF34]">Giving Thanks to the Grove</a>
+                        Watch and Share our YouTube video <a href="https://www.youtube.com/watch?v=0KzLuBh6jqU&themeRefresh=1" className="duration-300 hover:text-primary text-[#38AF34]">Giving Thanks to the Grove:</a>
                     </p>
-                    <p className="mb-8">
+
+
+                    <iframe 
+                        width="897" height="506" 
+                        src="https://www.youtube.com/embed/0KzLuBh6jqU"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        className="size-full aspect-video" 
+                        allowFullScreen>
+                    </iframe>
+                    
+
+                    <p className="mb-8 mt-8">
                         You can find the petition and buttons at the following local businesses:
                     </p>
                     <p className="mb-8 text-center">
-                        Ottawa Valley Coffee<br />32 Elgin St. W.
+                        <span className="font-bold">Ottawa Valley Coffee</span><br />32 Elgin St. W.
                     </p>
                     <p className="mb-8 text-center">
-                        Remax Office<br />215 Daniel St. S.
+                    <span className="font-bold">Remax Office</span><br />215 Daniel St. S.
                     </p>
                     <p className="mb-8 text-center">
-                        Ultimate Fitness Gym<br />4-53 James St
+                    <span className="font-bold">Ultimate Fitness Gym</span><br />4-53 James St
                     </p>
                     <p className="mb-8 text-center">
-                        Tina’s Hair Shop<br />57C Madawaska St.
+                    <span className="font-bold">Tina’s Hair Shop</span><br />57C Madawaska St.
                     </p>
                     <p className="mb-8 text-center">
-                        The Vintage Crate<br />159 John St. N.
+                    <span className="font-bold">The Vintage Crate</span><br />159 John St. N.
                     </p>
                     <p className="mb-8 text-center">
-                        Sweet & Sassy Cafe and Bistro<br />114 John St. N.
+                    <span className="font-bold">Sweet & Sassy Cafe and Bistro</span><br />114 John St. N.
                     </p>
 
-                    <h2 id="LocalBusinesses" className="font-bold text-lg pb-4">Local Businesses</h2>
-                    <p>PLACEHOLDER</p>
-
-                    <p className="bg-orange-400 p-2">Consider moving or adding LOCAL BUSINESS SUPPORT to new blog post because, they need to be highlighted all on their own.  Maybe "Thank you to Local Bussinesses" or something like that?</p>
-
-                    <p className="mb-8">Latest News and Stories:</p><br/>
-        
-                    <h2 id="MediaCoverage" className="font-bold text-lg pb-4">Media Coverage</h2>
-                    <p>PLACEHOLDER</p>
-
-                    <p className="bg-orange-400 p-2">Consider moving or adding MEDIA COVERAGE to new blog post because, literally burying the headline.  lol  Maybe "S</p>
-                    <p className="mb-8">Latest News and Stories:</p>
-        
-
-                    <p className="text-center pb-8 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
+                    <p className="text-center pb-8 text-2xl weight-bold pt-8 text-[#165D8F] ">Together we can find a better way!</p>
 
             </div>
-          </div>
+        </div>
 
+        
       </section>
+
     </>
   );
 };
