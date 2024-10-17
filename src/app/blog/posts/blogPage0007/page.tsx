@@ -18,10 +18,7 @@ const BlogPage0007 = () => {
         <div className="container">
 
             <div className="mx-auto w-full px-4 md:w-8/12 lg:w-8/12 justify-center">
-              
-                <h2 className="mb-8 text-3xl font-bold leading-tight text-black sm:text-4xl sm:leading-tight">
-                Not a Done Deal!
-                </h2>
+
                 <div className="mb-5 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4">
                     <div className="flex flex-wrap items-center">
                         <p className="text-base font-medium text-black">
@@ -43,7 +40,7 @@ const BlogPage0007 = () => {
                     <p 
                         className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                     >
-                       This is not a Done Deal- we don&quot;t want a housing development beside and cutting into the Grove so what is our vision?
+                       This is not a Done Deal - we don&quot;t want a housing development beside and cutting into the Grove so what is our vision?
                     </p>
                     
                     <div className="aspect-[500/270] mb-8 self-center">
