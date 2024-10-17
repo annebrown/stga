@@ -37,7 +37,7 @@
     "**/*.tsx",
     "src/app/newsletter/newsletter.mdx",
     "src/components/Blog/index.tsx"
-  ],
+, "src/app/blog/posts/blogPage0008/page.tsx.placeholder"  ],
   "exclude": [
     "node_modules"
   ]
