@@ -7,7 +7,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Not a Done Deal!",
-  description: "We don’t want a housing development beside and cutting into the Grove.",
+  description: "We don’t want a housing development beside and cutting into the Grove!",
   // other metadata
 };
 
