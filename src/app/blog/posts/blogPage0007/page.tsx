@@ -105,14 +105,14 @@ const BlogPage0007 = () => {
                     <h2 id="LocalBusinesses" className="font-bold text-lg pb-4">Local Businesses</h2>
                     <p>PLACEHOLDER</p>
 
-                    <p className="bg-orange-400 p-2">Consider moving or adding LOCAL BUSINESS SUPPORT to new blog post because, they need to be highlighted all on their own.  lol</p>
+                    <p className="bg-orange-400 p-2">Consider moving or adding LOCAL BUSINESS SUPPORT to new blog post because, they need to be highlighted all on their own.  Maybe "Thank you to Local Bussinesses" or something like that?</p>
 
                     <p className="mb-8">Latest News and Stories:</p><br/>
         
                     <h2 id="MediaCoverage" className="font-bold text-lg pb-4">Media Coverage</h2>
                     <p>PLACEHOLDER</p>
 
-                    <p className="bg-orange-400 p-2">Consider moving or adding MEDIA COVERAGE to new blog post because, literally burying the headline.  lol</p>
+                    <p className="bg-orange-400 p-2">Consider moving or adding MEDIA COVERAGE to new blog post because, literally burying the headline.  lol  Maybe "S</p>
                     <p className="mb-8">Latest News and Stories:</p>
         
 
