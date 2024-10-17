@@ -98,7 +98,7 @@ const BlogPage0007 = () => {
                         You can find the petition and buttons at the local businesses listed below.
                     </p>
 
-                    <h2 id="LocalBusinesses" class="font-bold text-xl pb-4 text-center">Local Businesses</h2>
+                    <h2 id="LocalBusinesses" className="font-bold text-xl pb-4 text-center">Local Businesses</h2>
 
                     <p className="mb-8 text-center">
                         <span className="font-bold">Ottawa Valley Coffee</span><br />32 Elgin St. W.
