@@ -84,17 +84,9 @@ const BlogPage0007 = () => {
                         className="size-full aspect-video" 
                         allowFullScreen>
                     </iframe>
-                    <p className="mb-8">
+                    <p className="mb-8 mt-8">
                         We would like to take a moment to thank all the local businesses, <Link href={"#LocalBusinesses"}className="duration-300 hover:text-primary text-[#38AF34]">listed below</Link> for their support in sharing posters and selling buttons, the media coverage we’ve received, and the community members who are writing letters, initiating conversations and showing their support with lawn signs. We couldn’t do it without YOU! Thank you
                     </p>
-                 
-
-
-
-
-
-                    
-
                     <p className="mb-8 mt-8">
                         You can find the petition and buttons at the local businesses listed below.
                     </p>
