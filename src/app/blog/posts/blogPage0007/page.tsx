@@ -78,6 +78,12 @@ const BlogPage0007 = () => {
                     <p className="mb-8">
                         There is always a solution. Let’s continue to work together “to live and help live”.
                     </p>
+                    <iframe 
+                        width="897" height="506" 
+                        src="https://www.youtube.com/embed/0KzLuBh6jqU"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        className="size-full aspect-video" 
+                        allowFullScreen>
+                    </iframe>
                     <p className="mb-8">
                         We would like to take a moment to thank all the local businesses, <Link href={"#LocalBusinesses"}className="duration-300 hover:text-primary text-[#38AF34]">listed below</Link> for their support in sharing posters and selling buttons, the media coverage we’ve received, and the community members who are writing letters, initiating conversations and showing their support with lawn signs. We couldn’t do it without YOU! Thank you
                     </p>
@@ -86,12 +92,7 @@ const BlogPage0007 = () => {
 
 
 
-                    <iframe 
-                        width="897" height="506" 
-                        src="https://www.youtube.com/embed/0KzLuBh6jqU"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                        className="size-full aspect-video" 
-                        allowFullScreen>
-                    </iframe>
+
                     
 
                     <p className="mb-8 mt-8">
