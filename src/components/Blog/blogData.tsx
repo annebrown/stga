@@ -1,7 +1,8 @@
 import { Blog } from "@/types/blog";
 
 const blogData: Blog[] = [
- /*   {
+    /*  
+    {
         id: X,
         title: "MMMMMM",
         paragraph:
@@ -19,7 +20,25 @@ const blogData: Blog[] = [
         publishDate: "September MMMMMM-DAY, 2024",
         blogURL: "/blog/posts/blogPage000X"
     },
-  */
+    */
+    {
+        id: 7,
+        title: "Not a Done Deal!",
+        paragraph:
+          "We don’t want a housing development beside and cutting into the Grove.",
+        image: "/images/blog/blog0007/blog7.svg",
+        alt: "People walking a woodland path",
+        width: 500,
+        height: 270,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["VISION"],
+        publishDate: "October 17, 2024",
+        blogURL: "/blog/posts/blogPage0007"
+    },
     {
         id: 6,
         title: "Giving Thanks to the Grove",
