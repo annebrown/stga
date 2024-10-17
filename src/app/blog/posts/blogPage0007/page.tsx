@@ -45,14 +45,13 @@ const BlogPage0007 = () => {
                     >
                        This is not a Done Deal - we don&apos;t want a housing development beside and cutting into the Grove, so what is our vision?
                     </p>
-                    
-                    <div className="aspect-[500/270] align-center">
+
+                    <div className="container mx-auto pb-8">
                         <Image
                             src="/images/blog/blog0007/blog7.svg"
                             alt="People walking a woodland path"
                             width="500"
                             height="270"
-                            className="self-center"
                         />
                     </div>
                
