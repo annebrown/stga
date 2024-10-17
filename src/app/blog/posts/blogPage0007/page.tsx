@@ -30,7 +30,7 @@ const BlogPage0007 = () => {
                         href="#0"
                         className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-black"
                         >
-                        VISION
+                        UPDATE
                         </a>
                     </div>
                 </div>
@@ -40,10 +40,10 @@ const BlogPage0007 = () => {
                     <p 
                         className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                     >
-                       This is not a Done Deal - we don&quot;t want a housing development beside and cutting into the Grove so what is our vision?
+                       This is not a Done Deal - we don&quot;t want a housing development beside and cutting into the Grove, so what is our vision?
                     </p>
                     
-                    <div className="aspect-[500/270] mb-8 self-center">
+                    <div className="aspect-[500/270] mb-8 center">
                         <Image
                             src="/images/blog/blog0007/blog7.svg"
                             alt="People walking a woodland path"

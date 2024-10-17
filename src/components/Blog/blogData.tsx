@@ -35,7 +35,7 @@ const blogData: Blog[] = [
           image: "",
           designation: "",
         },
-        tags: ["VISION"],
+        tags: ["UPDATE"],
         publishDate: "October 17, 2024",
         blogURL: "/blog/posts/blogPage0007"
     },
