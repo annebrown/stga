@@ -38,17 +38,18 @@ const BlogPage0007 = () => {
           
                     <p className="text-2xl"><strong>Not a Done Deal!</strong></p><br></br>
                     <p 
-                        className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
+                        className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                     >
                        This is not a Done Deal - we don&quot;t want a housing development beside and cutting into the Grove, so what is our vision?
                     </p>
                     
-                    <div className="aspect-[500/270] mb-8 center">
+                    <div className="aspect-[500/270]">
                         <Image
                             src="/images/blog/blog0007/blog7.svg"
                             alt="People walking a woodland path"
                             width="500"
                             height="270"
+                            className="self-center"
                         />
                     </div>
                
@@ -74,7 +75,7 @@ const BlogPage0007 = () => {
                         There is always a solution. Let’s continue to work together “to live and help live”.
                     </p>
                     <p className="mb-8">
-                        We would like to take a moment to thank all the local businesses (listed below) for their support in sharing posters and selling buttons, the media coverage we’ve received (links below) and the community members who are writing letters, initiating conversations and showing their support with lawn signs. We couldn’t do it without YOU! Thank you
+                        We would like to take a moment to thank all the local businesses, <Link href={"#LocalBusinesses"}className="duration-300 hover:text-primary text-[#38AF34]">listed below</Link> for their support in sharing posters and selling buttons, the media coverage we’ve received <a href="#" className="duration-300 hover:text-primary text-[#38AF34]">(Link coming soon)</a>,and the community members who are writing letters, initiating conversations and showing their support with lawn signs. We couldn’t do it without YOU! Thank you
                     </p>
                     <p className="mb-8 text-center">
                         Watch and Share our YouTube video <a href="https://www.youtube.com/embed/tEgtT1LX-Sk" className="duration-300 hover:text-primary text-[#38AF34]">What’s at Stake</a>
@@ -107,7 +108,8 @@ const BlogPage0007 = () => {
         
 
                     <p className="text-center pb-8 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
-
+                    <h2 id="LocalBusinesses" className="font-bold text-lg pb-4">Local Businesses</h2>
+                    <p>PLACEHOLDER</p>
             </div>
           </div>
 
