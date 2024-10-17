@@ -70,7 +70,7 @@ const BlogPage0007 = () => {
                         This vision can become a reality. The deal has not been finalized and we know there is power in the collective voice and collective action.
                     </p>
                     <p className="mb-8">
-                        Right now, the most proactive thing we can all do is to continue to email Galilee, OMI Lacombe and Cavanagh. If you have already emailed them, please send a reminder letting them know that you still oppose this land being developed and have your voice heard. We support Community development, not housing development! More information, contact and templates can be found <a className="duration-300 hover:text-primary text-[#38AF34]" href="http://192.168.4.21:3003/action">here</a>.
+                        Right now, the most proactive thing we can all do is to continue to email Galilee, OMI Lacombe and Cavanagh. If you have already emailed them, please send a reminder letting them know that you still oppose this land being developed and have your voice heard. We support Community development, not housing development! More information, contact and templates can be found <a className="duration-300 hover:text-primary text-[#38AF34]" href="/action">here</a>.
                     </p>
                     <p className="mb-8">
                         In cooperation with the community, we still see the Nature Conservatory of Canada (NCC) as the most effective stewards of this land. Together we can build a future where the community gardens are expanded, the old-growth forest is left to grow and expand naturally and we honour the community use of this land as a place to connect and learn together.
