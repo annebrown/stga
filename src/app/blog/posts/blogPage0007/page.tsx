@@ -101,15 +101,23 @@ const BlogPage0007 = () => {
                     <p className="mb-8 text-center">
                         Sweet & Sassy Cafe and Bistro<br />114 John St. N.
                     </p>
-                    <p className="bg-orange-400 p-2">Consider Moving to separate blog page because, literally burying the headline.  lol</p>
-                    <p className="mb-8">Latest News and Stories:</p>
-                    <p className="bg-orange-400 p-2">Or continue here</p>
 
+                    <h2 id="LocalBusinesses" className="font-bold text-lg pb-4">Local Businesses</h2>
+                    <p>PLACEHOLDER</p>
+
+                    <p className="bg-orange-400 p-2">Consider moving or adding LOCAL BUSINESS SUPPORT to new blog post because, they need to be highlighted all on their own.  lol</p>
+
+                    <p className="mb-8">Latest News and Stories:</p><br/>
+        
+                    <h2 id="MediaCoverage" className="font-bold text-lg pb-4">Media Coverage</h2>
+                    <p>PLACEHOLDER</p>
+
+                    <p className="bg-orange-400 p-2">Consider moving or adding MEDIA COVERAGE to new blog post because, literally burying the headline.  lol</p>
+                    <p className="mb-8">Latest News and Stories:</p>
         
 
                     <p className="text-center pb-8 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
-                    <h2 id="LocalBusinesses" className="font-bold text-lg pb-4">Local Businesses</h2>
-                    <p>PLACEHOLDER</p>
+
             </div>
           </div>
 
