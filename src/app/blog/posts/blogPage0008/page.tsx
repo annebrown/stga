@@ -39,7 +39,7 @@ const BlogPage0008 = () => {
 
           
                 <p className="text-2xl">
-                    <strong>Response to Cavanagh\'s Announcement</strong>
+                    <strong>Response to Cavanagh&quot;s Announcement</strong>
                 </p><br></br>
                 <p 
                     className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
