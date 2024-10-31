@@ -7,8 +7,8 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Last Chance to Save the Grove",
-  description: "Spread the word near and far!",
+  title: "Response to Cavanagh's Announcement",
+  description: "STGA is not surprised, not deterred",
   // other metadata
 };
 
@@ -47,13 +47,13 @@ const BlogPage0008 = () => {
                     Spread the word near and far!
                 </p>
                 
-                <div className="aspect-[2/2]">
+                <div className="aspect-[500/280]">
                     <Image
                         src="/images/blog/blog0008/blog8.svg"
-                        alt="MMMMMM - Alt AWAITING IMAGE"
-                        width="422"
-                        height="422"
-                        className="self-center"
+                        alt="Sundrenched Woodland Path"
+                        width="500"
+                        height="280"
+                        className="self-center w-full pb-8"
                     />
                 </div>
             

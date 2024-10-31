@@ -25,13 +25,13 @@ const blogData: Blog[] = [
      
     {
         id: 8,
-        title: "Last Chance - Save the Grove",
+        title: "Response to Cavanagh\'s Announcement",
         paragraph:
-          "Spread the word near and far!",
+          "STGA is not surprised, not deterred",
         image: "/images/blog/blog0008/blog8.svg",
-        alt: "MMMMMM - Alt AWAITING IMAGE",
-        width: 300,
-        height: 300,
+        alt: "Sundrenched Woodland Path",
+        width: 500,
+        height: 280,
         author: {
           name: "",
           image: "",
