@@ -79,7 +79,8 @@ const BlogPage0007 = () => {
                         There is always a solution. Let’s continue to work together “to live and help live”.
                     </p>
                     <iframe 
-                        width="897" height="506" 
+                        width="897" 
+                        height="506" 
                         src="https://www.youtube.com/embed/0KzLuBh6jqU"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                         className="size-full aspect-video" 
                         allowFullScreen>

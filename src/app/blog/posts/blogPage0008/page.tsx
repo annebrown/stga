@@ -75,7 +75,13 @@ const BlogPage0008 = () => {
                     Find below the links to the various interviews conducted with the media last week. Our concerns are reaching beyond our borders and appealing to so many people. Please share near and far!
                 </p>
 
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/9YEOtLDpBBw?si=lnuaS_u4fnT2XQhl" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe 
+                width="560" 
+                height="315" 
+                src="https://www.youtube.com/embed/9YEOtLDpBBw?si=lnuaS_u4fnT2XQhl" 
+                title="YouTube video player" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                className="size-full aspect-video"></iframe>
 
                 <br />
                 <h2>CTV News - October 23, 2024 </h2>
