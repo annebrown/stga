@@ -60,7 +60,7 @@ const BlogPage0008 = () => {
                 <p className="mb-8">
 
                 <strong>
-                    Save the Grove Again is not &apos;surprised and not deterred&apos;</strong> regarding Cavangh&apos;s recent announcement of plans to proceed with the purchase of the 20 acres of Galilee Center land bordering the Gillies Grove Nature Reserve.
+                    Save the Grove Again is &apos;not surprised and not deterred&apos;</strong> regarding Cavangh&apos;s recent announcement of plans to proceed with the purchase of the 20 acres of Galilee Center land bordering the Gillies Grove Nature Reserve.
                 </p>
                 <p className="mb-8">               
                     On Monday October 21st Cavangh announced that they will be moving ahead with the purchase of this land, confirming that a housing development is in their plans. Though disappointed to hear this, Save the Grove Again is more committed than ever to protecting the Grove and countering any plans for development in its vicinity. 
