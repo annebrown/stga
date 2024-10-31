@@ -16,11 +16,33 @@ const blogData: Blog[] = [
           image: "",
           designation: "",
         },
-        tags: ["MMMMMM - TAG"],
+        tags: "MMMMMM - TAG",
         publishDate: "September MMMMMM-DAY, 2024",
         blogURL: "/blog/posts/blogPage000X"
     },
     */
+
+     
+    {
+        id: 8,
+        title: "Last Chance - Save the Grove",
+        paragraph:
+          "Spread the word near and far!",
+        image: "/images/blog/blog0008/blog8.svg",
+        alt: "MMMMMM - Alt AWAITING IMAGE",
+        width: 300,
+        height: 300,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ['IMPORTANT NEWS'],
+        publishDate: "October 31, 2024",
+        blogURL: "/blog/posts/blogPage0008"
+    },
+
+
     {
         id: 7,
         title: "Not a Done Deal!",
