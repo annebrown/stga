@@ -39,12 +39,12 @@ const BlogPage0008 = () => {
 
           
                 <p className="text-2xl">
-                    <strong>Last Chance to Save the Grove</strong>
+                    <strong>Response to Cavanagh\'s Announcement</strong>
                 </p><br></br>
                 <p 
                     className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                 >
-                    Spread the word near and far!
+                    STGA is not surprised, not deterred
                 </p>
                 
                 <div className="aspect-[500/280]">
