@@ -77,7 +77,7 @@ const Action = () => {
                     STAY INFORMED
                 </h2>
                 <p className="text-left py-2">
-                    To receive the latest updates, announcements, events, and media coverage, subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/f orms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.
+                    To receive the latest updates, announcements, events, and media coverage, subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.
                 </p>
             </div>
 
