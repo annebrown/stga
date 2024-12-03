@@ -57,7 +57,7 @@ const BlogPage0009 = () => {
                     </div>
                
                     <p className="mb-8">
-                        In collaboration with The Ottawa Field Naturalists' Club, Save the Grove Again is hosting a bio-diversity tour of Gillies Grove December <span className="font-bold">15th</span>. Led by Naturalist Owen Clarke of the OFNC, we will explore the Grove with a focus on its diverse and unique offerings to the natural world, both large and small. Attendees will be taken on a tour of many notable features as well as will be given the chance to explore the Grove at their own pace. There will be an opportunity for questions and to discuss whatever attendees find of interest as they conduct this wondrous tour.
+                        In collaboration with The Ottawa Field Naturalists&apos; Club, Save the Grove Again is hosting a bio-diversity tour of Gillies Grove December <span className="font-bold">15th</span>. Led by Naturalist Owen Clarke of the OFNC, we will explore the Grove with a focus on its diverse and unique offerings to the natural world, both large and small. Attendees will be taken on a tour of many notable features as well as will be given the chance to explore the Grove at their own pace. There will be an opportunity for questions and to discuss whatever attendees find of interest as they conduct this wondrous tour.
                     </p>
 
                     <p className="mb-8">
