@@ -37,7 +37,7 @@ const Footer = () => {
 
                         <p className="text-center m-0 -mt-1 p-0 text-wrap">
                             <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34] hover:text-primary text-xs">
-                                    savethegroveagain@gmail.com
+                                    Email
                             </a>
                         </p>
 
