@@ -9,7 +9,7 @@ const Footer = () => {
 
                 <div className="flex flex-row m-0 p-0 pt-0">
                    
-                    <div className="flex-none p-0 m-0">
+                    <div className="shrink p-0 m-0">
 
                         <Link href="/" className="inline-block m-0 p-0 pl-2w-40 h-5 align-top">
                             <Image
@@ -34,7 +34,7 @@ const Footer = () => {
                             Contacts
                         </strong></p>
 
-                        <p className="text-center m-0 -mt-1 p-0">
+                        <p className="text-center m-0 -mt-1 p-0 text-wrap">
                             <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34] hover:text-primary text-xs">
                                     savethegroveagain@gmail.com
                             </a>
