@@ -35,8 +35,9 @@ Local Community, Greenspace Initiative, for Gillies Grove in Arnprior, ON
 
 ## Tasks
 
-<u>Low Priority</u>
+Low Priority
 
 - Reduce footer margins for viewports < 3-col flex
 - Render Dropdown Navi Menu above Logo 
 
+https://preview.savethegroveagain.com?_vercel_share=FRBKgprVecE6lZASqVXREbZetesO6cBB
