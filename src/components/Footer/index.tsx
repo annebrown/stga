@@ -26,8 +26,11 @@ const Footer = () => {
 
                     </div>
 
+
+
+
                     <div className="inline-block mx-auto text-black items-center m-0 p-0">
-                        <p className="text-center text-xs m-0 p-0"><strong>
+                        <p className="text-center text-sm m-0 p-0"><strong>
                             Contacts
                         </strong></p>
 
@@ -82,9 +85,11 @@ const Footer = () => {
 
                     </div>
 
+
+
                     <div className="flex-none text-black w-fit h-auto">
                         <div className="container mb-0  text-right">
-                            <h2 className="text-xs font-bold text-black mb-0 pb-0">
+                            <h2 className="text-sm font-bold text-black mb-0 pb-0">
                             Menu
                             </h2>
                             <ul>
@@ -114,7 +119,7 @@ const Footer = () => {
                     </div>
                 </div>
 
-                <div className="pb-5 pt-o mt-0 w-full rounded-b-lg">
+                <div className="ml-12 pb-5 pt-0  w-full rounded-b-lg">
                     <p className="text-center text-xs text-black">
                         Copyright @ 2024 Save the Grove Again
                     </p>
