@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className="flex flex-row m-0 p-0 pt-0 ">
                    
 
-                    <div className="!shrink m-0 p-0 pb-3">
+                    <div className="shrink m-0 p-0 pb-3">
 
                         <Link href="/" className="inline-block m-0 p-0 pl-2w-40 h-5 align-top">
                             <Image
@@ -30,7 +30,7 @@ const Footer = () => {
 
 
 
-                    <div className="shrink inline-block mx-auto text-black items-center m-0 p-0 pb-1">
+                    <div className="flex-none inline-block mx-auto text-black items-center m-0 p-0 pb-1">
                         <p className="text-center text-sm m-0 p-0"><strong>
                             Contacts
                         </strong></p>
@@ -88,7 +88,7 @@ const Footer = () => {
 
 
 
-                    <div className="flex-wrap text-black w-fit h-auto pb-1 ">
+                    <div className="flex-none text-black w-fit h-auto pb-1 ">
                         <div className="container mb-0  text-right">
                             <h2 className="text-sm font-bold text-black mb-0 pb-0">
                             Menu
@@ -120,7 +120,7 @@ const Footer = () => {
                     </div>
                 </div>
 
-                <div className="ml-12 pb-5 pt-0  w-full rounded-b-lg">
+                <div className="pb-5 pt-0  w-full rounded-b-lg">
                     <p className="text-center text-xs text-black">
                         Copyright @ 2024 Save the Grove Again
                     </p>
