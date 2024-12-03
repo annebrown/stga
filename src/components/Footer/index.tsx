@@ -9,7 +9,7 @@ const Footer = () => {
 
                 <div className="flex flex-row flex-wrap m-0 p-0 pt-0 ">
                    
-                    <div className="shrink m-0 p-0 pb-1">
+                    <div className="!shrink m-0 p-0 pb-1">
 
                         <Link href="/" className="inline-block m-0 p-0 pl-2w-40 h-5 align-top">
                             <Image
