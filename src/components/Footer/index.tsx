@@ -7,31 +7,30 @@ const Footer = () => {
     <>
         <footer className="relative z-10 w-full b-0 m-0">
 
-
-                <div className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3 w-full m-0 p-0 pt-7">
+                <div className="flex flex-row w-full m-0 p-0 pt-0">
                    
                     <div className="p-0 m-0">
                         <Link href="/" className="inline-block">
                             <Image
                                 src="/images/logo/logo-rect.svg"
                                 alt="Logo - Trees and water inside a circle, with text: Save the Grove Again"
-                                className="w-full m-0 p-0"
-                                width={462} height={138}
+                                className="m-0 p-0 h-20"
+                                width="231" height="69"
                             />
                         </Link>
-                        <p className="m-0 p-0 text-base text-black text-center">
+                        <p className="m-0 -mt-6 p-0 text-sm text-black text-center align-top">
                             Arnprior, ON
                         </p>
                     </div>
 
                     <div className="container mx-auto text-black items-center">
-                        <p className="text-center text-xl pb-5"><strong>Contacts</strong></p>
-                        <p className="text-center pb-5">
+                        <p className="text-center text-base pb-0"><strong>Contacts</strong></p>
+                        <p className="text-center pb-1">
                             <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34] hover:text-primary">
                                     savethegroveagain@gmail.com
                             </a>
                         </p>
-                        <p className="flex w-full mx-auto self-center text-center">
+                        <p className="flex w-full mx-auto align-middle text-center">
                             <span className="flex mx-auto">
 
                                 <a
@@ -39,7 +38,7 @@ const Footer = () => {
                                     aria-label="social-link"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="duration-300 hover:text-primary text-[#38AF34]"
+                                    className="duration-300 hover:text-primary text-[#38AF34] align-bottom"
                                 >
                                     <svg
                                         width="18"
@@ -56,7 +55,7 @@ const Footer = () => {
                                     aria-label="social-link"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="duration-300 hover:text-primary text-[#38AF34]"
+                                    className="duration-300 hover:text-primary text-[#38AF34] align-middle"
                                 >
                                     <svg
                                     width="18"
@@ -75,30 +74,30 @@ const Footer = () => {
                         </p>
                     </div>
 
-                    <div className="text-black">
+                    <div className="flex-none text-black w-fit h-auto">
                         <div className="container mb-0  text-right">
-                            <h2 className="text-xl font-bold text-black mb-5">
+                            <h2 className="text-base font-bold text-black mb-0 pb-0">
                             Menu
                             </h2>
                             <ul>
-                                <li className="pb-3 text-base">
+                                <li className="mb-0 pb-0 text-xs">
                                 <Link
                                     href="/blog"
-                                    className="text-base text-center duration-300 hover:text-primary text-[#38AF34]">
+                                    className="text-sm text-center duration-300 hover:text-primary text-[#38AF34]">
                                     Blog
                                 </Link>
                                 </li>
-                                <li className="pb-3 text-base">
+                                <li className="pb-0 text-sm">
                                 <Link
                                     href="/action"
-                                    className="text-base duration-300 hover:text-primary text-[#38AF34]">
+                                    className="text-sm duration-300 hover:text-primary text-[#38AF34]">
                                     Get Involved!
                                 </Link>
                                 </li>
-                                <li className="pb-5 pl-50text-base">
+                                <li className="pl-0 text-sm pb-0">
                                 <Link
                                     href="/about"
-                                    className="text-base duration-300 hover:text-primary text-[#38AF34]">
+                                    className="text-sm duration-300 hover:text-primary text-[#38AF34]">
                                     About
                                 </Link>
                                 </li>

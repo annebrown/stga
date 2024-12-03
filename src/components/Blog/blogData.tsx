@@ -16,13 +16,31 @@ const blogData: Blog[] = [
           image: "",
           designation: "",
         },
-        tags: "MMMMMM - TAG",
+        tags: ["MMMMMM - TAG"],
         publishDate: "September MMMMMM-DAY, 2024",
         blogURL: "/blog/posts/blogPage000X"
     },
     */
 
-     
+    {
+        id: 9,
+        title: "Gillies Grove Biodiversity Tour",
+        paragraph:
+          "Walk the Grove and learn more about this renowned ecosystem",
+        image: "/images/blog/blog0009/blog9.svg",
+        alt: "Autumn Forest",
+        width: 500,
+        height: 375,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["EVENT"],
+        publishDate: "December 3, 2024",
+        blogURL: "/blog/posts/blogPage0009"
+    },
+    
     {
         id: 8,
         title: "Response to Cavanagh\'s Announcement",
