@@ -7,9 +7,10 @@ const Footer = () => {
     <>
         <footer className="relative z-10 w-full b-0 m-0">
 
-                <div className="flex flex-row flex-wrap m-0 p-0 pt-0 ">
+                <div className="flex flex-row m-0 p-0 pt-0 ">
                    
-                    <div className="!shrink m-0 p-0 pb-1">
+
+                    <div className="!shrink m-0 p-0 pb-3">
 
                         <Link href="/" className="inline-block m-0 p-0 pl-2w-40 h-5 align-top">
                             <Image
@@ -29,7 +30,7 @@ const Footer = () => {
 
 
 
-                    <div className="inline-block mx-auto text-black items-center m-0 p-0 pb-1">
+                    <div className="shrink inline-block mx-auto text-black items-center m-0 p-0 pb-1">
                         <p className="text-center text-sm m-0 p-0"><strong>
                             Contacts
                         </strong></p>
@@ -87,7 +88,7 @@ const Footer = () => {
 
 
 
-                    <div className="flex-none text-black w-fit h-auto pb-1">
+                    <div className="flex-wrap text-black w-fit h-auto pb-1 ">
                         <div className="container mb-0  text-right">
                             <h2 className="text-sm font-bold text-black mb-0 pb-0">
                             Menu
