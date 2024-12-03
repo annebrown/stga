@@ -2,7 +2,7 @@
 // Sections
 import OnlyLatest from "@/components/Blog/onlyLatest";
 // import Brands from "@/components/Brands";
-import ScrollUp from "@/components/Common/ScrollUp";
+// import ScrollUp from "@/components/Common/ScrollUp";
 // import Features from "@/components/Features";
 // import Contact from "@/components/Contact";
 import Hero from "@/components/Hero";
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
 export default function Home() {
   return (
     <>
-      <ScrollUp />
+      {/* <ScrollUp /> */}
       <Hero />
       <Answer />
       <Video />
