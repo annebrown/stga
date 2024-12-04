@@ -37,7 +37,7 @@ const blogData: Blog[] = [
           designation: "",
         },
         tags: ["EVENT"],
-        publishDate: "December 3, 2024",
+        publishDate: "December 4, 2024",
         blogURL: "/blog/posts/blogPage0009"
     },
     

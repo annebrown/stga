@@ -23,7 +23,7 @@ const BlogPage0009 = () => {
                 <div className="mb-5 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4">
                     <div className="flex flex-wrap items-center">
                         <p className="text-base font-medium text-black">
-                            December 3, 2024
+                            December 4, 2024
                         </p>
                     </div>
                     <div className="mb-0">
