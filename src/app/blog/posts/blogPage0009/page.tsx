@@ -77,7 +77,7 @@ const BlogPage0009 = () => {
                     </p>
 
 
-                    <iframe className="mx-auto w-75%"
+                    <iframe className="mx-auto w-[75%]"
                         src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d7913.744781574474!2d-76.3584444!3d45.439194400000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDXCsDI2JzIxLjEiTiA3NsKwMjEnMzAuNCJX!5e1!3m2!1sen!2sca!4v1733227757768!5m2!1sen!2sca" width="500" height="450"  loading="lazy">
                     </iframe>
                 
