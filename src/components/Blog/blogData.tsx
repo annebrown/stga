@@ -21,6 +21,25 @@ const blogData: Blog[] = [
         blogURL: "/blog/posts/blogPage000X"
     },
     */
+     
+    {
+        id: 10,
+        title: "XXXXXXXX",
+        paragraph:
+          "XXXXXXXX",
+        image: "/images/blog/blog0010/blog10.svg",
+        alt: "XXXXXXXX",
+        width: 400,
+        height: 350,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["XXXXXXXX"],
+        publishDate: "December XXXXXXXX, 2024",
+        blogURL: "/blog/posts/blogPage0010"
+    },
 
     {
         id: 9,
