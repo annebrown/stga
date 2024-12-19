@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 const BlogPage0010 = () => {
   return (
     <>
-      <section className="pb-[60px] pt-[75px]">
+      <section className="mx-auto pb-[60px] pt-[75px]">
         <div className="container">
 
             <div className=
@@ -31,7 +31,7 @@ const BlogPage0010 = () => {
                         href="#0"
                         className="inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-black"
                         >
-                            XXXXXXXX TAG XXXXXXXX
+                            XXXXXXXX TAG
                         </a>
                     </div>
                 </div>
