@@ -9,8 +9,8 @@ const blogData: Blog[] = [
           "MMMMMM",
         image: "/images/blog/blog000X/blogX.svg",
         alt: "MMMMMM - Alt text for image",
-        width: 552,
-        height: 296,
+        width: 500,
+        height: 375,
         author: {
           name: "",
           image: "",
@@ -24,20 +24,20 @@ const blogData: Blog[] = [
      
     {
         id: 10,
-        title: "XXXXXXXX",
+        title: "Biodiversity Tour Success",
         paragraph:
-          "XXXXXXXX",
-        image: "/images/blog/blog0010/blog10.svg",
-        alt: "XXXXXXXX",
-        width: 400,
-        height: 350,
+          "amid a snowy backdrop, the diversity of this incredible land shone through!",
+        image: "/images/blog/blog0010/main.svg",
+        alt: "Concerned local citizens join in a beautiful wintery woodland setting.",
+        width: 500,
+        height: 375,
         author: {
           name: "",
           image: "",
           designation: "",
         },
-        tags: ["XXXXXXXX"],
-        publishDate: "December XXXXXXXX, 2024",
+        tags: ["UPDATE"],
+        publishDate: "December 19, 2024",
         blogURL: "/blog/posts/blogPage0010"
     },
 
