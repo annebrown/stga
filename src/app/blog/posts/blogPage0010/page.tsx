@@ -36,7 +36,6 @@ const BlogPage0010 = () => {
                     </div>
                 </div>
 
-          
                     <p className="text-2xl">
                         <strong>Biodiversity Tour Success</strong>
                     </p><br></br>
@@ -46,20 +45,20 @@ const BlogPage0010 = () => {
                        amid a snowy backdrop, the diversity of this incredible land shone through!
                     </p>
                     
-                    <div className="aspect-[400/350]">
-                        <Image
-                            src="/images/blog/blog0010/blog10.svg"
-                            alt="Concerned local citizens join in a beautiful wintery woodland setting."
-                            width="500"
-                            height="375"
-                            className="self-center"
-                        />
-                    </div>
-               
+
+                    <Image
+                        src="/images/blog/blog0010/blog10.svg"
+                        alt="Concerned local citizens join in a beautiful wintery woodland setting."
+                        width="500"
+                        height="375"
+                        className="self-center w-full pb-8"
+                    />
+
                     <p className="mb-8">
                     On December 15th, Save the Grove Again in collaboration with the Ottawa Field Naturalists Club, spent a delightful morning exploring and discovering the biodiversity that Gillies Grove and surrounding areas protect. This amazing walk was led by Owen Clarkin, an Ottawa based naturalist with a specialization in trees. We walked for hours, taking in the stately Eastern White Pines, the hallmark tree of this area. We located the tallest tree in Ontario and marveled at the community of trees contemporary in size (most just a few feet shorter) that surrounded it. We walked deep into the forest as well as explored the areas that were more open. We discussed the cycle of an old growth forest and how it stays healthy. But what was most poignant about this tour was how many different trees were found in such a short time. We were all amazed to learn that beyond the signature White Pine that one would expect here, we also found:
                     </p>
-                    <ol>
+
+                    <ol className="mb-8">
                         <li>Eastern Hemlock</li>
                         <li>Basswood</li>
                         <li>Yellow Birch</li>
@@ -77,7 +76,8 @@ const BlogPage0010 = () => {
                         <li>Beech</li>
                         <li>White Spruce</li>
                     </ol>
-                    <div className="grid grid-cols-2 gap-4 mx-auto">
+
+                    <div className="grid grid-cols-2 gap-4 mx-auto mb-8">
                         <Image
                             src="/images/blog/blog0010/body00.svg"
                             alt="Concerned local citizens join in a beautiful wintery woodland setting."
@@ -93,20 +93,23 @@ const BlogPage0010 = () => {
                             className="self-center"
                         />
                     </div>
+
                     <p className="mb-8">
                     Dozens of shrubs and herbaceous plants were also identified. Imagine what incredible diversity there is to witness when the forest floor is not blanketed with snow! 
                     </p>
+                    
                     <p className="mb-8">
                     We would like to thank Owen Clarkin and the Ottawa Field Naturalist Club for coming to the Grove and sharing their expertise and passion. We are all richer for this knowledge and experience. 
-                        </p>
-                        <div className="mx-auto">
-                        <Image
-                            src="/images/blog/blog0010/body02.svg"
-                            alt="Concerned local citizens join in a beautiful wintery woodland setting."
-                            width="365"
-                            height="500"
-                        />
-                    </div>
+                    </p>
+
+                    <Image
+                        src="/images/blog/blog0010/body02.svg"
+                        alt="Concerned local citizens join in a beautiful wintery woodland setting."
+                        width="365"
+                        height="500"
+                        className="self-center w-full pb-8"
+                    />
+
                     <p className="mb-8">
                     It is with hope that many generations to come have the opportunity to step into the wonder of this old-growth forest. Let&apos;s ensure that the adjacent land, which safeguards the forest&apos;s future, is protected from development that will inevitably harm the health and sustainability of this biodiverse haven.
                     </p>
