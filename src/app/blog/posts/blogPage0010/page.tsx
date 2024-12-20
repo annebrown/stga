@@ -108,7 +108,7 @@ const BlogPage0010 = () => {
                         />
                     </div>
                     <p className="mb-8">
-                    It is with hope that many generations to come have the opportunity to step into the wonder of this old-growth forest. Let’s ensure that the adjacent land, which safeguards the forest's future, is protected from development that will inevitably harm the health and sustainability of this biodiverse haven.
+                    It is with hope that many generations to come have the opportunity to step into the wonder of this old-growth forest. Let&apos;s ensure that the adjacent land, which safeguards the forest&apos;s future, is protected from development that will inevitably harm the health and sustainability of this biodiverse haven.
                     </p>
 
                     <p className="text-center pb-8 text-2xl weight-bold pt-8 text-[#165D8F] ">Together we can find a better way!</p>
