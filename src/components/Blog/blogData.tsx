@@ -30,7 +30,7 @@ const blogData: Blog[] = [
         image: "/images/blog/blog0010/main.svg",
         alt: "Concerned local citizens join in a beautiful wintery woodland setting.",
         width: 500,
-        height: 375,
+        height: 450,
         author: {
           name: "",
           image: "",

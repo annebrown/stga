@@ -43,7 +43,7 @@ const BlogPage0010 = () => {
                 <p 
                     className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                 >
-                    amid a snowy backdrop, the diversity of this incredible land shone through!
+                    Amid a snowy backdrop, the diversity of this incredible land shone through!
                 </p>
                     
 
@@ -51,7 +51,7 @@ const BlogPage0010 = () => {
                     src="/images/blog/blog0010/blog10.svg"
                     alt="Concerned local citizens join in a beautiful wintery woodland setting."
                     width="500"
-                    height="375"
+                    height="450"
                     className="self-center w-full pb-8"
                 />
 
@@ -102,14 +102,6 @@ const BlogPage0010 = () => {
                 <p className="mb-8">
                     We would like to thank Owen Clarkin and the Ottawa Field Naturalist Club for coming to the Grove and sharing their expertise and passion. We are all richer for this knowledge and experience. 
                 </p>
-
-                <Image
-                    src="/images/blog/blog0010/body02.svg"
-                    alt="Concerned local citizens join in a beautiful wintery woodland setting."
-                    width="365"
-                    height="500"
-                    className="self-center w-full pb-8"
-                />
 
                 <p className="mb-8">
                     It is with hope that many generations to come have the opportunity to step into the wonder of this old-growth forest. Let&apos;s ensure that the adjacent land, which safeguards the forest&apos;s future, is protected from development that will inevitably harm the health and sustainability of this biodiverse haven.
