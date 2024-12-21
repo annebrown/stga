@@ -27,8 +27,8 @@ const blogData: Blog[] = [
         title: "Biodiversity Tour Success",
         paragraph:
           "amid a snowy backdrop, the diversity of this incredible land shone through!",
-        image: "/images/blog/blog0010/main.svg",
-        alt: "Concerned local citizens join in a beautiful wintery woodland setting.",
+        image: "/images/blog/blog0010/blog10.svg",
+        alt: "Concerned local citizens join together in a beautiful wintery woodland setting.",
         width: 500,
         height: 450,
         author: {
