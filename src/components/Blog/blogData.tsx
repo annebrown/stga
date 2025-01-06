@@ -21,7 +21,24 @@ const blogData: Blog[] = [
         blogURL: "/blog/posts/blogPage000X"
     },
     */
-     
+    {
+        id: 11,
+        title: "A Call to the Community",
+        paragraph:
+          "STGA Chair Lacey Smith speaks from the heart",
+        image: "/images/blog/blog0011/blog11.svg",
+        alt: "MMMMMM - Alt text for image",
+        width: 500,
+        height: 375,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["ACTION"],
+        publishDate: "January 6, 2024",
+        blogURL: "/blog/posts/blogPage0011"
+    },
     {
         id: 10,
         title: "Biodiversity Tour Success",
