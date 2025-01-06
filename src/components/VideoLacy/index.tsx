@@ -14,12 +14,18 @@ const Video = () => {
         <div className="w-full container m-0 p-0 object-center  mx-auto">
 
             <div className="rounded-md w-full">
-                <iframe 
+                {<iframe 
                     width="897" height="506" 
                     src="https://www.youtube.com/embed/tEgtT1LX-Sk"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                     className="size-full aspect-video" 
                     allowFullScreen>
-                </iframe>
+                </iframe> }
+                {/* <iframe 
+                    width="897" height="506" 
+                    src="https://www.youtube.com/embed/tEgtT1LX-Sk"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    className="size-full aspect-video" 
+                    allowFullScreen>
+                </iframe> */}
             </div>
         </div>
 
