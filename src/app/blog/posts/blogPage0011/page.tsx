@@ -57,17 +57,19 @@ On a snowy winter&apos;s day, we all can find reasons to appreciate what a beaut
                 
                     <VideoLacy />
 
-                    <p className="text-center pb-8 pt-8 text-2xl weight-bold pt-8 text-[#165D8F] ">Together we can find a better way!</p>
-
-            </div>
-        </div>
-     <Image
+                    <Image
                     src="/images/blog/blog0011/blog11.svg"
                     alt="Child stands on large tree stump in wintery forest."
                     width="500"
                     height="450"
-                    className="self-center w-full pb-8"
+                    className="self-center w-full py-8"
                 />
+
+                    <p className="text-center pb-8 pt-8 text-2xl weight-bold pt-8 text-[#165D8F] ">Together we can find a better way!</p>
+
+            </div>
+        </div>
+    
         
       </section>
 
