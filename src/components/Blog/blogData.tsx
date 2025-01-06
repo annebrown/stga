@@ -27,7 +27,7 @@ const blogData: Blog[] = [
         paragraph:
           "STGA Chair Lacey Smith speaks from the heart",
         image: "/images/blog/blog0011/blog11.svg",
-        alt: "MMMMMM - Alt text for image",
+        alt: "Child stands on large tree stump in wintery forest",
         width: 500,
         height: 375,
         author: {

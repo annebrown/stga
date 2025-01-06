@@ -61,7 +61,13 @@ On a snowy winter&apos;s day, we all can find reasons to appreciate what a beaut
 
             </div>
         </div>
-
+     <Image
+                    src="/images/blog/blog0011/blog11.svg"
+                    alt="Child stands on large tree stump in wintery forest."
+                    width="500"
+                    height="450"
+                    className="self-center w-full pb-8"
+                />
         
       </section>
 
