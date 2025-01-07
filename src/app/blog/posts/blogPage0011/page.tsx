@@ -62,9 +62,9 @@ const BlogPage0011 = () => {
 On a snowy winter&apos;s day, we all can find reasons to appreciate what a beautiful place we have at Gillies Grove. In this video, STGA chair Lacey Smith reaffirms her dedication to the Save the Grove Again initiative, and asks the community to do the same. With her two children by her side, we are reminded why it matters so much that we keep committed to this labor of love. 
 
                     </p>
-                
-                    <VideoLacy />
-
+                    <div className="mx-auto">
+                        <iframe width="814" height="458" src="https://www.youtube.com/embed/CY2YkJNFaf0" title="A Call to the Community: Save the Grove Again Chair Lacey Smith speaks from the heart" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
+                    </div>
 
                     <p className="text-center pb-8 pt-8 text-2xl weight-bold pt-8 text-[#165D8F] ">Together we can find a better way!</p>
 
