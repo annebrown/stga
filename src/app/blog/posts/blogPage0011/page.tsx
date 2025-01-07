@@ -63,10 +63,10 @@ On a snowy winter&apos;s day, we all can find reasons to appreciate what a beaut
 
                     </p>
                     <div className="mx-auto">
-                        <iframe width="814" height="458" src="https://www.youtube.com/embed/CY2YkJNFaf0" title="A Call to the Community: Save the Grove Again Chair Lacey Smith speaks from the heart" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
+                        <iframe width="814" height="458" src="https://www.youtube.com/embed/CY2YkJNFaf0" title="A Call to the Community: Save the Grove Again Chair Lacey Smith speaks from the heart" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameBorder="0"></iframe>
                     </div>
 
-                    <p className="text-center pb-8 pt-8 text-2xl weight-bold pt-8 text-[#165D8F] ">Together we can find a better way!</p>
+                    <p className="text-center pb-8 pt-8 text-2xl weight-bold text-[#165D8F] ">Together we can find a better way!</p>
 
             </div>
         </div>
