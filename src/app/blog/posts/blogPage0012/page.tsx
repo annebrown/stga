@@ -88,7 +88,7 @@ const BlogPage0012 = () => {
                         <p className="font-extrabold text-red-500">
                             &ldquo;Maybe trees have a right to sometimes grow old. &ldquo;</p>
                         <p className="mt-0 mb-8">
-                            - from Ontario &quot;s Old-Growth Forests by <em>Michael Henry</em> and <em>Peter Quinby</em>
+                            - from Ontario&quot;s Old-Growth Forests by <em>Michael Henry</em> and <em>Peter Quinby</em>
                         </p>
 
                     <p className="text-center pb-8 text-2xl weight-bold pt-8 text-[#165D8F] ">Together we can find a better way!</p>
