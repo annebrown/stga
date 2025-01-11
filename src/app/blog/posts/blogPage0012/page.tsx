@@ -46,22 +46,22 @@ const BlogPage0012 = () => {
                     >
                        Let&apos;s rewrite this song together!
                     </p>
+                    
+                    <div className="aspect-[500/270] mb-8">
+                        <Image
+                            src="/images/blog/blog0012/blog12.svg"
+                            alt="Old grown forest"
+                            width="500"
+                            height="375"
+                            className="self-center"
+                        />
+                    </div>
 
                     <div className="text-black mb-8">
                             <p className="pb-1"><strong>What:</strong> Community Meeting</p>
                             <p className="pb-1"><strong>When:</strong> Thursday January 16th at 6:00pm</p>
                             <p className="pb-1"><strong>Where: </strong>Arnprior Public Library, 21 Madawaska St, Arnprior</p>
                         </div>
-                    
-                    <div className="aspect-[500/270] mb-8">
-                        <Image
-                            src="/images/blog/blog0012/blog12.svg"
-                            alt="XXXXXXXX"
-                            width="500"
-                            height="375"
-                            className="self-center"
-                        />
-                    </div>
                
                     <p className="mb-8">
                         We would like to invite you all to our next community meeting. Everyone is welcome and encouraged to attend. We will share what has been happening behind the scenes for the past 3 months, what the next steps are and the many ways that you can actively participate in our collective goal - <em>to protect and expand the old-growth forest for future generations</em>.
@@ -74,7 +74,7 @@ const BlogPage0012 = () => {
                         </p>
 
                         <ul className="mb-8">
-                            <li>💚 Share this information with other community members</li>
+                            <li>💚 Invite family and friends</li>
                             <li>💚 Wear a button</li>
                             <li>💚 Talk to your friends and family about the importance of old-growth forests </li>
                             <li>💚 Subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.</li>

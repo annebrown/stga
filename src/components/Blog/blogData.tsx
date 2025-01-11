@@ -23,11 +23,11 @@ const blogData: Blog[] = [
     */
     {
         id: 12,
-        title: "Don't It Always Seem to Go ...",
+        title: "'Don't It Always Seem to Go ...'",
         paragraph:
           "Let's rewrite this song together!",
         image: "/images/blog/blog0012/blog12.svg",
-        alt: "XXXXXXXX",
+        alt: "Old grown",
         width: 500,
         height: 375,
         author: {
