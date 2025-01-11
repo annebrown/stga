@@ -22,6 +22,24 @@ const blogData: Blog[] = [
     },
     */
     {
+        id: 12,
+        title: "Community Meeting",
+        paragraph:
+          "Open Invitation",
+        image: "/images/blog/blog0012/blog12.svg",
+        alt: "XXXXXXXX",
+        width: 500,
+        height: 375,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["Event"],
+        publishDate: "January 16, 2025",
+        blogURL: "/blog/posts/blogPage0012"
+    },
+    {
         id: 11,
         title: "A Call to the Community",
         paragraph:
