@@ -23,9 +23,9 @@ const blogData: Blog[] = [
     */
     {
         id: 12,
-        title: "Community Meeting",
+        title: "Don't It Always Seem to Go ...",
         paragraph:
-          "Open Invitation",
+          "Let's rewrite this song together!",
         image: "/images/blog/blog0012/blog12.svg",
         alt: "XXXXXXXX",
         width: 500,
