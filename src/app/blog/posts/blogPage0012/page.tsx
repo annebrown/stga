@@ -39,13 +39,19 @@ const BlogPage0012 = () => {
 
           
                     <p className="text-2xl">
-                        <strong>Don&apos;t It Always Seem to Go ...</strong>
+                        <strong>&ldquo;Don&apos;t It Always Seem to Go ...&ldquo;</strong>
                     </p><br></br>
                     <p 
                         className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                     >
                        Let&apos;s rewrite this song together!
                     </p>
+
+                    <div className="text-black mb-8">
+                            <p className="pb-1"><strong>What:</strong> Community Meeting</p>
+                            <p className="pb-1"><strong>When:</strong> Thursday January 16th at 6:00pm</p>
+                            <p className="pb-1"><strong>Where: </strong>Arnprior Public Library, 21 Madawaska St, Arnprior</p>
+                        </div>
                     
                     <div className="aspect-[500/270] mb-8">
                         <Image
@@ -61,11 +67,7 @@ const BlogPage0012 = () => {
                         We would like to invite you all to our next community meeting. Everyone is welcome and encouraged to attend. We will share what has been happening behind the scenes for the past 3 months, what the next steps are and the many ways that you can actively participate in our collective goal - <em>to protect and expand the old-growth forest for future generations</em>.
                         </p>
 
-                        <div className="text-black mb-8">
-                            <p className="pb-1"><strong>What:</strong> Community Meeting</p>
-                            <p className="pb-1"><strong>When:</strong> Thursday January 16th at 6:00pm</p>
-                            <p className="pb-1"><strong>Where: </strong>Arnprior Public Library, 21 Madawaska St, Arnprior</p>
-                        </div>
+               
 
                         <p className="mb-8">
                             Whether you can join us in person or not on January 16, please consider supporting this cause in the following ways:
@@ -75,10 +77,10 @@ const BlogPage0012 = () => {
                             <li>💚 Share this information with other community members</li>
                             <li>💚 Wear a button</li>
                             <li>💚 Talk to your friends and family about the importance of old-growth forests </li>
-                            <li>💚 Subscribe to our subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.</li>
+                            <li>💚 Subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.</li>
                             <li>💚 Fill out our <a  className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSc611weSVb3qvnl6KJd6AZ_lmRn0yStEYDpxIkE9bVJhFTeUQ/viewform?usp=sf_link"> volunteer form</a></li>
-                            <li>💚 Like and follow our <a href="https://www.facebook.com/people/Save-the-Grove-Again/61565284064994/">Facebook page</a></li>
-                            <li>💚 Subscribe to our <a href="https://www.youtube.com/@SaveTheGroveAgain">You Tube channel</a></li>
+                            <li>💚 Like and follow our <a className="text-[#38AF34]" href="https://www.facebook.com/people/Save-the-Grove-Again/61565284064994/">Facebook page</a></li>
+                            <li>💚 Subscribe to our <a className="text-[#38AF34]" href="https://www.youtube.com/@SaveTheGroveAgain">YouTube channel</a></li>
                             <li>💚 Make a donation via e-transfer to  <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34] hover:text-primary">savethegroveagain@gmail.com</a></li>
                         </ul>
                         <p className="mb-8">
