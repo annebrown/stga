@@ -39,12 +39,12 @@ const BlogPage0012 = () => {
 
           
                     <p className="text-2xl">
-                        <strong>Don't It Always Seem to Go ...</strong>
+                        <strong>Don&apos;t It Always Seem to Go ...</strong>
                     </p><br></br>
                     <p 
                         className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                     >
-                       Let's rewrite this song together!
+                       Let&apos;s rewrite this song together!
                     </p>
                     
                     <div className="aspect-[500/270] mb-8">
