@@ -22,6 +22,24 @@ const blogData: Blog[] = [
     },
     */
     {
+        id: 13,
+        title: "Join our Call to Council",
+        paragraph:
+          "Announcing our NEW Postcard campaign!",
+        image: "/images/blog/blog0013/blog13.svg",
+        alt: "Greetings from Gillies Grove, 10,000 years in the making",
+        width: 500,
+        height: 386,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["ACTION"],
+        publishDate: "January 18, 2025",
+        blogURL: "/blog/posts/blogPage0013"
+    },
+    {
         id: 12,
         title: "'Don't It Always Seem to Go ...'",
         paragraph:
