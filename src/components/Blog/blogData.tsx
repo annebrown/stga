@@ -23,9 +23,9 @@ const blogData: Blog[] = [
     */
     {
         id: 13,
-        title: "Join our Call to Council",
+        title: "Join the Call for Council to Take Action",
         paragraph:
-          "Join the Call for Council to Take Action",
+          "Announcing our NEW Postcard Campaign!",
         image: "/images/blog/blog0013/blog13.svg",
         alt: "Greetings from Gillies Grove, 10,000 years in the making",
         width: 500,

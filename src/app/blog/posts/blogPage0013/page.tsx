@@ -38,12 +38,12 @@ const BlogPage0013 = () => {
                 </div>
 
                     <p className="text-2xl">
-                        <strong>Join Call to Council!</strong>
+                        <strong>Join the Call for Council to Take Action</strong>
                     </p><br></br>
                     <p 
                         className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                     >
-                       Join the Call for Council to Take Action
+                       Announcing our NEW Postcard Campaign!
 
                     </p>
 
@@ -103,23 +103,23 @@ const BlogPage0013 = () => {
                         <li>🍄 Kids can draw themselves in the Grove in our special child friendly version</li>
                     </ul>
 
-                    <div className="mb-0 pb-8 mx-auto">
+
                         <Image
                             src="/images/blog/blog0013/01.png"
                             alt="Greetings from Gillies Grove, 10,000 years in the making"
                             width="386"
                             height="500"
-                            className="self-center"
+                            className="inline-block self-center w-full mb-0 pb-8 !mx-auto"
                         />
-                    </div>
 
-                    <div className="mt-0 mb-8 pt-0 mx-auto">
+
+                    <div className="w-full mt-0 mb-8 pt-0 mx-auto">
                         <Image
                             src="/images/blog/blog0013/03.png"
                             alt="Kids Page"
                             width="500"
                             height="386"
-                            className="self-center"
+                            className="inline-block self-center w-full pb-8 mx-auto"
                         />
                     </div>
 
