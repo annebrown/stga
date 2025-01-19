@@ -126,7 +126,7 @@ const BlogPage0013 = () => {
                     </div>
 
                     <p className="mb-8">
-                        Then either drop it in the mailbox (you’ll need postage), drop it in the town's mail slot (105 Elgin St. W.), or perhaps request a meeting with one of our councillors and deliver it in person. Hey, snap a selfie of you posting your card in the mail slot and share it with our socials - let’s get the word out…
+                        Then either drop it in the mailbox (you&apos;ll need postage), drop it in the town&apos;s mail slot (105 Elgin St. W.), or perhaps request a meeting with one of our councillors and deliver it in person. Hey, snap a selfie of you posting your card in the mail slot and share it with our socials - let&apos;s get the word out…
                     </p>
 
                     <p className="mb-8">
