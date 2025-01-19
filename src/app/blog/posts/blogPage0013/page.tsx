@@ -71,29 +71,29 @@ const BlogPage0013 = () => {
                         <li>(more to come)</li>
                     </ul>
 
-                    <p className="mb-8">
+                    <p className="mb-8 text-justify">
                         Let our town know how you feel about the Grove and surrounding lands. While the old trees may still be standing, the crucial ecotone and supporting habitats that surround it are slated for development, ultimately putting the endangered old-growth woodland at risk. 
                     </p>
 
                     <p className="mb-0 font-bold">
                     Did you know?
                     </p>
-                    <p className="mb-0 text-blue-800">
+                    <p className="mb-0 text-blue-800 text-justify">
                         “Ninety-eight percent of North America&apos;s old-growth forests have been eradicated.”
                     </p>
                     <p className="mb-8 text-sm">
                         - from Ontario&apos;s Old-Growth Forests by <em>Michael Henry</em> and <em>Peter Quinby</em>
                     </p>
 
-                    <p className="mb-8">
+                    <p className="mb-8 text-justify">
                         Both the Provincial Policy Statement and the Town of Arnprior Official Plan emphasize the need to protect significant woodlands AND their adjacent lands. Why then is development being considered for this environmentally sensitive area? 
                         Let our elected officials know how you feel about this.
                     </p>
-                    <p className="mb-8 text-green-700">
+                    <p className="mb-8 text-green-700 text-justify">
                         ***Request that members of council initiate a thorough ecological assessment of Gillies Grove Nature Reserve and the adjacent lands.*** 
                     </p>
 
-                    <p className="mb-8">
+                    <p className="mb-8 text-justify">
                         Pick up a postcard from one of the above listed local businesses. We have three design options to choose from:
                     </p>
 
@@ -123,11 +123,11 @@ const BlogPage0013 = () => {
                         />
                     </div>
 
-                    <p className="mb-8">
+                    <p className="mb-8 text-justify">
                         Then either drop it in the mailbox (you&apos;ll need postage), drop it in the town&apos;s mail slot (105 Elgin St. W.), or perhaps request a meeting with one of our councillors and deliver it in person. Hey, snap a selfie of you posting your card in the mail slot and share it with our socials - let&apos;s get the word out…
                     </p>
 
-                    <p className="mb-8">
+                    <p className="mb-8 text-justify">
                         In addition to joining our postcard campaign, please consider supporting this cause in the following ways:
                     </p>
                     
