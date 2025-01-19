@@ -135,7 +135,7 @@ const BlogPage0013 = () => {
                     
                     <ul className="mb-8">
                         <li>💚 Invite family and friends</li>
-                        <li>💚 Wear a button -> Get yours at Green Bean Natural Foods (117 John St. N.) or Sweet and Sassy (114 John St. N.)</li>
+                        <li>💚 Wear a button - Get yours at Green Bean Natural Foods (117 John St. N.) or Sweet and Sassy (114 John St. N.)</li>
                         <li>💚 Talk to your friends and family about the importance of old-growth forests </li>
                         <li>💚 Subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.</li>
                         <li>💚 Fill out our <a  className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSc611weSVb3qvnl6KJd6AZ_lmRn0yStEYDpxIkE9bVJhFTeUQ/viewform?usp=sf_link"> volunteer form</a></li>
