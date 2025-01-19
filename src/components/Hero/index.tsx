@@ -10,10 +10,19 @@ const Hero = () => {
         className="z-30 m-0 p-0"
       >
         <div className="w-full h-full z-40 m-0 mt-5 p-0 fill">
-          <Image
+          {/* <Image
             className="relative m-0 p-0 rounded-xl w-full"
             src="/images/hero/big-splash.svg"
             alt="Field surrounded by trees"
+            loading="eager"
+            priority
+            width={500}
+            height={264}
+          /> */}
+           <Image
+            className="relative m-0 p-0 rounded-xl w-full"
+            src="/images/hero/big-postcard.svg"
+            alt="Postcard - Gilles Grove 10,000 years in the making"
             loading="eager"
             priority
             width={500}
