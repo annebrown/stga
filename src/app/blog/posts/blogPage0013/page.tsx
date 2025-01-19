@@ -43,11 +43,11 @@ const BlogPage0013 = () => {
                     <p 
                         className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                     >
-                       Announcing our NEW Postcard campaign!
+                       Join the Call for Council to Take Action
 
                     </p>
 
-                    <div className="pb-8 w-full h-auto">
+                    <div className="pb-8 w-full h-auto mx-auto">
                         <Image
                             src="/images/blog/blog0013/blog13.svg"
                             alt="Greetings from Gillies Grove, 10,000 years in the making"
@@ -69,8 +69,6 @@ const BlogPage0013 = () => {
                         <li><a href="http://www.mallardsmilkbar.com/" className="text-[#38AF34] hover:text-primary">Mallard&apos;s Milk Bar</a>, 55 John St. N.</li>
                         <li><a href="http://www.ottawavalleycoffee.ca/" className="text-[#38AF34] hover:text-primary">Ottawa Valley Coffee</a>, 32 Elgin St. W.</li>
                         <li>(more to come)</li>
-                        <li>(more to come)</li>
-                        <li> (more to come)</li>
                     </ul>
 
                     <p className="mb-8">
@@ -100,12 +98,12 @@ const BlogPage0013 = () => {
                     </p>
 
                     <ul className="mb-8">
-                        <li>🍄 Grab a blank one and write your own message🍄 </li>
-                        <li>Take one with a pre-written message and add your name and postal code🍄 </li>
-                        <li>Kids can draw themselves in the Grove in our special child friendly version</li>
+                        <li>🍄 Grab a blank one and write your own message</li>
+                        <li>🍄 Take one with a pre-written message and add your name and postal code</li>
+                        <li>🍄 Kids can draw themselves in the Grove in our special child friendly version</li>
                     </ul>
 
-                    <div className="mb-0 pb-8">
+                    <div className="mb-0 pb-8 mx-auto">
                         <Image
                             src="/images/blog/blog0013/01.png"
                             alt="Greetings from Gillies Grove, 10,000 years in the making"
@@ -115,7 +113,7 @@ const BlogPage0013 = () => {
                         />
                     </div>
 
-                    <div className="mt-0 mb-8 pt-0">
+                    <div className="mt-0 mb-8 pt-0 mx-auto">
                         <Image
                             src="/images/blog/blog0013/03.png"
                             alt="Kids Page"
