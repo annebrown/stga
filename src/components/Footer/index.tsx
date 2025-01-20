@@ -30,20 +30,25 @@ const Footer = () => {
 
 
 
-                    <div className="flex-none inline-block mx-auto text-black items-center m-0 p-0 pb-1">
+                    <div className="flex-none inline-block mx-auto text-black items-center m-0 mb-2 p-0 pb-1">
                         <p className="text-center text-sm m-0 p-0"><strong>
                             Contacts
                         </strong></p>
 
-                        <p className="text-center m-0 -mt-1 p-0 text-wrap">
-                            <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34] hover:text-primary text-xs">
-                                    Email
-                            </a>
-                        </p>
-
-                        <p className="flex w-full mx-auto text-center mb-0pb-0 h-3">
+                        <p className="flex w-full mx-auto text-center mb-0 mt-4 pb-0 h-3">
                             <span className="flex mx-auto">
+                                <a href="mailto:savethegroveagain@gmail.com" 
+                                    className="text-[#38AF34] hover:text-primary text-xs">
 
+                                    <svg 
+                                        xmlns="http://www.w3.org/2000/svg" 
+                                        width="18" height="18" viewBox="0 0 24 24">
+                                            <path 
+                                                fill="#38AF34" 
+                                                d="M5 5h13a3 3 0 0 1 3 3v9a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3V8a3 3 0 0 1 3-3m0 1c-.5 0-.94.17-1.28.47l7.78 5.03l7.78-5.03C18.94 6.17 18.5 6 18 6zm6.5 6.71L3.13 7.28C3.05 7.5 3 7.75 3 8v9a2 2 0 0 0 2 2h13a2 2 0 0 0 2-2V8c0-.25-.05-.5-.13-.72z"/>
+                                    </svg>
+                                </a>
+                                &nbsp;&nbsp;
                                 <a
                                     href="https://www.youtube.com/embed/tEgtT1LX-Sk"
                                     aria-label="social-link"
@@ -81,6 +86,19 @@ const Footer = () => {
                                     />
                                     </svg>
                                 </a>
+                                &nbsp;&nbsp;
+                                <Link
+                                    href="https://www.instagram.com/savethegroveagain2024/?igsh=MnZ5MzM3dXk2NWsx&utm_source=qr"
+
+                                >  
+                                    <Image
+                                        src="/images/brands/instagram.svg"
+                                        alt="Instagram logo"
+                                        width="18"
+                                        height="18"
+                                        className="duration-300 hover:text-primary text-[#38AF34] fill-[#38AF34] stroke-[#38AF34] align-middle"
+                                         />
+                                </Link>
                             </span>
                         </p>
 
