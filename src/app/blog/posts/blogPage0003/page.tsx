@@ -152,7 +152,7 @@ We also have a new page up on our website called <Link href="https://savethegrov
                     
                   <Image
                   className="inline align-top "
-                  src="/images/logo/logo-sq-detail.svg"
+                  src="/images/logo/logo_black_small.svg"
                   alt="Logo - Trees and water inside a circle"
                   loading="eager"
                   priority

@@ -39,7 +39,7 @@ const Join = () => {
             </div>
           <div className="m-5">
             <Image
-              src="/images/join/vignette-green.svg"
+              src="/images/join/6-green-min.jpg"
               alt="Field"
               loading="eager"
               priority
