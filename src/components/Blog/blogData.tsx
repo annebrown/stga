@@ -26,7 +26,7 @@ const blogData: Blog[] = [
         title: "Join the Call for Council to Take Action",
         paragraph:
           "Announcing our NEW Postcard Campaign!",
-        image: "/images/blog/blog0013/blog13.svg",
+        image: "/images/blog/blog0013/blog13.png",
         alt: "Greetings from Gillies Grove, 10,000 years in the making",
         width: 500,
         height: 386,
@@ -44,7 +44,7 @@ const blogData: Blog[] = [
         title: "'Don't It Always Seem to Go ...'",
         paragraph:
           "Let's rewrite this song together!",
-        image: "/images/blog/blog0012/blog12.svg",
+        image: "/images/blog/blog0012/blog12.webp",
         alt: "Old grown",
         width: 500,
         height: 375,
@@ -62,7 +62,7 @@ const blogData: Blog[] = [
         title: "A Call to the Community",
         paragraph:
           "STGA Chair Lacey Smith speaks from the heart",
-        image: "/images/blog/blog0011/blog11.svg",
+        image: "/images/blog/blog0011/blog11.webp",
         alt: "Child stands on large tree stump in wintery forest",
         width: 500,
         height: 375,

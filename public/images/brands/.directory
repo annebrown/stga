@@ -1,8 +1,0 @@
-[Dolphin]
-HeaderColumnWidths=337,72,162,88,72,72
-Timestamp=2024,10,17,11,49,22.072
-Version=4
-VisibleRoles=CustomizedDetails,Details_text,Details_size,Details_modificationtime,Details_dimensions,Details_width,Details_height
-
-[Settings]
-HiddenFilesShown=true

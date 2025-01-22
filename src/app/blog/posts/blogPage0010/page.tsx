@@ -80,14 +80,14 @@ const BlogPage0010 = () => {
 
                 <div className="grid grid-cols-2 gap-4 mx-auto mb-8">
                     <Image
-                        src="/images/blog/blog0010/body00.svg"
+                        src="/images/blog/blog0010/body00.webp"
                         alt="Concerned local citizens join in a beautiful wintery woodland setting."
                         width="365"
                         height="500"
                         className="self-center"
                     />
                     <Image
-                        src="/images/blog/blog0010/body01.svg"
+                        src="/images/blog/blog0010/body01.webp"
                         alt="Concerned local citizens join in a beautiful wintery woodland setting."
                         width="500"
                         height="375"

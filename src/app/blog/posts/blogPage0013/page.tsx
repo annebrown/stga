@@ -49,7 +49,7 @@ const BlogPage0013 = () => {
 
                     <div className="pb-8 w-full h-auto mx-auto">
                         <Image
-                            src="/images/blog/blog0013/blog13.svg"
+                            src="/images/blog/blog0013/blog13.png"
                             alt="Greetings from Gillies Grove, 10,000 years in the making"
                             width="500"
                             height="386"
@@ -105,7 +105,7 @@ const BlogPage0013 = () => {
 
 
                         <Image
-                            src="/images/blog/blog0013/01.png"
+                            src="/images/blog/blog0013/01.webp"
                             alt="Greetings from Gillies Grove, 10,000 years in the making"
                             width="386"
                             height="500"
@@ -115,7 +115,7 @@ const BlogPage0013 = () => {
 
                     <div className="w-full mt-0 mb-8 pt-0 mx-auto">
                         <Image
-                            src="/images/blog/blog0013/03.png"
+                            src="/images/blog/blog0013/03.webp"
                             alt="Kids Page"
                             width="500"
                             height="386"
