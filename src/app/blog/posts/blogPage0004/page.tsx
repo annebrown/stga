@@ -43,13 +43,13 @@ const BlogPage0004 = () => {
                         <strong>STGA Chair, Lacey Smith responds to Galilee Centre&apos;s Newsletter</strong> sent out Monday September 16th, the last day of Cavanagh&apos;s due diligence period.
                     </p><br /><br /><br />
                     <div className="mb-10 w-full overflow-hidden rounded">
-                        <div className="relative float-right">
+                        <div className="relative">
                             <Image
-                                src="/images/blog/blog0004/blog4.svg"
+                                src="/images/blog/blog0004/blog4.webp"
                                 alt="Bucolic winding sandy path through forest-bordered field"
-                                width="592"
-                                height="790"
-                                className="object-cover object-center"
+                                width="375"
+                                height="500"
+                                className="object-cover object-center mx-auto"
                             />
                         </div>
                     </div>

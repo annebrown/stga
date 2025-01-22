@@ -48,7 +48,7 @@ const BlogPage0009 = () => {
                     
                     <div className="mx-auto p-0">
                         <Image
-                            src="/images/blog/blog0009/blog9.svg"
+                            src="/images/blog/blog0009/blog9.webp"
                             alt="Autumn Forest"
                             width="500"
                             height="375"

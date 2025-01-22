@@ -127,13 +127,13 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                     <hr className="border-[#165D8F] border-1 my-10" /><br />
 
                     <Image
-                        src="/images/blog/blog0003/blog3-2.svg"
+                        src="/images/blog/blog0003/blog3-2.webp"
 
                         alt="Two children in woods-bordered field"
                         loading="eager"
                         priority
-                        width={1709}
-                        height={790}
+                        width={498}
+                        height={230}
                         />
 
                   <p className="mb-8 mt-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               

@@ -48,7 +48,7 @@ const BlogPage0007 = () => {
 
                     <div className="container mx-auto pb-8">
                         <Image
-                            src="/images/blog/blog0007/blog7.svg"
+                            src="/images/blog/blog0007/blog7.png"
                             alt="People walking a woodland path"
                             width="500"
                             height="270"

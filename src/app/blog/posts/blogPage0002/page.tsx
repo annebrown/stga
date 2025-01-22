@@ -43,11 +43,11 @@ const BlogPage0002 = () => {
                                 <div className="mb-10 w-full overflow-hidden rounded">
                                     <div className="relative aspect-[100/75] w-full">
                                         <Image
-                                            src="/images/blog/blog0002/group-pic.svg"
+                                            src="/images/blog/blog0002/blog2.webp"
                                             alt="Event Group Photo, plus Update as post category"
                                             className="object-cover object-center h-fit"
-                                            width="1000"
-                                            height="750"
+                                            width="500"
+                                            height="375"
                                         />
                                     </div>
                                 </div>

@@ -49,7 +49,7 @@ const BlogPage0008 = () => {
                 
                 <div className="aspect-[500/280]">
                     <Image
-                        src="/images/blog/blog0008/blog8.svg"
+                        src="/images/blog/blog0008/blog8.webp"
                         alt="Sundrenched Woodland Path"
                         width="500"
                         height="280"

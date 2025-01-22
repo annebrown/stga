@@ -48,7 +48,7 @@ const BlogPage0006 = () => {
                     
                     <div className="aspect-[100/75] mb-10 self-center">
                         <Image
-                            src="/images/blog/blog0006/blog6.svg"
+                            src="/images/blog/blog0006/blog6.webp"
                             alt="Green Globe"
                             width="1000"
                             height="750"
@@ -102,7 +102,7 @@ const BlogPage0006 = () => {
 
                     <div className="mb-10 mt-10 self-center">
                         <Image
-                            src="/images/blog/blog0006/blog6b.svg"
+                            src="/images/blog/blog0006/blog6b.webp"
                             alt="Looking up through very tall deciduous trees"
                             width="750"
                             height="1000"
