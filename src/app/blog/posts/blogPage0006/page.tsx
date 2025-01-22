@@ -50,8 +50,8 @@ const BlogPage0006 = () => {
                         <Image
                             src="/images/blog/blog0006/blog6.webp"
                             alt="Green Globe"
-                            width="1000"
-                            height="750"
+                            width="500"
+                            height="375"
 
                         />
                     </div>

@@ -53,10 +53,10 @@ const BlogPage0001 = () => {
                     <div className="relative mb-10 rounded-t-2xl rounded-b-md">
 
                         <Image
-                            src="/images/blog/blog0001/event-pic.svg"
+                            src="/images/blog/blog0001/blog1.webp"
                             alt="Trees viewed through leafy border, with text: We need your help to save the grove again, plus Event as blog post category"
-                            width="1000"
-                            height="750"
+                            width="500"
+                            height="375"
                             className=" aspect-auto max-w-22 h-auto object-cover"
                         />
                     </div>

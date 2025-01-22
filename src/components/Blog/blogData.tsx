@@ -158,8 +158,8 @@ const blogData: Blog[] = [
           "Silent Walk + Social Gathering",
         image: "/images/blog/blog0006/blog6.webp",
         alt: "Beautiful Woodland Path",
-        width: 1000,
-        height: 750,
+        width: 500,
+        height: 375,
         author: {
           name: "",
           image: "",
@@ -249,10 +249,10 @@ const blogData: Blog[] = [
     title: "Save the Grove Again Information Session- Planting the Seed",
     paragraph:
       "Join us for an information session for the Save the Grove Again campaign.",
-    image: "/images/blog/blog0001/event-pic.svg",
+    image: "/images/blog/blog0001/blog1.webp",
     alt: "Trees viewed through leafy border, with text: We need your help to save the grove again, plus Event as blog post category",
-    width: 1000,
-    height: 750,
+    width: 500,
+    height: 375,
     author: {
       name: "",
       image: "",
