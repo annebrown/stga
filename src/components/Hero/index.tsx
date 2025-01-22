@@ -32,7 +32,7 @@ const Hero = () => {
             <div className="mx-auto z-40 rounded-full">
               <Link href="/">
                 <Image
-                  src="/images/logo/logo-sq-detail.svg"
+                  src="/images/logo/logo_black_small.png"
                   className="absolute top-10 right-10 w-1/5 h-auto"
                   alt="Logo - Trees and water inside a circle"
                   loading="eager"
