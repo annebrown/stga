@@ -21,7 +21,7 @@ const Hero = () => {
           /> */}
            <Image
             className="relative m-0 p-0 rounded-xl w-full"
-            src="/images/hero/big-postcard.svg"
+            src="/images/hero/big-postcard.png"
             alt="Postcard - Gilles Grove 10,000 years in the making"
             loading="eager"
             priority
@@ -32,7 +32,7 @@ const Hero = () => {
             <div className="mx-auto z-40 rounded-full">
               <Link href="/">
                 <Image
-                  src="/images/logo/logo_black_small.svg"
+                  src="/images/logo/logo-sq-detail.svg"
                   className="absolute top-10 right-10 w-1/5 h-auto"
                   alt="Logo - Trees and water inside a circle"
                   loading="eager"
