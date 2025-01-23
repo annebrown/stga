@@ -68,6 +68,9 @@ const BlogPage0013 = () => {
                         <li><a href="https://www.instagram.com/johnies.vintage/" className="text-[#38AF34] hover:text-primary">Johnie&apos;s Vintage</a>, 54 Madawaska St.</li>
                         <li><a href="http://www.mallardsmilkbar.com/" className="text-[#38AF34] hover:text-primary">Mallard&apos;s Milk Bar</a>, 55 John St. N.</li>
                         <li><a href="http://www.ottawavalleycoffee.ca/" className="text-[#38AF34] hover:text-primary">Ottawa Valley Coffee</a>, 32 Elgin St. W.</li>
+                        <li>Sweet & Sassy Cafe and Bistro, 114 John St. N.</li>
+                        <li><a href="https://www.whitepinebooks.ca/" className="text-[#38AF34] hover:text-primary">White Pine Books</a>, 152 John St. N.</li>
+                        <li><a href="https://ovap.ca/" className="text-[#38AF34] hover:text-primary">Ottawa Valley Air Paddle</a>, 67 Madawaska St. N.</li>
                         <li>(more to come)</li>
                     </ul>
 
