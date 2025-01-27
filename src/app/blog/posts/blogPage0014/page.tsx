@@ -109,12 +109,13 @@ const BlogPage0014 = () => {
                     </p>
 
                     <ul className="mb-8">
-                            <li>Join our <Link href="https://savethegroveagain.com/blog/posts/blogPage0013" className="text-[#38AF34]">Postcard Campaign 💚</Link></li>
+                            <li>💚 Join our <Link href="https://savethegroveagain.com/blog/posts/blogPage0013" className="text-[#38AF34]">Postcard Campaign</Link></li>
                             <li>💚 Wear a button (get yours at Green Bean Natural Foods, 117 John St N)</li>
                             <li>💚 Talk to your friends and family about the importance of old-growth forests </li>
                             <li>💚 Subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.</li>
                             <li>💚 Fill out our <a  className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSc611weSVb3qvnl6KJd6AZ_lmRn0yStEYDpxIkE9bVJhFTeUQ/viewform?usp=sf_link"> volunteer form</a></li>
                             <li>💚 Like and follow our <a className="text-[#38AF34]" href="https://www.facebook.com/people/Save-the-Grove-Again/61565284064994/">Facebook page</a></li>
+                            <li>💚 Follow us on <a className="text-[#38AF34]" href="https://www.instagram.com/savethegroveagain2024/">Instagram</a> </li>
                             <li>💚 Subscribe to our <a className="text-[#38AF34]" href="https://www.youtube.com/@SaveTheGroveAgain">YouTube channel</a></li>
                             <li>💚 Make a donation via e-transfer to  <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34] hover:text-primary">savethegroveagain@gmail.com</a></li>
                         </ul>
