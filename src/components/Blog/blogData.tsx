@@ -22,6 +22,24 @@ const blogData: Blog[] = [
     },
     */
     {
+        id: 14,
+        title: "STGA to Present Delegation at Town Hall",
+        paragraph:
+          "Your Presence Matters",
+        image: "/images/blog/blog0014/blog14.jpg",
+        alt: "Arnprior Municipal Offices Front Entrance",
+        width: 750,
+        height: 402,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["ACTION"],
+        publishDate: "January 27, 2025",
+        blogURL: "/blog/posts/blogPage0014"
+    },
+    {
         id: 13,
         title: "Join the Call for Council to Take Action",
         paragraph:

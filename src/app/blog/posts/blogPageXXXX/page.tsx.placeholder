@@ -12,10 +12,11 @@ export const metadata: Metadata = {
   // other metadata
 };
 
-const BlogPage0010 = () => {
+const BlogPageXXXX = () => {
   return (
     <>
       <section className="pb-[60px] pt-[75px]">
+      
         <div className="container">
 
             <div className=
@@ -24,7 +25,7 @@ const BlogPage0010 = () => {
                 <div className="mb-5 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4">
                     <div className="flex flex-wrap items-center">
                         <p className="text-base font-medium text-black">
-                            October XXXXXXXX DAY OF MONTH XXXXXXXX, 2024
+                            XXXXXXX XX, 2025
                         </p>
                     </div>
                     <div className="mb-0">
@@ -47,7 +48,7 @@ const BlogPage0010 = () => {
                        XXXXXXXX BI-LINE XXXXXXXX
                     </p>
                     
-                    <div className="aspect-[500/270]">
+                    <div className="aspect-[XXX/XXX]">
                         <Image
                             src="/images/blog/blog0010/blog10.svg"
                             alt="XXXXXXXX ALT XXXXXXXX"
@@ -56,23 +57,44 @@ const BlogPage0010 = () => {
                             className="self-center"
                         />
                     </div>
-               
+
+
+
+
+
+
                     <p className="mb-8">
                         XXXXXXXX PARAGRAPH XXXXXXXX
                     </p>
 
-        
+                    <p className="mb-8">
+                        XXXXXXXX PARAGRAPH XXXXXXXX
+                    </p>
 
-                    <p className="text-center pb-8 text-2xl weight-bold pt-8 text-[#165D8F] ">Together we can find a better way!</p>
+                    <p className="mb-8">
+                        XXXXXXXX PARAGRAPH XXXXXXXX
+                    </p>
+
+                    <p className="mb-8">
+                        XXXXXXXX PARAGRAPH XXXXXXXX
+                    </p>
+
+
+
+
+
+
+
+                    <p className="pt-8  pb-8 
+                    text-center text-2xl weight-bold text-[#165D8F] ">Together we can find a better way!</p>
 
             </div>
         </div>
 
-        
       </section>
 
     </>
   );
 };
 
-export default BlogPage0010;
+export default BlogPageXXXX;
