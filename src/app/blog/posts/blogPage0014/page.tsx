@@ -49,7 +49,7 @@ const BlogPage0014 = () => {
                     
                     <div className="aspect-[750/402] mb-8">
                         <Image
-                            src="/images/blog/blog0014/blog14.jpg"
+                            src="/images/blog/blog0014/blog14-letters.png"
                             alt="Arnprior Municipal Offices Front Entrance"
                             width="750"
                             height="402"
