@@ -22,6 +22,24 @@ const blogData: Blog[] = [
     },
     */
     {
+        id: 15,
+        title: "Community Stands up for Gillies Grove",
+        paragraph:
+          "Ecological Study Needed",
+        image: "/images/blog/blog0015/blog15.png",
+        alt: "Logo and Mary Reynolds Quote",
+        width: 500,
+        height: 279,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["UPDATE"],
+        publishDate: "January 29, 2025",
+        blogURL: "/blog/posts/blogPage0015"
+    },
+    {
         id: 14,
         title: "STGA to Present Delegation at Town Hall",
         paragraph:
