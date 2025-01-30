@@ -72,7 +72,7 @@ const BlogPage0015 = () => {
                     For a standing room only crowd, Save the Grove Again&apos;s Lacey Smith brought forth our concerns and requests at the town council meeting Monday night. As Mayor McGee stated &apos;we don&apos;t often have too many visitors here&apos; referring to attendance at town council meetings. But the community showed just how much they care about the future of Gillies Grove, and council took notice. Thanks for all your support!
                     </p>
 
-                    <iframe className="my-8 mx-auto"
+                    <iframe className="w-full my-8 mx-auto"
                     width="500" height="281" src="https://www.youtube.com/embed/EeT58Dk-RuY?si=qfy9kYiFmfOmpgJP" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">January 27th, 2025 Regular Meeting of Council </iframe>
 
                     <p className="mb-8 text-justify w-md">
