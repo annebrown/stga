@@ -63,19 +63,19 @@ const BlogPageXXXX = () => {
 
 
 
-                    <p className="mb-8">
+                    <p className="mb-8 text-justify">
                         XXXXXXXX PARAGRAPH XXXXXXXX
                     </p>
 
-                    <p className="mb-8">
+                    <p className="mb-8 text-justify">
                         XXXXXXXX PARAGRAPH XXXXXXXX
                     </p>
 
-                    <p className="mb-8">
+                    <p className="mb-8 text-justify">
                         XXXXXXXX PARAGRAPH XXXXXXXX
                     </p>
 
-                    <p className="mb-8">
+                    <p className="mb-8 text-justify">
                         XXXXXXXX PARAGRAPH XXXXXXXX
                     </p>
 

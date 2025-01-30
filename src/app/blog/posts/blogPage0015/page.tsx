@@ -76,7 +76,7 @@ const BlogPage0015 = () => {
                     </p> */}
 
                     <iframe className="my-8 mx-auto"
-                    width="500" height="281" src="https://www.youtube.com/embed/EeT58Dk-RuY?si=qfy9kYiFmfOmpgJP" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>January 27th, 2025 Regular Meeting of Council </iframe>
+                    width="500" height="281" src="https://www.youtube.com/embed/EeT58Dk-RuY?si=qfy9kYiFmfOmpgJP" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">January 27th, 2025 Regular Meeting of Council </iframe>
 
                     <p className="mb-8 text-justify w-md">
                     We have now made our formal request to have the Town conduct its own ecological study of the Grove. Lacey made it clear that we need to have this vital information as a community to be best equipped to protect Gillies Grove regardless of what it faces in the future.  It was left that research will be needed to know what options exist for such a study pre-emptive of a development proposal, Town Planner Alix Jolicoeur stated. These options would need to be brought to council at a later date.
