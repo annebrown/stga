@@ -48,17 +48,22 @@ const BlogPage0015 = () => {
                        Ecological Study Needed
                     </p>
                     
-                    <div className="aspect-[500/279] w-full">
+                    <div className="aspect-[421/421] w-full">
                         <Image
-                            src="/images/blog/blog0015/blog15.png"
-                            alt="Logo and Mary Reynolds Quote"
-                            width="500"
-                            height="279"
+                            src="/images/logo/logo_black_small.png"
+                            alt="STGA Logo"
+                            width="421"
+                            height="421"
                             className="self-center"
                         />
                     </div>
 
-
+                    <p className="mb-2 font-bold text-center leading-none">
+                    &ldquo;Old-growth woodlands ... are the complex and ancient ecosystems where the true seeds of restoration lie&ldquo;
+                    </p>
+                    <p className="mb-8  text-center">
+                    - Mary Reynolds, We Are the Ark
+                    </p>
 
 
 
@@ -66,14 +71,6 @@ const BlogPage0015 = () => {
                     <p className="mb-8  text-justify">
                     For a standing room only crowd, Save the Grove Again&apos;s Lacey Smith brought forth our concerns and requests at the town council meeting Monday night. As Mayor McGee stated &apos;we don&apos;t often have too many visitors here&apos; referring to attendance at town council meetings. But the community showed just how much they care about the future of Gillies Grove, and council took notice. Thanks for all your support!
                     </p>
-
-                    
-
-
-
-                    {/* <p className="mb-8">
-                    January 27th, 2025 Regular Meeting of Council 
-                    </p> */}
 
                     <iframe className="my-8 mx-auto"
                     width="500" height="281" src="https://www.youtube.com/embed/EeT58Dk-RuY?si=qfy9kYiFmfOmpgJP" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">January 27th, 2025 Regular Meeting of Council </iframe>
