@@ -48,7 +48,7 @@ const BlogPage0015 = () => {
                        Ecological Study Needed
                     </p>
                     
-                    <div className="aspect-[421/421] w-full">
+                    <div className="aspect-[421/421] mx-auto">
                         <Image
                             src="/images/logo/logo_black_small.png"
                             alt="STGA Logo"

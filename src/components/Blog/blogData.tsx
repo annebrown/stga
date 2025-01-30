@@ -26,10 +26,10 @@ const blogData: Blog[] = [
         title: "Community Stands up for Gillies Grove",
         paragraph:
           "Ecological Study Needed",
-        image: "/images/logo/logo_black_small.png",
-        alt: "STGA Logo",
-        width: 421,
-        height: 421,
+        image: "/images/blog/blog0015/blog15.png",
+        alt: "Logo and Mary Reynolds Quote",
+        width: 500,
+        height: 279,
         author: {
           name: "",
           image: "",
