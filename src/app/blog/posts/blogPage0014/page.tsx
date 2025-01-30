@@ -47,9 +47,9 @@ const BlogPage0014 = () => {
                        Your Presence Matters
                     </p>
                     
-                    <div className="aspect-[750/402] mb-8">
+                    <div className="aspect-[750/402] mb-8 w-full">
                         <Image
-                            src="/images/blog/blog0014/blog14-letters.png"
+                            src="/images/blog/blog0014/blog14.jpg"
                             alt="Arnprior Municipal Offices Front Entrance"
                             width="750"
                             height="402"

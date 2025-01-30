@@ -44,7 +44,7 @@ const blogData: Blog[] = [
         title: "STGA to Present Delegation at Town Hall",
         paragraph:
           "Your Presence Matters",
-        image: "/images/blog/blog0014/blog14-letters.png",
+        image: "/images/blog/blog0014/blog14.jpg",
         alt: "Arnprior Municipal Offices Front Entrance",
         width: 750,
         height: 402,
