@@ -48,7 +48,7 @@ const BlogPageXXXX = () => {
                        XXXXXXXX BI-LINE XXXXXXXX
                     </p>
                     
-                    <div className="aspect-[XXX/XXX]">
+                    <div className="aspect-[XXX/XXX] mb-8">
                         <Image
                             src="/images/blog/blog0010/blog10.svg"
                             alt="XXXXXXXX ALT XXXXXXXX"

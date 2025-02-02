@@ -22,6 +22,24 @@ const blogData: Blog[] = [
     },
     */
     {
+        id: 16,
+        title: "A Crucial Public Meeting to Sever Land",
+        paragraph:
+          "We need everyone present for this one!",
+        image: "/images/blog/blog0016/blog16.png",
+        alt: "Nick Smith Centre Entrance",
+        width: 500,
+        height: 325,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["ACTION"],
+        publishDate: "February 1, 2025",
+        blogURL: "/blog/posts/blogPage0016"
+    },
+    {
         id: 15,
         title: "Community Stands up for Gillies Grove",
         paragraph:
