@@ -61,7 +61,7 @@ const BlogPage0016 = () => {
                 <div className="text-black mb-8">
                     <p className="pb-1"><strong>Details</strong></p>
                     <p className="pb-1"><strong>What:</strong> Committee of Adjustment Public Meeting</p>
-                    <p className="pb-1"><strong>When:</strong> Wednesday, February 5th at 6:00 PMWednesday, February 5th at 6:00 PM</p>
+                    <p className="pb-1"><strong>When:</strong> Wednesday, February 5th at 6:00 PM</p>
                     <p className="pb-1"><strong>Where:</strong>Nick Smith Centre, Community Hall, 77 James Street, Arnprior</p>
                 </div>
 
@@ -83,11 +83,11 @@ const BlogPage0016 = () => {
                 </p>
 
                 <ol className="mb-8">
-                    <li>🌲 Everyone is encouraged to attend!</li>
+                    <li className="font-bold">🌲 Everyone is encouraged to attend!</li>
                     <li>🌲 Anyone can make a comment or ask a question at the meeting.</li>
                     <li>🌲 If you do not wish to speak you can send a written comment prior to the meeting (see below)</li>
                     <li>🌲 The applicant will be in attendance and will make a presentation</li>
-                    <li>🌲 Wear <span className="text-[#38AF34]">green</span> in support of Gillies Grove!</li>
+                    <li className="font-bold">🌲 Wear <span className="text-[#38AF34]">green</span> in support of Gillies Grove!</li>
                 </ol>
 
                 <p className="mb-1">
