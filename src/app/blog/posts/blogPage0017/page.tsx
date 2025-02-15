@@ -7,8 +7,8 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Community Opposition Resounds at Public Meeting",
-  description: "Town’s recommendation and committee’s review not based in reality!",
+  title: "Community's pleas fall on deaf ears at public meeting",
+  description: "Town's evaluation, committee's decision based on development of 'single, detached dwelling'"
   // other metadata
 };
 

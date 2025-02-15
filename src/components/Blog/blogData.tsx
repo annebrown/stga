@@ -9,7 +9,7 @@ const blogData: Blog[] = [
           "XXXXXXXX",
         image: "/images/blog/blog00XX/blogXX.svg",
         alt: "XXXXXXXX",
-        width: 500,
+        width: 500
         height: 500,
         author: {
           name: "",
@@ -23,9 +23,9 @@ const blogData: Blog[] = [
     */
     {
         id: 17,
-        title: "Community Opposition Resounds at Public Meeting",
+        title: "Community's pleas fall on deaf ears at public meeting",
         paragraph:
-          "Town’s recommendation and committee’s review not based in reality!",
+          "Town's evaluation, committee's decision based on development of 'single, detached dwelling'",
         image: "/images/blog/blog0017/blog17.png",
         alt: "Local community gathering in gymnasium",
         width: 500,
