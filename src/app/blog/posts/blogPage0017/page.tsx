@@ -44,7 +44,7 @@ const BlogPage0017 = () => {
                 <p 
                     className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                 >
-                    Town&apos;s recommendation and committee&apos;s review not based in reality!
+                    Town&apos;s evaluation, committee&apos;s decision based on development of &apos;single, detached dwelling&apos; 
                 </p>
                 
                 <div className="aspect-[500/278] mb-8">
