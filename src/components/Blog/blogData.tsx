@@ -23,9 +23,9 @@ const blogData: Blog[] = [
     */
     {
         id: 17,
-        title: "Community's pleas fall on deaf ears at public meeting",
+        title: "CommunityXs pleas fall on deaf ears at public meeting",
         paragraph:
-          "Town's evaluation, committee's decision based on development of 'single, detached dwelling' ",
+          "TownXs evaluation, committeeXs decision based on development of Xsingle, detached dwellingX",
         image: "/images/blog/blog0017/blog17.png",
         alt: "Local community gathering in gymnasium",
         width: 500,
