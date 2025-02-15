@@ -3,24 +3,42 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
     /*  
     {
-        id: X,
-        title: "MMMMMM",
+        id: XXXXXXXX,
+        title: "XXXXXXXX",
         paragraph:
-          "MMMMMM",
-        image: "/images/blog/blog000X/blogX.svg",
-        alt: "MMMMMM - Alt text for image",
+          "XXXXXXXX",
+        image: "/images/blog/blog00XX/blogXX.svg",
+        alt: "XXXXXXXX",
         width: 500,
-        height: 375,
+        height: 500,
         author: {
           name: "",
           image: "",
           designation: "",
         },
-        tags: ["MMMMMM - TAG"],
-        publishDate: "January MMMMMM-DAY, 2025",
-        blogURL: "/blog/posts/blogPage000X"
+        tags: ["XXXXXXXX"],
+        publishDate: "February XXXXXXXX, 2025",
+        blogURL: "/blog/posts/blogPage00XX"
     },
     */
+    {
+        id: 17,
+        title: "Community Opposition Resounds at Public Meeting",
+        paragraph:
+          "Town’s recommendation and committee’s review not based in reality!",
+        image: "/images/blog/blog0017/blog17.png",
+        alt: "Local community gathering in gymnasium",
+        width: 500,
+        height: 278,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["UPDATE"],
+        publishDate: "February 14, 2025",
+        blogURL: "/blog/posts/blogPage0017"
+    },
     {
         id: 16,
         title: "A Crucial Public Meeting to Sever Land",
