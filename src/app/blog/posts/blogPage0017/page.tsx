@@ -47,7 +47,7 @@ const BlogPage0017 = () => {
                     Town’s recommendation and committee’s review not based in reality!
                 </p>
                 
-                <div className="aspect-[500/500] mb-4">
+                <div className="aspect-[500/278] mb-8">
                     <Image
                         src="/images/blog/blog0017/blog17.png"
                         alt="Local community gathering in gymnasium"
@@ -86,7 +86,7 @@ const BlogPage0017 = () => {
                     We’ll be preparing, and we’ll keep you updated.
                 </p>
 
-                <div className="aspect-[500/500] mb-8">
+                <div className="w-full aspect-[450/500] mb-8">
                     <Image
                         src="/images/blog/blog0017/blog17-a.png"
                         alt="Local community member presents to council"
@@ -96,7 +96,7 @@ const BlogPage0017 = () => {
                     />
                 </div>
 
-                <div className="aspect-[500/500] mb-8">
+                <div className="w-full mb-8">
                     <Image
                         src="/images/blog/blog0017/blog17-b.png"
                         alt="STGA Committee Chair presents to council"
