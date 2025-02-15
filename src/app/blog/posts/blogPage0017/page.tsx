@@ -39,12 +39,12 @@ const BlogPage0017 = () => {
                 </div>
           
                 <p className="text-2xl">
-                    <strong>Community Opposition Resounds at Public Meeting</strong>
+                    <strong>Community's pleas fall on deaf ears at public meeting</strong>
                 </p><br></br>
                 <p 
                     className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                 >
-                    Town’s recommendation and committee’s review not based in reality!
+                    Town's evaluation, committee's decision based on development of 'single, detached dwelling'
                 </p>
                 
                 <div className="aspect-[500/278] mb-8">
