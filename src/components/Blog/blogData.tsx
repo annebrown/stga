@@ -23,9 +23,9 @@ const blogData: Blog[] = [
     */
     {
         id: 17,
-        title: "Community's pleas fall on deaf ears at public meeting",
+        title: "Community Members Rally",
         paragraph:
-          "Town's evaluation, committee's decision based on development of 'single, detached dwelling' ",
+          "Committee of Adjustment Approves Severance of Environmentally and Culturally Sensitive Lands",
         image: "/images/blog/blog0017/blog17.png",
         alt: "Local community gathering in gymnasium",
         width: 500,

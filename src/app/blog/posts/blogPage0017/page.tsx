@@ -7,8 +7,8 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Community's pleas fall on deaf ears at public meeting",
-  description: "Town's evaluation, committee's decision based on development of 'single, detached dwelling'"
+  title: "Community Members Rally",
+  description: "Committee of Adjustment Approves Severance of Environmentally and Culturally Sensitive Lands"
   // other metadata
 };
 
@@ -39,12 +39,12 @@ const BlogPage0017 = () => {
                 </div>
           
                 <p className="text-2xl">
-                    <strong>Community&apos;s pleas fall on deaf ears at public meeting</strong>
+                    <strong>Community Members Rally</strong>
                 </p><br></br>
                 <p 
                     className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                 >
-                    Town&apos;s evaluation, committee&apos;s decision based on development of &apos;single, detached dwelling&apos; 
+                     Committee of Adjustment Approves Severance of Environmentally and Culturally Sensitive Lands 
                 </p>
                 
                 <div className="aspect-[500/278] mb-8">
@@ -58,28 +58,28 @@ const BlogPage0017 = () => {
                 </div>
 
                 <p className="mb-8 text-justify">
-                    Many thanks to the 140+ people who attended the public severance meeting at Nick Smith Centre on Wednesday, February 5th. What an incredible display of community support for the Grove.
+                Many thanks to the approximately 140 people who attended the public severance meeting at Nick Smith Centre on Wednesday, February 5th. What an incredible display of community support for the Grove.
                 </p>
 
                 <p className="mb-8 text-justify">
-                    In case you missed it, the Town’s Committee of Adjustment hosted a public review of the Galilee Mission Centre’s application to sever their land. Galilee representatives and the Town’s planning department made their presentations first. Then the public was given the opportunity to share concerns and questions.
+                In case you missed it, the Town’s Committee of Adjustment hosted a public review of the Galilee Mission Centre’s application to sever their environmentally and culturally sensitive land. Galilee representatives and the Town’s planning department made their presentations first. Then the public was given the opportunity to share concerns and questions.
                 </p>
 
                 <p className="mb-8 text-justify">
-                    It was a long night with many inspiring, passionate and articulate community members stepping up to the mic. Not one resident got up to support the severance. It was one person after another, sharing their story and making a plea to the Committee of Adjustment to deny the application. It was incredibly heartwarming but, sadly, fruitless.
+                It was a long night with many inspiring, passionate and articulate community members stepping up to the mic. Not one resident got up to support the severance. It was one person after another, sharing their story and making a plea to the Committee of Adjustment to deny the application. It was incredibly heartwarming.
                 </p>
 
                 <p className="mb-8 text-justify">
-                    That evening, the committee decided to discuss the matter privately and release their decision in written format. Two days later, we received word the severance was approved.
+                That evening, the committee decided to discuss the matter in camera and release their decision in written format. Two days later, we received word the severance was approved.
                 </p>
 
 
                 <p className="mb-8 text-justify">
-                    Though we are disappointed in this decision, we are not surprised. The Town and Committee of Adjustment assessed the matter as if only a single, detached dwelling would be built on the lot. As such, most of our written and voiced concerns fell outside the scope of their review. (For instance, how can one be concerned about increased traffic if only one home will be built?) Grove supporters were there to talk about the actual plans for this property—the development of a residential subdivision. It is disappointing that the Town’s recommendation and committee’s review were not based in reality.
+                Though we are disappointed in this decision, we are not surprised. The Town and Committee of Adjustment assessed the matter on the basis of a single detached dwelling being built on the lot. As such, most of our written and voiced concerns fell outside the scope of their review. (For instance, how can one be concerned about increased traffic if only one home will be built?) Grove supporters were there to talk about the actual plans for this property—the development of a residential subdivision. It is disappointing that the Town’s recommendation and committee’s review did not reflect the stated purpose in the Galilee Mission Centre’s application: “<i>...the proposed use is for an appropriate mix and range of housing options, with easy access to Arnprior General Hospital, Robert Simpson Park, and the beautiful Lac des Chats</i>”.
                 </p>
 
                 <p className="mb-8 text-justify">
-                    Thankfully, there’s still ample opportunity to fight for Gillies Grove and stop the development of these historically and environmentally significant, irreplaceable lands. It just turns out this battle isn’t a sprint; it’s a marathon.
+                Thankfully, there’s still ample opportunity to protect  Gillies Grove and stop the development of these historically and environmentally significant, irreplaceable lands. It just turns out this campaign isn’t a sprint; it’s a marathon.
                 </p>
 
                 <p className="mb-8 text-justify">
