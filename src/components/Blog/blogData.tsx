@@ -21,6 +21,26 @@ const blogData: Blog[] = [
         blogURL: "/blog/posts/blogPage00XX"
     },
     */
+     
+    {
+        id: 18,
+        title: "Election day: Candidates weigh in on protecting Gillies Grove",
+        paragraph:
+          "Two candidates respond to STGA questionnaire",
+        image: "/images/blog/blog0018/blog18.png",
+        alt: "Ballot box and text: RENFREW-NIPISSING-PEMBROKE Candidates weigh in on protecting Gillies Grove",
+        width: 568,
+        height: 338,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["OPINION"],
+        publishDate: "February 27, 2025",
+        blogURL: "/blog/posts/blogPage0018"
+    },
+    
     {
         id: 17,
         title: "Community Members Rally",
