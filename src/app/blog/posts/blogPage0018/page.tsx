@@ -48,7 +48,7 @@ const BlogPage0018 = () => {
                        Two candidates respond to STGA questionnaire
                     </p>
                     
-                    <div className="aspect-[500/500] mb-8">
+                    <div className="aspect-[568/338] mb-8">
                         <Image
                             src="/images/blog/blog0018/blog18.png"
                             alt="Ballot box and text: RENFREW-NIPISSING-PEMBROKE Candidates weigh in on protecting Gillies Grove"
@@ -78,10 +78,10 @@ const BlogPage0018 = () => {
                     <p className="mb-1 text-justify font-bold">
                     From Oliver Jacob, Ontario Liberal Party
                     </p>
-                    <p className="mb-6 text-justify">
+                    <p className="mb-4 text-justify">
                     &quot;Yes. I have been aware of efforts of the Save The Grove Again Committee over the last six months to protect the Gillies Grove and its significant woodland. Please note that as I am currently employed by the Town of Arnprior as Deputy Clerk and engaged with Arnprior Regional Health as its Board Chair, I am not able to take a position on the proposed development.
                     </p>
-                    <p className="mb-6 text-justify">
+                    <p className="mb-4 text-justify">
                     However, what I can say is that the Ford Conservatives have taken the wrong direction when it comes to their plan to build more housing. Eliminating environmental protections and removing appeal rights from the planning process has not helped to spur more housing development. It has only destroyed public confidence in the land use planning process. <b>Instead, I believe that the next provincial government should undertake a review of the Planning Act, Provincial Planning Statement (PPS), and related regulations to identify where amendments are required to protect the environment and restore appeal rights that existed prior to 2018.</b>
                     </p> 
                     <p className="mb-8 text-justify">
@@ -90,13 +90,13 @@ const BlogPage0018 = () => {
                     <p className="mb-1 text-justify font-bold">
                     From Marshall Buchanan, Ontario NDP
                     </p>
-                    <p className="mb-6 text-justify">
+                    <p className="mb-4 text-justify">
                     “Surprisingly, I was not aware. I just spent many hours last fall coaching the Town of Arnprior to help them get a Green Municipal Fund grant to increase/renew their urban forest tree canopy. Given I was consulting as a Tree Canada coach, it is surprising that no one from the Town told me about the controversy.
                     </p>
-                    <p className="mb-6 text-justify">
+                    <p className="mb-4 text-justify">
                     I am a Registered Professional Forester and do lots of urban forestry consulting. The issue of developers vs. trees is not new. Of course I am in favour of the grassroots groups that want to save the forest. <b>A buffer zone has to be established between the edge of the development and the woodlot. Mature trees are more sensitive to changes in drainage, heat, humidity and disturbance than are young trees.</b>
                     </p>
-                    <p className="mb-6 text-justify">
+                    <p className="mb-8 text-justify">
                     So the residents have to keep up the fight to force the municipality or the developer to take measures to avoid harming the woodlot and /or, pay into a fund to create new forest.”
                     </p>
                     <p className="mb-8 text-justify">
