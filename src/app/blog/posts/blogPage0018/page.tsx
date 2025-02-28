@@ -79,13 +79,13 @@ const BlogPage0018 = () => {
                     From Oliver Jacob, Ontario Liberal Party
                     </p>
                     <p className="mb-6 text-justify">
-                    "Yes. I have been aware of efforts of the Save The Grove Again Committee over the last six months to protect the Gillies Grove and its significant woodland. Please note that as I am currently employed by the Town of Arnprior as Deputy Clerk and engaged with Arnprior Regional Health as its Board Chair, I am not able to take a position on the proposed development.
+                    &quot;Yes. I have been aware of efforts of the Save The Grove Again Committee over the last six months to protect the Gillies Grove and its significant woodland. Please note that as I am currently employed by the Town of Arnprior as Deputy Clerk and engaged with Arnprior Regional Health as its Board Chair, I am not able to take a position on the proposed development.
                     </p>
                     <p className="mb-6 text-justify">
                     However, what I can say is that the Ford Conservatives have taken the wrong direction when it comes to their plan to build more housing. Eliminating environmental protections and removing appeal rights from the planning process has not helped to spur more housing development. It has only destroyed public confidence in the land use planning process. <b>Instead, I believe that the next provincial government should undertake a review of the Planning Act, Provincial Planning Statement (PPS), and related regulations to identify where amendments are required to protect the environment and restore appeal rights that existed prior to 2018.</b>
                     </p> 
                     <p className="mb-8 text-justify">
-                    In order to spur housing development, we need to focus on reducing costs for developers by eliminating development charges while ensuring that municipalities are kept whole through additional provincial investment in municipal infrastructure. As a general rule, development should not occur on environmentally significant lands or prime agricultural lands."
+                    In order to spur housing development, we need to focus on reducing costs for developers by eliminating development charges while ensuring that municipalities are kept whole through additional provincial investment in municipal infrastructure. As a general rule, development should not occur on environmentally significant lands or prime agricultural lands.&quot;
                     </p>
                     <p className="mb-1 text-justify font-bold">
                     From Marshall Buchanan, Ontario NDP
@@ -94,7 +94,7 @@ const BlogPage0018 = () => {
                     “Surprisingly, I was not aware. I just spent many hours last fall coaching the Town of Arnprior to help them get a Green Municipal Fund grant to increase/renew their urban forest tree canopy. Given I was consulting as a Tree Canada coach, it is surprising that no one from the Town told me about the controversy.
                     </p>
                     <p className="mb-6 text-justify">
-                    I am a Registered Professional Forester and do lots of urban forestry consulting. The issue of developers vs. trees is not new. Of course I am in favour of the grassroots groups that want to save the forest. <em>A buffer zone has to be established between the edge of the development and the woodlot. Mature trees are more sensitive to changes in drainage, heat, humidity and disturbance than are young trees.</em>
+                    I am a Registered Professional Forester and do lots of urban forestry consulting. The issue of developers vs. trees is not new. Of course I am in favour of the grassroots groups that want to save the forest. <b>A buffer zone has to be established between the edge of the development and the woodlot. Mature trees are more sensitive to changes in drainage, heat, humidity and disturbance than are young trees.</b>
                     </p>
                     <p className="mb-6 text-justify">
                     So the residents have to keep up the fight to force the municipality or the developer to take measures to avoid harming the woodlot and /or, pay into a fund to create new forest.”
