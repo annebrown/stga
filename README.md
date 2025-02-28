@@ -1,14 +1,12 @@
 # Save the Grove, Again
 
-File: `@@/README.md`
-
 ## Description
 
-Source Code for "Save the Grove, Again" Website
+Source Code for [Save the Grove, Again](https://www.savethegroveagain.com) Website
 
 ## Purpose
 
-Local Community, Greenspace Initiative, for Gillies Grove in Arnprior, ON
+Local community effort to prevent the destruction of the treasured greenspace known as the Gillies Grove, Arnprior, ON.
 
 ## Links
 
@@ -22,22 +20,14 @@ Local Community, Greenspace Initiative, for Gillies Grove in Arnprior, ON
 
 ## License
 
-- MIT License: [`@@/LICENSE`](/LICENSE)
+- [MIT](/LICENSE)
 
 ## Tech Stack
 
 - Tech Stack: [Next.js](https://nextjs.org/)/[Tailwind](https://tailwindcss.com/) Full-Stack Web App
+  
 
 ## Palette
 
 - Primary: Blue - `#165D8F`
 - Accent: Green - `#38AF34`
-
-## Tasks
-
-Low Priority
-
-- Reduce footer margins for viewports < 3-col flex
-- Render Dropdown Navi Menu above Logo 
-
-https://preview.savethegroveagain.com?_vercel_share=FRBKgprVecE6lZASqVXREbZetesO6cBB
