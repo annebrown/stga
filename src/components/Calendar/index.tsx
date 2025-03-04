@@ -4,7 +4,7 @@ import SectionTitle from "../Common/SectionTitle";
 const Calendar = () => {
     return (
         <>
-              <div className=" bg-green-200 relative z-10 pt-10 pb-2 mt-10 mb-0">
+              <div className=" bg-green-200 relative z-10 pt-14 pb-10 mt-0 mb-0">
                 <div className="m-0 !mb-0 !pb-0">
                     <h2 className="mb-8 text-4xl text-black text-center font-bold">
                         Events Calendar
