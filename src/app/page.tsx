@@ -1,6 +1,7 @@
 // File: /src/app/page.tsx
 // Sections
 import OnlyLatest from "@/components/Blog/onlyLatest";
+import Events from "@/components/Events";
 // import Brands from "@/components/Brands";
 // import ScrollUp from "@/components/Common/ScrollUp";
 // import Features from "@/components/Features";
@@ -25,6 +26,7 @@ export default function Home() {
     <>
       {/* <ScrollUp /> */}
       <Hero />
+      <Events />
       <Answer />
       <Video />
       <OnlyLatest />
