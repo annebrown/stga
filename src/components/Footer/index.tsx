@@ -39,7 +39,7 @@ const Footer = () => {
                             <span className="flex mx-auto">
 
                                 <a href="mailto:savethegroveagain@gmail.com" 
-                                    className="text-[#38AF34] hover:text-primary text-xs">
+                                    className="text-green-600 hover:text-primary text-xs">
                                     <svg 
                                         xmlns="http://www.w3.org/2000/svg" 
                                         width="18" height="18" 
@@ -56,7 +56,7 @@ const Footer = () => {
                                     aria-label="social-link"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="duration-300 hover:text-primary text-[#38AF34]"
+                                    className="duration-300 hover:text-primary text-green-600"
                                 >
                                     <svg
                                         width="18"
@@ -73,7 +73,7 @@ const Footer = () => {
                                     aria-label="social-link"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="duration-300 hover:text-primary text-[#38AF34]"
+                                    className="duration-300 hover:text-primary text-green-600"
                                 >
                                     <svg
                                     width="18"
@@ -81,7 +81,7 @@ const Footer = () => {
                                     viewBox="0 0 22 22"
                                     fill="none"
                                     xmlns="http://www.w3.org/2000/svg"
-                                    className="mt-1 inline-block align-middle fill-[#38AF34] stroke-[#38AF34]"
+                                    className="mt-1 inline-block align-middle fill-green-600 stroke-green-600"
 
                                     >
                                     <path
@@ -100,7 +100,7 @@ const Footer = () => {
                                         alt="Instagram logo"
                                         width="16"
                                         height="16"
-                                        className="inline-block align-middle mt-1 duration-300 hover:text-primary text-[#38AF34] fill-[#38AF34] stroke-[#38AF34]"
+                                        className="inline-block align-middle mt-1 duration-300 hover:text-primary text-green-600 fill-green-600 stroke-green-600"
                                          />
                                 </Link>
                             </span>
@@ -119,21 +119,21 @@ const Footer = () => {
                                 <li className="mb-0 pb-0 text-xs">
                                 <Link
                                     href="/blog"
-                                    className="text-xs text-center duration-300 hover:text-primary text-[#38AF34]">
+                                    className="text-xs text-center duration-300 hover:text-primary text-green-600">
                                     Blog
                                 </Link>
                                 </li>
                                 <li className="pb-0 text-xs">
                                 <Link
                                     href="/action"
-                                    className="text-xs duration-300 hover:text-primary text-[#38AF34]">
+                                    className="text-xs duration-300 hover:text-primary text-green-600">
                                     Get Involved!
                                 </Link>
                                 </li>
                                 <li className="pl-0 text-xs pb-0">
                                 <Link
                                     href="/about"
-                                    className="text-xs duration-300 hover:text-primary text-[#38AF34]">
+                                    className="text-xs duration-300 hover:text-primary text-green-600">
                                     About
                                 </Link>
                                 </li>

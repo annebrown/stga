@@ -101,7 +101,7 @@ const FAQ = () => {
                         10. How can I help?
                     </p>
                     <p className="text-justify p-2">
-                    This is one of our most frequently asked questions! Right now we are looking for signatures on our petition, volunteers, and donations. We have devoted a whole page on our website just for this! You can find it <a className="text-[#38AF34]" href="/action">here</a>.  While you are there, sign up for our mailing list so you can stay informed. 
+                    This is one of our most frequently asked questions! Right now we are looking for signatures on our petition, volunteers, and donations. We have devoted a whole page on our website just for this! You can find it <a className="text-green-600" href="/action">here</a>.  While you are there, sign up for our mailing list so you can stay informed. 
                     </p>
                 </div>
 
@@ -110,7 +110,7 @@ const FAQ = () => {
         </div>
            
         <p className="pt-5">
-            If you have any questions that we have not covered on this page, please feel free to send them to us at <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
+            If you have any questions that we have not covered on this page, please feel free to send them to us at <a href="mailto:savethegroveagain@gmail.com" className="text-green-600">
                 savethegroveagain@gmail.com<br/>
             </a>
         </p>

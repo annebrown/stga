@@ -98,7 +98,7 @@ const Header = () => {
                             className={`flex py-2 text-base font-['Bebas_Neue'] text-[#165D8F] lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 ${
                               usePathName === menuItem.path
                                 ? "text-primary"
-                                : "text-dark hover:text-[#38AF34]"
+                                : "text-dark hover:text-green-600"
                             }`}
                           >
                             {menuItem.title}

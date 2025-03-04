@@ -77,11 +77,11 @@ const BlogPage0012 = () => {
                             <li>💚 Invite family and friends</li>
                             <li>💚 Wear a button</li>
                             <li>💚 Talk to your friends and family about the importance of old-growth forests </li>
-                            <li>💚 Subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.</li>
-                            <li>💚 Fill out our <a  className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSc611weSVb3qvnl6KJd6AZ_lmRn0yStEYDpxIkE9bVJhFTeUQ/viewform?usp=sf_link"> volunteer form</a></li>
-                            <li>💚 Like and follow our <a className="text-[#38AF34]" href="https://www.facebook.com/people/Save-the-Grove-Again/61565284064994/">Facebook page</a></li>
-                            <li>💚 Subscribe to our <a className="text-[#38AF34]" href="https://www.youtube.com/@SaveTheGroveAgain">YouTube channel</a></li>
-                            <li>💚 Make a donation via e-transfer to  <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34] hover:text-primary">savethegroveagain@gmail.com</a></li>
+                            <li>💚 Subscribe to our <a className="text-green-600" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a>.</li>
+                            <li>💚 Fill out our <a  className="text-green-600" href="https://docs.google.com/forms/d/e/1FAIpQLSc611weSVb3qvnl6KJd6AZ_lmRn0yStEYDpxIkE9bVJhFTeUQ/viewform?usp=sf_link"> volunteer form</a></li>
+                            <li>💚 Like and follow our <a className="text-green-600" href="https://www.facebook.com/people/Save-the-Grove-Again/61565284064994/">Facebook page</a></li>
+                            <li>💚 Subscribe to our <a className="text-green-600" href="https://www.youtube.com/@SaveTheGroveAgain">YouTube channel</a></li>
+                            <li>💚 Make a donation via e-transfer to  <a href="mailto:savethegroveagain@gmail.com" className="text-green-600 hover:text-primary">savethegroveagain@gmail.com</a></li>
                         </ul>
                         <p className="mb-8">
                             We look forward to connecting with you all on Thursday and building community together.

@@ -87,7 +87,7 @@ const BlogPage0016 = () => {
                     <li>🌲 Anyone can make a comment or ask a question at the meeting.</li>
                     <li>🌲 If you do not wish to speak you can send a written comment prior to the meeting (see below)</li>
                     <li>🌲 The applicant will be in attendance and will make a presentation</li>
-                    <li className="font-bold">🌲 Wear <span className="text-[#38AF34]">green</span> in support of Gillies Grove!</li>
+                    <li className="font-bold">🌲 Wear <span className="text-green-600">green</span> in support of Gillies Grove!</li>
                 </ol>
 
                 <p className="mb-1">
@@ -104,7 +104,7 @@ const BlogPage0016 = () => {
                 </p>
 
                 <p className="mb-8 text-justify">
-                For more information about the Committee of Adjustment meeting, go to the posting on the Town of Arnprior&apos;s website <Link href="https://www.arnprior.ca/en/news/public-notice-application-for-consent-no-b8-24-398-john-st-n.aspx" className="text-[#38AF34]">here</Link>.
+                For more information about the Committee of Adjustment meeting, go to the posting on the Town of Arnprior&apos;s website <Link href="https://www.arnprior.ca/en/news/public-notice-application-for-consent-no-b8-24-398-john-st-n.aspx" className="text-green-600">here</Link>.
                 </p>
                 
                 <div className="aspect-[500/266] mb-8">
@@ -122,7 +122,7 @@ const BlogPage0016 = () => {
                 </p>
 
                 <p className="pt-8  pb-8 
-                text-center text-2xl weight-bold text-[#38AF34]">
+                text-center text-2xl weight-bold text-green-600">
                     SHOW UP IN GREEN ON WEDNESDAY!!!
                 </p>
 

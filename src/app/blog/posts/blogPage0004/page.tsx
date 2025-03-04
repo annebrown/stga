@@ -100,7 +100,7 @@ Owner: Jeff Cavanagh <br />
 Contact: Pierre Dufresne <br />
 pdufresne@thomascavanagh.ca <br />
 613 257-2918 <br /><br /> 
-Find out about other ways that you can <a href="/action" className="duration-300 hover:text-primary text-[#38AF34]">make a difference</a>.  <br /></p>
+Find out about other ways that you can <a href="/action" className="duration-300 hover:text-primary text-green-600">make a difference</a>.  <br /></p>
 
                 </div>
             </div>
