@@ -6,7 +6,7 @@ let OnlyLatest = () => {
     return (
         <section
             id="blog"
-            className="bg-gray-light py-20 my-5"
+            className="bg-gray-light py-20 mb-5"
         >
             <div className="container w-full mx-auto">
                 <SectionTitle
