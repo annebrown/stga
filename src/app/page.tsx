@@ -14,6 +14,7 @@ import { Metadata } from "next";
 // Custom
 import Answer from "@/components/Answer";
 import Join from "@/components/Join";
+import Calendar from "@/components/Calendar";
 
 export const metadata: Metadata = {
   title: "Save the Grove, Again",
@@ -26,7 +27,7 @@ export default function Home() {
     <>
       {/* <ScrollUp /> */}
       <Hero />
-      <Events />
+      <Calendar />
       <Answer />
       <Video />
       <OnlyLatest />

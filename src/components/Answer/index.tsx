@@ -10,7 +10,7 @@ const Answer = () => {
     return (
         <>
             <section id="answer" className="realtive z-30 mt-5 p-0 w-full">
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4 content-center">
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 content-center">
 
                     <div className="ml-3 content-center h-full">
                         <p className="text-[#165D8F] text-justify text-sm xs:text-base sm:text-lg md:text-2xl lg:text-3xl 1xl:text-4xl">
