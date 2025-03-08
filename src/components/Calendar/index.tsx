@@ -12,11 +12,9 @@ const Calendar = () => {
                     </h2>
                 </div>
                 <div className="relative w-full max-w-screen mx-auto mt-0 pt-0 self-center">        
-                    <iframe 
-                        src="https://calendar.google.com/calendar/embed?height=300&wkst=1&ctz=America%2FToronto&title=EVENTS&showCalendars=0&showTz=0&mode=AGENDA&showTitle=0&src=MGE1NjU2YjkyZTAxZjVlMWRlYmE1YTNmNDEzMGYyNWEyNWQ0NzMyZTc3NTA4NjZiZWVhZmJmYmFmNmY5NGQ0MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457" 
-                        width="800" height="400"
-                        className="w-full h-full m-0 mb-10 p-0 px-10 rounded-lg"    
-                    ></iframe>
+
+                    <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&ctz=America%2FToronto&showPrint=0&mode=AGENDA&title=Save%20the%20Grove%20Again%20Calendar&src=MGE1NjU2YjkyZTAxZjVlMWRlYmE1YTNmNDEzMGYyNWEyNWQ0NzMyZTc3NTA4NjZiZWVhZmJmYmFmNmY5NGQ0MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2338AF34" width="800" height="300"
+                    className="w-full m-0 mb-10 p-0 px-10 rounded-lg" ></iframe>
                 </div>  
             </div>
         </>
