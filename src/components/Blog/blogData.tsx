@@ -21,7 +21,24 @@ const blogData: Blog[] = [
         blogURL: "/blog/posts/blogPage00XX"
     },
     */
-     
+    {
+        id: 19,
+        title: "'Call of the Forest' The Forgotten Wisdom of Trees",
+        paragraph:
+          "Come out to watch this beautiful film on the significance of ancient forests!",
+        image: "/images/blog/blog0019/blog19.png",
+        alt: "Forest with text: Call of the Forest, A film by Jeff McKay, and other details",
+        width: 353,
+        height: 382,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["Event"],
+        publishDate: "March 31, 2025",
+        blogURL: "/blog/posts/blogPage0019"
+    },
     {
         id: 18,
         title: "Election day: Candidates weigh in on protecting Gillies Grove",
