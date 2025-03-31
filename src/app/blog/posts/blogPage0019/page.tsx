@@ -108,7 +108,7 @@ const BlogPage0019 = () => {
 
 
                     <p className="mb-8 text-justify">
-                        More information on the film is available <a href="">here</a>.
+                        More information on the film is available <a href="https://calloftheforest.ca/" className="text-green-600">here</a>.
                     </p>
 
                     <p className="pt-8 pb-8 
