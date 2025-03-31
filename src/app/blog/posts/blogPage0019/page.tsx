@@ -40,7 +40,7 @@ const BlogPage0019 = () => {
 
           
                     <p className="text-2xl">
-                        <strong>'Call of the Forest' The Forgotten Wisdom of Trees</strong>
+                        <strong>&apos;Call of the Forest&apos; The Forgotten Wisdom of Trees</strong>
                     </p><br></br>
                     <p 
                         className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
