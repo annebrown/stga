@@ -31,9 +31,9 @@ export default function RootLayout({
 
       <body className={`mx-1 bg-white ${inter.className}`}>
         <Providers>
-        <Analytics />
           <Header />
           {children}
+          <Analytics />
           <Footer />
           {/* <ScrollToTop /> */}
         </Providers>
