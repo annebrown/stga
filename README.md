@@ -30,4 +30,4 @@ Local community effort to prevent the destruction of the treasured greenspace kn
 ## Palette
 
 - Primary: Blue - `#165D8F`
-- Accent: Green - `#38AF34`
+- Accent: Green - `#38AF34` (green-600)
