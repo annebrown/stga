@@ -200,7 +200,7 @@ const Action = () => {
                     <a href="mailto:tstrike@arnprior.ca" className="text-green-600">
                         tstrike@arnprior.ca<br/>
                     </a>
-                    <a href="tel:6134477275" className="text-green-600">(613)447-7275</a><br/>
+                    {/* <a href="tel:6134477275" className="text-green-600">(613)447-7275</a><br/> */}
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     Councillor: Chris Couper<br/>
