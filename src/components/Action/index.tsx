@@ -13,34 +13,9 @@ const Action = () => {
                     SIGN THE PETITION
                 </h2>
                 <p className="text-left py-2">
-                    You can <span className="text-amber-600">either</span> sign the <a className="text-green-600"  
-                    href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">
-                        online petition
-                    </a> <span className="text-amber-600">or</span> sign in person at one of the following locations in town: <br /><br />
-                    <span className="text-[#165D8F]">
-                        Ottawa Valley Coffee
-                    </span><br /> 
-                        &nbsp;&nbsp;&nbsp;32 Elgin St. W.<br /> 
-                    <span className="text-[#165D8F]">
-                        Remax Office
-                    </span><br />
-                        &nbsp;&nbsp;&nbsp;215 Daniel St. S.<br />
-                    <span className="text-[#165D8F]">
-                        Ultimate Fitness Gym
-                    </span><br />
-                        &nbsp;&nbsp;&nbsp;4-53 James St<br />
-                    <span className="text-[#165D8F]">
-                        Tina’s Hair Shop
-                    </span><br />
-                        &nbsp;&nbsp;&nbsp;57C Madawaska St.<br />
-                    <span className="text-[#165D8F]">
-                        The Vintage Crate
-                    </span><br /> 
-                        &nbsp;&nbsp;&nbsp;159 John St. N.<br />
-                    <span className="text-[#165D8F]">
-                        Sweet & Sassy Cafe and Bistro
-                    </span><br /> 
-                        &nbsp;&nbsp;&nbsp;114 John St. N.<br />
+                    Sign our <a className="text-green-600"  
+                    href="hhttps://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">
+                    online petition</a> if you haven&apos;t already. Please note, if you have already signed the hard-copy petition do not sign the online version.
                 </p>
                 <div className="p-2 bg-amber-100 text-black text-xs mt-2">
                     <p className="font-bold pb-0 mb-0.5">
@@ -64,10 +39,16 @@ const Action = () => {
                     SPREAD THE WORD
                 </h2>
                 <p className="text-left py-2">
-                    We have had a lot of media attention. Let&apos;s keep the ball rolling! Keep telling others, wear your button, hand out flyers, and follow, like and share our <a className="text-green-600" href="https://www.facebook.com/people/Save-the-Grove-Again/61565284064994/">Facebook page</a>. To request buttons, lawn signs and flyers, send an email to: &nbsp;  
-                        <a href="mailto:savethegroveagain@gmail.com" className="text-green-600">
-                            savethegroveagain@gmail.com
-                    </a>.
+                    Your word is powerful! Talk to your friends, family and neighbours about what is happening and how you feel about it.  Buttons are available by donation at Green Bean Natural Foods or by request at <a href="mailto:savethegroveagain@gmail.com" className="text-green-600">savethegroveagain@gmail.com</a>.  Wear it proud to show your support!
+                </p>
+            </div>
+
+            <div className="w-full bg-gray-100 p-5  my-5 break-inside-avoid-column">
+                <h2 className="text-[#165D8F] text-lg font-extrabold">
+                    LIKE AND FOLLOW US ON SOCIAL MEDIA
+                </h2>
+                <p className="text-left py-2">
+                    Follow us on <a href="https://www.facebook.com/people/Save-the-Grove-Again/61565284064994/" className="text-green-600">Facebook</a>, <a href="https://www.instagram.com/savethegroveagain2024/" className="text-green-600">Instagram</a> and <a href="https://www.youtube.com/@SaveTheGroveAgain/featured" className="text-green-600">YouTube</a> . Adding a like and a comment on our posts really helps the cause. And of course, please share it too so we can get the word out!
                 </p>
             </div>
 
@@ -118,6 +99,9 @@ const Action = () => {
                 </p>
                 <p className="py-2 text-center">
                     Below you will find contact information for the parties involved in the sale of this land, as well as contacts for all levels of government. We urge anyone who opposes the development of adjacent land to Gillies Grove to call or email these parties and get your voice heard! 
+                </p>
+                <p>
+                    Please find below some optional templates to assist you in writing an email to Galilee Center, OMI Lacombe, Cavangh Construction and various elected officials. 
                 </p>
             </div>
         
@@ -212,9 +196,9 @@ const Action = () => {
                     <a href="tel:6139139571" className="text-green-600">(613)913-9571</a><br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
-                    Councillor: Billy Denault<br/>
-                    <a href="mailto:bdenault@arnprior.ca" className="text-green-600">
-                        bdenault@arnprior.ca<br/>
+                    Councillor: Ted Strike<br/>
+                    <a href="mailto:tstrike@arnprior.ca" className="text-green-600">
+                        tstrike@arnprior.ca<br/>
                     </a>
                     <a href="tel:6134477275" className="text-green-600">(613)447-7275</a><br/>
                 </div>
@@ -251,12 +235,12 @@ const Action = () => {
                 </h2>
                 <div className="rounded-lg w-full bg-white p-5">
                     <p className="text-wrap">
-                        <a href="https://johnyakabuski.com" className="text-green-500">
-                            johnyakabuski.com
-                        </a><br/>
-                        John Yakabuski<br/>
-                        <a href="mailto:John.Yakabuski@pc.ola.org" className="text-green-600">
-                            John.Yakabuski@pc.ola.org<br/>
+                        {/* <a href="https://XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" className="text-green-500">
+                        Billy Denault
+                        </a><br/> */}
+                        Billy Denault<br/>
+                        <a href="mailto:billy.denault@pc.ola.org" className="text-green-600">
+                            billy.denault@pc.ola.org<br/>
                         </a>
                     </p>
                 </div>
