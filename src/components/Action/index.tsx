@@ -72,7 +72,7 @@ const Action = () => {
                 </p>
             </div>
 
-            <div className="w-full bg-gray-100 p-5" my-5>
+            <div className="w-full bg-gray-100 p-5 my-5">
                 <h2 className="text-[#165D8F] text-lg font-extrabold">
                     MAKE A DONATION
                 </h2>
@@ -200,7 +200,7 @@ const Action = () => {
                     <a href="mailto:tstrike@arnprior.ca" className="text-green-600">
                         tstrike@arnprior.ca<br/>
                     </a>
-                    {/* <a href="tel:6134477275" className="text-green-600">(613)447-7275</a><br/> */}
+                    <a href="tel:6136015651" className="text-green-600">(613)601-5651</a><br/>
                 </div>
                 <div className="rounded-lg w-full bg-white p-5">
                     Councillor: Chris Couper<br/>
@@ -235,10 +235,11 @@ const Action = () => {
                 </h2>
                 <div className="rounded-lg w-full bg-white p-5">
                     <p className="text-wrap">
-                        {/* <a href="https://XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" className="text-green-500">
-                        Billy Denault
-                        </a><br/> */}
+
                         Billy Denault<br/>
+                        <a href="tel:6137356627" className="text-green-500">
+                            613-735-6627
+                        </a><br/>
                         <a href="mailto:billy.denault@pc.ola.org" className="text-green-600">
                             billy.denault@pc.ola.org<br/>
                         </a>
@@ -288,7 +289,7 @@ const Action = () => {
                     </Link>
                     </p>
 
-                    Additional <Link href="https://docs.google.com/document/d/1RxpQHeKJCeBm7pLh7X_LhudDXYBPwd4ta3epOikFq7Y/edit?usp=sharing" className="duration-300 hover:text-primary text-green-600">TEMPLATE/EXAMPLE LETTERS</Link> have been provided by a community member for letters to Lacombe, Galilee Centre, Cavanagh, Mayor McGee and John Yakabuski, Legislative Assembly of Ontario.
+                    Additional <Link href="https://docs.google.com/document/d/1RxpQHeKJCeBm7pLh7X_LhudDXYBPwd4ta3epOikFq7Y/edit?usp=sharing" className="duration-300 hover:text-primary text-green-600">TEMPLATE/EXAMPLE LETTERS</Link> have been provided by a community member for letters to Lacombe, Galilee Centre, Cavanagh, Mayor McGee and Billy Denault, Legislative Assembly of Ontario.
 
     
 
