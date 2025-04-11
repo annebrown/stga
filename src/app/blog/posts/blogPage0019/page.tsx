@@ -107,6 +107,15 @@ const BlogPage0019 = () => {
                     </table>
 
 
+            <div className="w-full mx-auto mb-8">
+                <iframe 
+                src="https://player.vimeo.com/video/185080510?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"  
+                allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"  title="Call of the Forest - Official Trailer"
+                className="w-full my-8 mx-auto" >
+                </iframe>
+            </div>
+
+
                     <p className="mb-8 text-justify">
                         More information on the film is available <a href="https://calloftheforest.ca/" className="text-green-600">here</a>.
                     </p>
