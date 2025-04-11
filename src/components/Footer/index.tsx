@@ -144,7 +144,7 @@ const Footer = () => {
 
                 <div className="pb-5 pt-0  w-full rounded-b-lg">
                     <p className="text-center text-xs text-black">
-                        Copyright <Link href="/flyer">@</Link> 2024 Save the Grove Again
+                        Copyright <Link href="/flyer">@</Link> 2025 Save the Grove Again
                     </p>
                 </div>
 
