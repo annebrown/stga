@@ -21,27 +21,24 @@ const blogData: Blog[] = [
         blogURL: "/blog/posts/blogPage00XX"
     },
     */
-   
-  /*  
     {
         id:20,
-        title: "XXXXXXXX",
+        title: "Federal ARP Candidates Speak to Gillies Grove",
         paragraph:
-          "XXXXXXXX",
-        image: "/images/blog/blog0020/original.png",
+          "MP hopefuls share their positions on development and conservation",
+        image: "/images/blog/blog0020/blog20.png",
         alt: "Voter card held above ballot box in forest setting",
-        width: 500
-        height: 282,
+        width: 500,
+        height: 280,
         author: {
           name: "",
           image: "",
           designation: "",
         },
         tags: ["OPINION"],
-        publishDate: "February XXXXXXXX, 2025",
-        blogURL: "/blog/posts/blogPage00XX"
+        publishDate: "April 19, 2025",
+        blogURL: "/blog/posts/blogPage0020"
     },
-    */
 
     {
         id: 19,
