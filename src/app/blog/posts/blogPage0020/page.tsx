@@ -1,7 +1,7 @@
 
 import SharePost from "@/components/Blog/SharePost";
 import TagButton from "@/components/Blog/TagButton";
-import Link from 'next/link';
+import Link from &apos;next/link&apos;;
 import Image from "next/image";
 
 import { Metadata } from "next";
@@ -126,7 +126,7 @@ const BlogPage0020 = () => {
                     </p>
 
                     <p className="mb-8 text-justify">
-                         There is a relevant example in my mind of a local development implicating the environment where there has been potential failure of regulatory oversight: the planned building of Canadian Nuclear Laboratories' Near-Surface Disposal Facility in Chalk River, approved by the Canadian Nuclear Safety Commission. (There are ongoing legal challenges against the approval of this would-be nuclear waste mound.) The Chiefs of Kebaowek and Kitigan Zibi Anishinabeg First Nations opposed the NSDF on the argument that there was inadequate consultation of affected Indigenous peoples.
+                         There is a relevant example in my mind of a local development implicating the environment where there has been potential failure of regulatory oversight: the planned building of Canadian Nuclear Laboratories&apos; Near-Surface Disposal Facility in Chalk River, approved by the Canadian Nuclear Safety Commission. (There are ongoing legal challenges against the approval of this would-be nuclear waste mound.) The Chiefs of Kebaowek and Kitigan Zibi Anishinabeg First Nations opposed the NSDF on the argument that there was inadequate consultation of affected Indigenous peoples.
                     </p>
 
                     <h3 className="font-bold mb-8 text-justify text-green-600">
@@ -134,7 +134,7 @@ const BlogPage0020 = () => {
                     </h3>
 
                     <p className="mb-8 text-justify">
-                        While I am cognizant of the issues presented by empowering the "Not in my backyard" voices in regulatory decisions, it would be arguably better here for affected Indigenous groups to possess a veto on such long-term environmentally-risky projects such as the NSDF. Such a veto would exist with the expectation that developers will be obliged to persuade or compensate affected stakeholders accordingly, as opposed to regulatory decisions being made that may privilege certain stakeholders over other stakeholders. I will conclude with the opinion that environmental regulatory processes should generally be predictable to the point that project investors can reasonably anticipate most potential objections and concerns and budget accordingly, wth the process still having room to be responsive to new information and on-the-ground facts.
+                        While I am cognizant of the issues presented by empowering the &quot;Not in my backyard&quot; voices in regulatory decisions, it would be arguably better here for affected Indigenous groups to possess a veto on such long-term environmentally-risky projects such as the NSDF. Such a veto would exist with the expectation that developers will be obliged to persuade or compensate affected stakeholders accordingly, as opposed to regulatory decisions being made that may privilege certain stakeholders over other stakeholders. I will conclude with the opinion that environmental regulatory processes should generally be predictable to the point that project investors can reasonably anticipate most potential objections and concerns and budget accordingly, wth the process still having room to be responsive to new information and on-the-ground facts.
                     </p>
 
 
@@ -155,7 +155,7 @@ const BlogPage0020 = () => {
                     </h3>
 
                     <p className="mb-8 text-justify">  
-                        If elected, I would make sure to encourage local citizen input, especially in a heritage spot like the Grove. I would encourage both federal and provincial governments to look to eliminate bureaucratic 'red tape' without taking away the voices from Canadian citizens. It does not have to be a question of removing bureaucratic 'red tape' OR listening to concerned citizens, I believe you can do both simultaneously and that's what we should expect from our governing bodies.
+                        If elected, I would make sure to encourage local citizen input, especially in a heritage spot like the Grove. I would encourage both federal and provincial governments to look to eliminate bureaucratic &apos;red tape&apos; without taking away the voices from Canadian citizens. It does not have to be a question of removing bureaucratic &apos;red tape&apos; OR listening to concerned citizens, I believe you can do both simultaneously and that&apos;s what we should expect from our governing bodies.
                     </p>
 
                     <h2 className="font-extrabold text-[#165D8F] text-lg mb-8">
