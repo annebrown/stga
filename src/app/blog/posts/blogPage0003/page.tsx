@@ -62,10 +62,10 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                                     www.omilacombe.ca
                                 </a><br/>
                                 Attention: Provincial Council members<br/>
-                                <a href="mailto:information@omilacombe.ca" className="text-[#38AF34]">
+                                <a href="mailto:information@omilacombe.ca" className="text-green-600">
                                     information@omilacombe.ca<br/>
                                 </a>
-                                <Link href="tel:6132302225" className="text-[#38AF34]">(613)230-2225</Link><br/>
+                                <Link href="tel:6132302225" className="text-green-600">(613)230-2225</Link><br/>
                             </p>
                         </div>
                         <div className="rounded-lg w-full bg-white p-5">
@@ -77,7 +77,7 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                                     www.galileecentre.com
                                 </a><br/>
                                 Board President: David Perrin<br/>
-                                <a href="mailto:communications@galileecentre.com" className="text-[#38AF34]">
+                                <a href="mailto:communications@galileecentre.com" className="text-green-600">
                                     communications@galileecentre.com
                                 </a><br/>
                             </p>
@@ -92,10 +92,10 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                                 </a><br/>
                                 Owner: Jeff Cavanagh<br/>
                                 Contact: Pierre Dufresne<br/>
-                                <a href="mailto:pdufresne@thomascavanagh.ca" className="text-[#38AF34]">
+                                <a href="mailto:pdufresne@thomascavanagh.ca" className="text-green-600">
                                     pdufresne@thomascavanagh.ca<br/>
                                 </a>
-                                <a href="tel:6132572918" className="text-[#38AF34]">(613)257-2918</a><br/>
+                                <a href="tel:6132572918" className="text-green-600">(613)257-2918</a><br/>
                             </p>
                         </div>
                     </div>
@@ -110,34 +110,34 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
 
                   <h3 className="text-xl font-bold pb-3">Galilee Centre</h3>
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  <Link href="https://docs.google.com/document/d/1WkPekfrC49DgsMQOYiMMg8P-Z5KT_9SbPdYENNX_64w/edit" className="mr-6 duration-300 hover:text-primary text-[#38AF34]">
+                  <Link href="https://docs.google.com/document/d/1WkPekfrC49DgsMQOYiMMg8P-Z5KT_9SbPdYENNX_64w/edit" className="mr-6 duration-300 hover:text-primary text-green-600">
                         Support Information for Letters to Galilee Centre Board of Directors
                     </Link>
                   </p>
 
                   <h3 className="text-xl font-bold pb-3">Missionary Oblates of Mary Immaculate Lacombe Canada</h3>
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    <Link href="https://docs.google.com/document/d/1bSmjknFCd_sO5M1RSTaaCbwrJzcRRvrxx7oLjxlYimQ/edit" className="mr-6 duration-300 hover:text-primary text-[#38AF34]">
+                    <Link href="https://docs.google.com/document/d/1bSmjknFCd_sO5M1RSTaaCbwrJzcRRvrxx7oLjxlYimQ/edit" className="mr-6 duration-300 hover:text-primary text-green-600">
                         Support Information for Letters to OMI Lacombe Provincial Council
                     </Link>
                     </p>
 
-                    Additional <Link href="https://docs.google.com/document/d/1RxpQHeKJCeBm7pLh7X_LhudDXYBPwd4ta3epOikFq7Y/edit#" className="duration-300 hover:text-primary text-[#38AF34]">TEMPLATE/EXAMPLE LETTERS</Link> have been provided by a community member for letters to Lacombe, Galilee Centre, Cavanagh, Mayor McGee and John Yakabuski, Legislative Assembly of Ontario.
+                    Additional <Link href="https://docs.google.com/document/d/1RxpQHeKJCeBm7pLh7X_LhudDXYBPwd4ta3epOikFq7Y/edit#" className="duration-300 hover:text-primary text-green-600">TEMPLATE/EXAMPLE LETTERS</Link> have been provided by a community member for letters to Lacombe, Galilee Centre, Cavanagh, Mayor McGee and John Yakabuski, Legislative Assembly of Ontario.
 
                     <hr className="border-[#165D8F] border-1 my-10" /><br />
 
                     <Image
-                        src="/images/blog/blog0003/blog3-2.svg"
+                        src="/images/blog/blog0003/blog3-2.webp"
 
                         alt="Two children in woods-bordered field"
                         loading="eager"
                         priority
-                        width={1709}
-                        height={790}
+                        width={498}
+                        height={230}
                         />
 
                   <p className="mb-8 mt-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
-We also have a new page up on our website called <Link href="https://savethegroveagain.com/action" className="duration-300 hover:text-primary text-[#38AF34]">Get Involved!</Link>  You can find more contact information for municipal, provincial and federal governments here. We will continue to update it. If you have any suggestions for additions please reach out and let us know. 
+We also have a new page up on our website called <Link href="https://savethegroveagain.com/action" className="duration-300 hover:text-primary text-green-600">Get Involved!</Link>  You can find more contact information for municipal, provincial and federal governments here. We will continue to update it. If you have any suggestions for additions please reach out and let us know. 
                   </p>
 
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
@@ -152,7 +152,7 @@ We also have a new page up on our website called <Link href="https://savethegrov
                     
                   <Image
                   className="inline align-top "
-                  src="/images/logo/logo-sq-detail.svg"
+                  src="/images/logo/logo_black_small.svg"
                   alt="Logo - Trees and water inside a circle"
                   loading="eager"
                   priority

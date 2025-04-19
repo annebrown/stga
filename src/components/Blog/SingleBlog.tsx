@@ -11,7 +11,7 @@ const SingleBlog = ({ blog }: { blog: Blog }) => {
           href={blogURL}
           className="relative block aspect-[37/22] w-full"
         >
-          <span className="absolute right-6 bottom-6 z-20 inline-flex items-center justify-center rounded-full bg-primary/80 px-4 py-2 text-sm font-semibold capitalize text-black">
+          <span className="absolute right-1 bottom-1 z-20 inline-block  items-center justify-center rounded-full bg-primary/80 px-4 py-2 text-sm font-semibold capitalize text-black">
             {tags[0]}
           </span>
           <Image 
