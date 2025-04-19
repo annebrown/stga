@@ -21,6 +21,28 @@ const blogData: Blog[] = [
         blogURL: "/blog/posts/blogPage00XX"
     },
     */
+   
+  /*  
+    {
+        id:20,
+        title: "XXXXXXXX",
+        paragraph:
+          "XXXXXXXX",
+        image: "/images/blog/blog0020/original.png",
+        alt: "Voter card held above ballot box in forest setting",
+        width: 500
+        height: 282,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["OPINION"],
+        publishDate: "February XXXXXXXX, 2025",
+        blogURL: "/blog/posts/blogPage00XX"
+    },
+    */
+
     {
         id: 19,
         title: "'Call of the Forest' The Forgotten Wisdom of Trees",
