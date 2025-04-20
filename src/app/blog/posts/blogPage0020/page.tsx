@@ -42,13 +42,13 @@ const BlogPage0020 = () => {
                        MP hopefuls share their positions on development and conservation
                     </p>
                     
-                    <div className="mb-8">
+                    <div className="mb-8 mx-auto">
                         <Image
                             src="/images/blog/blog20.png"
                             alt="Voter card held above ballot box in forest setting"
                             width="500"
                             height="282"
-                            className="self-center"
+                            className="mx-auto w-full"
                         />
                     </div>
 
