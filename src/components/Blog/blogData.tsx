@@ -26,7 +26,7 @@ const blogData: Blog[] = [
         title: "Federal ARP Candidates Speak to Gillies Grove",
         paragraph:
           "MP hopefuls share their positions on development and conservation",
-        image: "/images/blog/blog0020/blog20.png",
+        image: "/images/blog/blog20.png",
         alt: "Voter card held above ballot box in forest setting",
         width: 500,
         height: 280,
