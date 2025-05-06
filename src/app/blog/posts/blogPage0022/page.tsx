@@ -75,7 +75,7 @@ const BlogPage0022 = () => {
                     </p>
 
                     <p className="mb-8 text-justify">
-                        <b>Get out your calendars and buy your tickets today!</b> You won't want to miss this amazing night of songs to celebrate the forest that we cherish so much, <b>Gillies Grove!</b> 🌳 🌲
+                        <b>Get out your calendars and buy your tickets today!</b> You won&apos;t want to miss this amazing night of songs to celebrate the forest that we cherish so much, <b>Gillies Grove!</b> 🌳 🌲
                     </p>
 
                     <table className="w-full mb-8 gap-x-8 align-top">
@@ -136,11 +136,11 @@ const BlogPage0022 = () => {
                     </p>
                     <p className="mb-8 text-justify">
                         <b>Philip Candelaria</b> (<i>Classical Guitar</i>)<br/>    
-                        Philip is an internationally renowned classical guitarist that we are so lucky to have living right here in Arnprior\! Philip spends much of his year touring but he has managed to work a performance in Arnprior for our event. The Grove has a special place in Philip's heart as well.<br/>  
+                        Philip is an internationally renowned classical guitarist that we are so lucky to have living right here in Arnprior\! Philip spends much of his year touring but he has managed to work a performance in Arnprior for our event. The Grove has a special place in Philip&apos;s heart as well.<br/>  
                         <a href="https://www.youtube.com/channel/UCoC-WrSrxlbHFAJ7fJkU1FQ"  className="text-green-600">YouTube</a>   
                     </p>
                     <p className="mb-8 text-justify"> 
-                        <b>Fred Dell'Amico</b> (<i>Original Folk songs and stories</i>)<br/>    
+                        <b>Fred Dell&apos;Amico</b> (<i>Original Folk songs and stories</i>)<br/>    
                         Fred is a local performer known for his delightful approach to stories and song. We are grateful for his presence at this evening concert!  <br/>  
                         <a href="https://neptunesmusic.net/musicians-corner/fred-dellamico/"  className="text-green-600">https://neptunesmusic.net/musicians-corner/fred-dellamico/</a>
                     </p>
