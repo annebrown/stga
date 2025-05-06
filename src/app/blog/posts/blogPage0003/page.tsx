@@ -134,17 +134,17 @@ We are reaching out with a time sensitive request. On Monday September 16th at 5
                         priority
                         width={498}
                         height={230}
-                        />
+                    />
 
-                  <p className="mb-8 mt-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
-We also have a new page up on our website called <Link href="https://savethegroveagain.com/action" className="duration-300 hover:text-primary text-green-600">Get Involved!</Link>  You can find more contact information for municipal, provincial and federal governments here. We will continue to update it. If you have any suggestions for additions please reach out and let us know. 
+                    <p className="mb-8 mt-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
+                        We also have a new page up on our website called <Link href="https://savethegroveagain.com/action" className="duration-300 hover:text-primary text-green-600">Get Involved!</Link>  You can find more contact information for municipal, provincial and federal governments here. We will continue to update it. If you have any suggestions for additions please reach out and let us know. 
                   </p>
 
                   <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">               
                   Let&apos;s keep the ball rolling and not let the momentum gained fizzle out. Share this information with others and ask for help. We can make a difference. Please commit to writing these letters not only for our community but for future generations! 
                   </p>
 
-                  <p className="text-center pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
+                  <p className="text-center pb-10 text-2xl font-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
 
                 </div>
             </div>

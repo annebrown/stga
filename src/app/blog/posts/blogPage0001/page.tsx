@@ -96,6 +96,10 @@ const BlogPage0001 = () => {
                             <HeartIcon className="size-5 inline text-red-800" />Save the Grove Again Campaign<HeartIcon className="size-5 inline text-red-800" />
                             
                         </p><br></br>
+
+                        <p className="text-center mt-5 pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">
+                            Together we can find a better way!
+                        </p>
                   
                  <div className="container mx-auto w-full">
                   </div>
