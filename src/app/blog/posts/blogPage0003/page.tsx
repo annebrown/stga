@@ -146,28 +146,6 @@ We also have a new page up on our website called <Link href="https://savethegrov
 
                   <p className="text-center pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">Together we can find a better way!</p>
 
-
-
-                  <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    
-                  <Image
-                  className="inline align-top "
-                  src="/images/logo/logo_black_small.png"
-                  alt="Logo - Trees and water inside a circle"
-                  loading="eager"
-                  priority
-                  
-                  width={60}
-                  height={60}
-                />
-                    &nbsp;<span className="align-bottom pb-2">
-                        Save the Grove Again Committee
-                    </span>
-                 
-                  </p>
-
-
-
                 </div>
             </div>
           </div>
