@@ -8,7 +8,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Songs for the Grove: A Benefit Concert",
-  description: "Local artists take to the stage to protect Arnprior’s iconic old-growth forest",
+  description: "Local artists take to the stage to protect Arnprior&apos;s iconic old-growth forest",
 };
 
 const BlogPage0022 = () => {
@@ -44,7 +44,7 @@ const BlogPage0022 = () => {
                     <p 
                         className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                     >
-                       Local artists take to the stage to protect Arnprior’s iconic old-growth forest
+                       Local artists take to the stage to protect Arnprior&apos;s iconic old-growth forest
                     </p>
                     
                     <div className="aspect-[500/280] mb-8">
@@ -62,7 +62,7 @@ const BlogPage0022 = () => {
                     </p>
 
                     <p className="mb-8 text-justify">
-                        The concert will feature a diverse lineup, including folk artist Jennifer Noxon, who will perform her song "Tall Pines," which she wrote 20-some years ago after visiting the Grove for the first time. Noxon will be joined by co-host and world-renowned classical guitarist Philip Candelaria, as well as performers Brendan Gawn, Fred Dell’Amico, Patrick Klein, Richard Fallows, and the folk duo Three Corner Orchard.
+                        The concert will feature a diverse lineup, including folk artist Jennifer Noxon, who will perform her song &quot;Tall Pines,&quot; which she wrote 20-some years ago after visiting the Grove for the first time. Noxon will be joined by co-host and world-renowned classical guitarist Philip Candelaria, as well as performers Brendan Gawn, Fred Dell&apos;Amico, Patrick Klein, Richard Fallows, and the folk duo Three Corner Orchard.
                     </p>
 
                     <p className="mb-8 text-justify">
@@ -71,7 +71,7 @@ const BlogPage0022 = () => {
                     </p>
 
                     <p className="mb-8 text-justify">
-                        This will be Save the Grove Again’s biggest event yet and it is all thanks to a group of inspired and dedicated folks with a love of music and nature. We are so excited!
+                        This will be Save the Grove Again&apos;s biggest event yet and it is all thanks to a group of inspired and dedicated folks with a love of music and nature. We are so excited!
                     </p>
 
                     <p className="mb-8 text-justify">
@@ -158,11 +158,11 @@ const BlogPage0022 = () => {
                     
                     <p className="mb-8 text-justify">  
                         <b>Patrick Kline</b> (<i>Classical Cello</i>)<br/>   
-                            Founder of the Busker’s Café concerts at the Arnprior Public Library, Patrick is also an Ottawa orchestral player and a member of the 10 Strings Duo. It is a privilege to have Patrick perform and share his talents with us.
+                            Founder of the Busker&apos;s Café concerts at the Arnprior Public Library, Patrick is also an Ottawa orchestral player and a member of the 10 Strings Duo. It is a privilege to have Patrick perform and share his talents with us.
                     </p>
 
                     <p className="mb-8 text-justify text-[#165D8F]">
-                        What’s it all about?
+                        What&apos;s it all about?
                     </p>
 
                     <p className="mb-8 text-justify">
