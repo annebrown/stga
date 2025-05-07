@@ -47,7 +47,7 @@ const BlogPage0022 = () => {
                        Local artists take to the stage to protect Arnprior&apos;s iconic old-growth forest
                     </p>
                     
-                    <div className="aspect-[500/280] mb-8">
+                    <div className="mb-10">
                         <Image
                             src="/images/blog/blog22.png"
                             alt="Two musicians"
