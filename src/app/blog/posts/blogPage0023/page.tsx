@@ -48,7 +48,7 @@ const BlogPage0023 = () => {
                         alt="Forest Path"
                         width="375"
                         height="500"
-                        class="mx-auto"
+                        className="mx-auto"
                     />
                 </div>
 
