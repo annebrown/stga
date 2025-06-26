@@ -26,7 +26,7 @@ const blogData: Blog[] = [
         title: "Grove Roves",
         paragraph:
           "Guided Forest Walks",
-        image: "/images/blog/blog23.svg",
+        image: "/images/blog/blog23.png",
         alt: "Forest Path",
         width: 375,
         height: 500,

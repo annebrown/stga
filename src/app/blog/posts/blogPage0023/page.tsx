@@ -44,7 +44,7 @@ const BlogPage0023 = () => {
                 
                 <div className="mb-8 mx-auto">
                     <Image
-                        src="/images/blog/blog23.svg"
+                        src="/images/blog/blog23.png"
                         alt="Forest Path"
                         width="375"
                         height="500"
