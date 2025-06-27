@@ -2,8 +2,8 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Grove Roves",
-  description: "Guided Forest Walks"
+  title: "Grove Roves: free community events this summer",
+  description: "Getting back to our roots this summer by offering guided forest walks"
 };
 
 const BlogPage0023 = () => {
@@ -34,12 +34,12 @@ const BlogPage0023 = () => {
 
           
                 <p className="text-2xl">
-                    <strong>Grove Roves</strong>
+                    <strong>Grove Roves: free community events this summer</strong>
                 </p><br/><br/>
                 <p 
                     className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                 >
-                    Guided Forest Walks
+                    Getting back to our roots this summer by offering guided forest walks
                 </p>
                 
                 <div className="mb-8 mx-auto">

@@ -23,9 +23,9 @@ const blogData: Blog[] = [
     */
        {
         id: 23,
-        title: "Grove Roves",
+        title: "Grove Roves: free community events this summer",
         paragraph:
-          "Guided Forest Walks",
+          "Getting back to our roots this summer by offering guided forest walks",
         image: "/images/blog/blog23.png",
         alt: "Forest Path",
         width: 375,
