@@ -22,6 +22,24 @@ const blogData: Blog[] = [
     },
     */
        {
+        id: 24,
+        title: " Join another Grove Rove this weekend!",
+        paragraph:
+          "Grove Roves: free guided tour in Gillies Grove old-growth forest. It’s Accessible August: stroll wheelchair, walker, and stroller accessible paths in an ancient forest, at a gentle pace.",
+        image: "/images/blog/blog24.png",
+        alt: "Forest Meadow",
+        width: 500,
+        height: 375,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["EVENT"],
+        publishDate: "August 13, 2025",
+        blogURL: "/blog/posts/blogPage0024"
+        },
+       {
         id: 23,
         title: "Grove Roves: free community events this summer",
         paragraph:
