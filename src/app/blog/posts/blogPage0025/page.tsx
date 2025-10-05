@@ -39,41 +39,36 @@ const BlogPage0025 = () => {
                 </div>
 
           
-                    <p className="text-2xl">
-                        <strong>Grove Roves: Spooky Edition!</strong>
-                    </p><br></br>
-                    <p 
-                        className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
-                    >
-                       Come out to hear about the dark tales of Arnprior and the night creatures of Gillies Grove!
-                    </p>
-                    
-                    <div className="mb-8">
-                        <Image
-                            src="/images/blog/blog24.png"
-                            alt="Event Poster"
-                            width="500"
-                            height="500"
-                            className="self-center"
-                        />
-                    </div>
+                <p className="text-2xl">
+                    <strong>Grove Roves: Spooky Edition!</strong>
+                </p><br></br>
+                <p 
+                    className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
+                >
+                    Come out to hear about the dark tales of Arnprior and the night creatures of Gillies Grove!
+                </p>
+                
+                <div className="mb-8">
+                    <Image
+                        src="/images/blog/blog24.png"
+                        alt="Event Poster"
+                        width="500"
+                        height="500"
+                        className="self-center"
+                    />
+                </div>
 
+                <p className="mb-8 text-justify">
+                    Join the Friends of the Grove for another entertaining and informative wander through Gillies Grove, this time at night! Bring your lanterns (no flames please, just battery-powered) and learn some truly remarkable facts, all of a more sinister nature! The night will start out with ghost stories and some spooky fables of Arnprior&apos;s past . Then no dark history tour of Arnprior is complete without learning about its infamous founder, the Laird Archibald McNab. Jim Austin, historian and curator of the Waba Cottage in White Lake, will be a guest speaker. Jim is an expert on the scandalous McNab, a topic he is truly passionate about. 
+                </p>
 
+                <p className="mb-8 text-justify">
+                    The tour then ventures into Gilles Grove itself where Brian Hickey of the River Institute in Cornwall will be joining.  As a research scientist and education programme leader, he specializes in bat education and will be sharing some of that expert knowledge. There will be opportunities to witness bats in action if the night is warm, and Brian will bring detectors to hear their special calls! Other nocturnal species will also be investigated during this forest tour such as moths and owls.  What a treat to learn about the creatures that roam at night in Gillies Grove!
+                </p>
 
-
-
-
-                    <p className="mb-8 text-justify">
-                        Join the Friends of the Grove for another entertaining and informative wander through Gillies Grove, this time at night! Bring your lanterns (no flames please, just battery-powered) and learn some truly remarkable facts, all of a more sinister nature! The night will start out with ghost stories and some spooky fables of Arnprior's past . Then no dark history tour of Arnprior is complete without learning about its infamous founder, the Laird Archibald McNab. Jim Austin, historian and curator of the Waba Cottage in White Lake, will be a guest speaker. Jim is an expert on the scandalous McNab, a topic he is truly passionate about. 
-                    </p>
-
-                    <p className="mb-8 text-justify">
-                        The tour then ventures into Gilles Grove itself where Brian Hickey of the River Institute in Cornwall will be joining.  As a research scientist and education programme leader, he specializes in bat education and will be sharing some of that expert knowledge. There will be opportunities to witness bats in action if the night is warm, and Brian will bring detectors to hear their special calls! Other nocturnal species will also be investigated during this forest tour such as moths and owls.  What a treat to learn about the creatures that roam at night in Gillies Grove!
-                    </p>
-
-                    <p className="mb-8 text-justify">
-                        The tour then ventures into Gilles Grove itself where Brian Hickey of the River Institute in Cornwall will be joining.  As a research scientist and education programme leader, he specializes in bat education and will be sharing some of that expert knowledge. There will be opportunities to witness bats in action if the night is warm, and Brian will bring detectors to hear their special calls! Other nocturnal species will also be investigated during this forest tour such as moths and owls.  What a treat to learn about the creatures that roam at night in Gillies Grove!
-                    </p>
+                <p className="mb-8 text-justify">
+                    The tour then ventures into Gilles Grove itself where Brian Hickey of the River Institute in Cornwall will be joining.  As a research scientist and education programme leader, he specializes in bat education and will be sharing some of that expert knowledge. There will be opportunities to witness bats in action if the night is warm, and Brian will bring detectors to hear their special calls! Other nocturnal species will also be investigated during this forest tour such as moths and owls.  What a treat to learn about the creatures that roam at night in Gillies Grove!
+                </p>
 
                 <table className="w-full mb-8 gap-x-8 align-top">
                     <tbody>
@@ -115,14 +110,12 @@ const BlogPage0025 = () => {
                     </tbody>
                 </table>
 
-                    <p className="mb-8 text-justify">
-                        Hope to see you on the trail!
-                    </p>
+                <p className="mb-8 text-justify">
+                    Hope to see you on the trail!
+                </p>
 
-
-
-                    <p className="pt-8  pb-8 
-                    text-center text-2xl weight-bold text-[#165D8F] ">Together we can find a better way!</p>
+                <p className="pt-8  pb-8 
+                text-center text-2xl weight-bold text-[#165D8F] ">Together we can find a better way!</p>
 
             </div>
         </div>
