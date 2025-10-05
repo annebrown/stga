@@ -7,9 +7,9 @@ const blogData: Blog[] = [
         title: "XXXXXXXX",
         paragraph:
           "XXXXXXXX",
-        image: "/images/blog/blog00XX/blogXX.svg",
+        image: "/images/blog/blogXX.svg",
         alt: "XXXXXXXX",
-        width: 500
+        width: 500,
         height: 500,
         author: {
           name: "",
@@ -21,6 +21,24 @@ const blogData: Blog[] = [
         blogURL: "/blog/posts/blogPage00XX"
     },
     */
+       {
+        id: 25,
+        title: "Grove Roves: Spooky Edition!",
+        paragraph:
+          "Come out to hear about the dark tales of Arnprior and the night creatures of Gillies Grove!",
+        image: "/images/blog/blog24.png",
+        alt: "Event Poster",
+        width: 500,
+        height: 375,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["EVENT"],
+        publishDate: "October 5, 2020",
+        blogURL: "/blog/posts/blogPage0025"
+    },
        {
         id: 24,
         title: " Join another Grove Rove this weekend!",
