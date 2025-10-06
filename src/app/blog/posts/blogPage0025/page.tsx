@@ -50,7 +50,7 @@ const BlogPage0025 = () => {
                 
                 <div className="mb-8">
                     <Image
-                        src="/images/blog/blog24.png"
+                        src="/images/blog/blog25.png"
                         alt="Event Poster"
                         width="500"
                         height="500"

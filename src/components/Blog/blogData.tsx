@@ -26,7 +26,7 @@ const blogData: Blog[] = [
         title: "Grove Roves: Spooky Edition!",
         paragraph:
           "Come out to hear about the dark tales of Arnprior and the night creatures of Gillies Grove!",
-        image: "/images/blog/blog24.png",
+        image: "/images/blog/blog25.png",
         alt: "Event Poster",
         width: 500,
         height: 375,
