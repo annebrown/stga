@@ -40,21 +40,22 @@ const BlogPage0026 = () => {
 
           
                 <p className="text-2xl">
-                    <strong>Coffeehouse: Katie Krelove: Special guest Katie Krelove from Ontario Wilderness Committee</strong>
+                    <strong>Coffeehouse: Katie Krelove
+                    </strong>
                 </p><br></br>
                 <p 
                     className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                 >
-                    XXXXXXXX BI-LINE XXXXXXXX
+                    Special guest Katie Krelove from Ontario Wilderness Committee
                 </p>
                 
                 <div className="mb-8">
                     <Image
-                        src="/images/blog/blog26.svg"
-                        alt="XXXXXXXX ALT XXXXXXXX"
-                        width="500"
+                        src="/images/blog/blog0026.png"
+                        alt="Event Poster"
+                        width="386"
                         height="500"
-                        className="self-center"
+                        className="self-center  mx-auto"
                     />
                 </div>
 
