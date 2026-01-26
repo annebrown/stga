@@ -7,8 +7,8 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Coffeehouse: Katie Krelove",
-  description: "Special guest Katie Krelove from Ontario Wilderness Committee",
+  title: "First Coffeehouse of 2026!",
+  description: "with special guest Katie Krelove from Ontario Wilderness Committee",
   // other metadata
 };
 
