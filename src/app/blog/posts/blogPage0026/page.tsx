@@ -75,9 +75,7 @@ const BlogPage0026 = () => {
                 </p>
 
 
-                <p className="pt-8  pb-8 text-center text-2xl weight-bold text-[#165D8F] ">
-                    Together we can find a better way!
-                </p>
+     
 
                 <table className="w-full mb-8 gap-x-8 align-top">
                     <tbody>
@@ -119,6 +117,9 @@ const BlogPage0026 = () => {
                     </tbody>
                 </table>
 
+           <p className="pt-8  pb-8 text-center text-2xl weight-bold text-[#165D8F] ">
+                    Together we can find a better way!
+                </p>
             </div>
         </div>
 
