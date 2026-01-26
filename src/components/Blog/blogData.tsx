@@ -21,6 +21,24 @@ const blogData: Blog[] = [
         blogURL: "/blog/posts/blogPage00XX"
     },
     */
+    {
+        id: 26,
+        title: "Coffeehouse: Katie Krelove: Special guest Katie Krelove from Ontario Wilderness Committee",
+        paragraph:
+          "XXXXXX",
+        image: "/images/blog/blog26.svg",
+        alt: "XXXXIDKXXXX",
+        width: 500,
+        height: 500,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["EVENT"],
+        publishDate: "January 26, 2026",
+        blogURL: "/blog/posts/blogPage0026"
+    },
        {
         id: 25,
         title: "Grove Roves: Spooky Edition!",
