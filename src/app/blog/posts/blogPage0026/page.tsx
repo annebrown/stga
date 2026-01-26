@@ -40,13 +40,13 @@ const BlogPage0026 = () => {
 
           
                 <p className="text-2xl">
-                    <strong>Coffeehouse: Katie Krelove
+                    <strong>First Coffeehouse of 2026!
                     </strong>
                 </p><br></br>
                 <p 
                     className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                 >
-                    Special guest Katie Krelove from Ontario Wilderness Committee
+                    with special guest Katie Krelove from Ontario Wilderness Committee
                 </p>
                 
                 <div className="mb-8">
