@@ -21,6 +21,24 @@ const blogData: Blog[] = [
         blogURL: "/blog/posts/blogPage00XX"
     },
     */
+       {
+        id: 27,
+        title: "The Importance of Urban Forests",
+        paragraph:
+          " Coffeehouse with Marshall Buchanan",
+        image: "/images/blog/blog27.png",
+        alt: "26-02-26 Event Poster",
+        width: 386,
+        height: 500,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["EVENT"],
+        publishDate: "February 26, 2026",
+        blogURL: "/blog/posts/blogPage0027"
+    },
     {
         id: 26,
         title: "First Coffeehouse of 2026!",

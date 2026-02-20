@@ -54,7 +54,7 @@ const BlogPage00XXXXXXXX = () => {
                         alt="XXXXXXXX ALT XXXXXXXX"
                         width="500"
                         height="500"
-                        className="self-center"
+                        className="self-center mx-auto"
                     />
                 </div>
 
