@@ -62,9 +62,9 @@ const BlogPage0027 = () => {
                 </p>
 
                 <ol className="mb-8 text-justify list-decimal list-outside pl-5">
-                    <li>Land Use Planning IS a public process.</li>
-                    <li className="font-bold">It is NEVER a &apos;done deal&apos;!</li>
-                    <li className="justify-left">There are many success stories across Ontario of communities coming together and successfully stopping unwanted development.</li>
+                    <li>Land Use Planning IS a public process.  </li>
+                    <li className="font-bold">It is NEVER a &apos;done deal&apos;!  </li>
+                    <li className="justify-left">There are many success stories across Ontario of communities coming together and successfully stopping unwanted development.  </li>
                     <li>The same success CAN happen here.</li>
                 </ol>
 
