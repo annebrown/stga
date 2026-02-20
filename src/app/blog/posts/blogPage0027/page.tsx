@@ -58,21 +58,21 @@ const BlogPage0027 = () => {
                 </div>
 
                 <p className="mb-8 text-justify">
-                    Last month&aposs coffeehouse with Katie Krelove from the Wilderness Committee was a great kickstart to the year. In case you missed it, here are some key takeaways:
+                    Last month&apos;s coffeehouse with Katie Krelove from the Wilderness Committee was a great kickstart to the year. In case you missed it, here are some key takeaways:
                 </p>
 
                 <ol className="mb-8 text-justify list-decimal list-outside pl-5">
                     <li>Land Use Planning IS a public process.</li>
-                    <li className="font-bold">It is NEVER a &aposdone deal&apos!</li>
+                    <li className="font-bold">It is NEVER a &apos;done deal&apos;!</li>
                     <li className="justify-left">There are many success stories across Ontario of communities coming together and successfully stopping unwanted development.</li>
                     <li>The same success CAN happen here.</li>
                 </ol>
 
                 <p className="mb-8 text-justify">
-                    This month we welcome Registered Professional Forester, Marshall Buchanan (see more info below), who will be presenting on the importance of urban forests. We&aposve focused a lot on Gillies Grove being an old-growth forest and the ecological value as an endangered ecosystem. We also know it is highly unique to have an old-growth forest in the midst of a town. Now we get to learn why its location makes it important and discover what other potential treasures it holds.                 </p>
+                    This month we welcome Registered Professional Forester, Marshall Buchanan (see more info below), who will be presenting on the importance of urban forests. We&apos;ve focused a lot on Gillies Grove being an old-growth forest and the ecological value as an endangered ecosystem. We also know it is highly unique to have an old-growth forest in the midst of a town. Now we get to learn why its location makes it important and discover what other potential treasures it holds.                 </p>
 
                 <p className="mb-8 text-justify">
-                    Marshall&aposs presentation will start at 7:00 pm and will be followed by a Q and A, open discussion. Our committee members will also be available to answer questions, discuss recent activities and volunteer opportunities for those interested.
+                    Marshall&apos;s presentation will start at 7:00 pm and will be followed by a Q and A, open discussion. Our committee members will also be available to answer questions, discuss recent activities and volunteer opportunities for those interested.
                 </p>
 
                 <p className="mb-8 text-justify">
