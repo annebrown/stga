@@ -17,7 +17,7 @@ const blogData: Blog[] = [
           designation: "",
         },
         tags: ["XXXXXXXX"],
-        publishDate: "February XXXXXXXX, 2025",
+        publishDate: "February XXXXXXXX, 2026",
         blogURL: "/blog/posts/blogPage00XX"
     },
     */
