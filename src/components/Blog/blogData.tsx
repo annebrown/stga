@@ -43,7 +43,7 @@ const blogData: Blog[] = [
         id: 26,
         title: "First Coffeehouse of 2026!",
         paragraph:
-          "with special guest Katie Krelove from Ontario Wilderness Committee",
+          "With special guest Katie Krelove from Ontario Wilderness Committee",
         image: "/images/blog/blog0026.png",
         alt: "Event Poster",
         width: 386,
