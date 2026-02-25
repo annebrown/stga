@@ -119,6 +119,10 @@ const BlogPage0027 = () => {
                     </tbody>
                 </table>
 
+                <p className="pt-5 mb-8 text-justify">
+                   <span className="font-bold">Marshall Buchanan</span>, <span className="italic font-light text-sm">M.Sc.F., is a Registered Professional Forester and Regenerative Farmer.  For over 35 years his consulting practice has focused on helping community groups and private landowners plant new forests and manage existing ones.  He was the first to conduct an urban forest inventory & study of all trees in a Toronto neighbourhood which included “backyard trees”.  The report produced in 1993 was ahead of its time and was profiled by David Suzuki in his book “Time for Change”.   Marshall is currently an Urban Forest Coach with Tree Canada where he helps municipalities expand their urban forest canopy.  Marshall believes that local tree seed collection is an under-utilized strategy to conserve and establish new forests.  In his spare time Marshall is practicing to be a drummer and is hoping to host some drum circles on his farm near Eganville this summer.  Website: <Link href="https://ottawavalleyfarmtofork.ca" className="text-green-600">https://ottawavalleyfarmtofork.ca</Link></span>
+                </p>
+
                 <p className="pt-8  pb-8 text-center text-2xl weight-bold text-[#165D8F] ">
                     Together we can find a better way!
                 </p>
