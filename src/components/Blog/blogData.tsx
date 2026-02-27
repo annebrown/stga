@@ -22,6 +22,24 @@ const blogData: Blog[] = [
     },
     */
        {
+        id: 28,
+        title: "Paint and Sip Fundraiser",
+        paragraph:
+          "Art Class with Murielle Egan at the Art Loft!",
+        image: "/images/blog/blog0028.png",
+        alt: "Event Poster",
+        width: 375,
+        height: 500,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["EVENT"],
+        publishDate: "February 27, 2026",
+        blogURL: "/blog/posts/blogPage0028"
+    },
+       {
         id: 27,
         title: "The Importance of Urban Forests",
         paragraph:
