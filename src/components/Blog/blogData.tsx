@@ -22,6 +22,24 @@ const blogData: Blog[] = [
     },
     */
        {
+        id: 29,
+        title: "Why Old Growth Forests Need Buffers",
+        paragraph:
+          " by Marshall Buchanan, Registered Professional Forester and Tree Canada Coach",
+        image: "/images/blog/blog0029.png",
+        alt: "Milkweed forest meadow",
+        width: 500,
+        height: 281,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["EXPERT OPINION"],
+        publishDate: "April 10, 2026",
+        blogURL: "/blog/posts/blogPage0029"
+    },
+       {
         id: 28,
         title: "Paint and Sip Fundraiser",
         paragraph:
