@@ -70,6 +70,17 @@ const BlogPage0029 = () => {
                     Another important role of a forested buffer is to reduce the destructive force of high winds on the forest core. Old growth forests are at high risk of being damaged by strong winds, because the trees are mature and therefore already close to their maximum height. White pine is the tallest tree in eastern Canada and Gillies Grove in fact contains the tallest white pine in Ontario. So the old growth pines are in fact at very high risk of being mortally wounded in a Derecho event. If the green tops of the trees (essentially what foresters call the &quot;live crown&quot;) break off, these old growth white pines will die. Even if only a small portion of the live crown breaks off at the very top, the ability of the tree to produce pine cones will be severely reduced and the chance to get viable white pine seed that embodies the genetic wealth of The Grove will be lost. Unfortunately, climate change is making the likelihood of severe wind storms ever more common.
 
                 </p>
+
+                <div className="mb-8">
+                    <Image
+                        src="/images/logo/fotg.png"
+                        alt="Friends of the Grove Logo"
+                        width="200"
+                        height="200"
+                        className=""
+                    />
+                </div>
+
                 <p className="pt-8  pb-8 text-center text-2xl weight-bold text-[#165D8F] ">
                     Together we can find a better way!
                 </p>
