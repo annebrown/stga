@@ -85,7 +85,7 @@ const BlogPage0030 = () => {
                 </p>
 
                 <p className="m-4 text-green-600">
-                    <Link href="https://apps.apple.com/us/app/merlin-bird-id/id1475800292" target="_blank">
+                    <Link href="https://appkingo.com/p676/merlin-bird-id-by-cornell-lab/com.labs.merlinbirdid.app#google_vignette" target="_blank">
                         Merlin Bird ID by Cornell Lab - appkingo
                     </Link>
                 </p>
@@ -93,7 +93,7 @@ const BlogPage0030 = () => {
                 <p>AND</p>
 
                 <p className="m-4 text-green-600">
-                    <Link href="https://apps.apple.com/us/app/seek-by-obsidian/id1353224140" target="_blank">
+                    <Link href="https://www.inaturalist.org/pages/seek_app" target="_blank">
                         Seek (iNaturalist)
                     </Link>
                 </p>
