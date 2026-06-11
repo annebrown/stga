@@ -1,26 +1,23 @@
 import { Blog } from "@/types/blog";
 
 const blogData: Blog[] = [
-    /*  
-    {
-        id: XXXXXXXX,
-        title: "XXXXXXXX",
-        paragraph:
-          "XXXXXXXX",
-        image: "/images/blog/blogXX.svg",
-        alt: "XXXXXXXX",
-        width: 500,
+       {
+        id: 30,
+        title: "Grove Rove - Conducting Natural Heritage Surveys",
+        paragraph: "with ecologist Mark Heaton",
+        image: "/images/blog/blog0030.png",
+        alt: "Grove Roves Event Poster",
+        width: 386,
         height: 500,
         author: {
           name: "",
           image: "",
           designation: "",
         },
-        tags: ["XXXXXXXX"],
-        publishDate: "February XXXXXXXX, 2026",
-        blogURL: "/blog/posts/blogPage00XX"
+        tags: ["EVENT"],
+        publishDate: "June 11, 2026",
+        blogURL: "/blog/posts/blogPage0030"
     },
-    */
        {
         id: 29,
         title: "Why Old Growth Forests Need Buffers",
