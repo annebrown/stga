@@ -58,58 +58,107 @@ const BlogPage0031 = () => {
                     />
                 </div>
 
+                <p  className="mb-8 text-[#165D8F]">Main Image: Brian Hickey surrounded by group of people in the forest</p>
+
                 <p className="mb-8 text-justify">
-This past weekend we had the pleasure of welcoming back Brian Hickey to lead our Grove Rove for July 2026. As a senior research scientist and educator with the River Institute in Cornwall, Brian is a wealth of knowledge and a passionate teacher. We enjoyed learning about, hearing, and seeing several bat species together! 
+                    This past weekend we had the pleasure of welcoming back Brian Hickey to lead our Grove Rove for July 2026. As a senior research scientist and educator with the River Institute in Cornwall, Brian is a wealth of knowledge and a passionate teacher. We enjoyed learning about, hearing, and seeing several bat species together! 
                 </p>
+
+                <div className="mb-8">
+                    <Image
+                        src="/images/blog/blog0031/IMG_2006.png"
+                        alt="XXXXXXXX ALT XXXXXXXX"
+                        width="375"
+                        height="500"
+                        className="self-center mx-auto"
+                    />
+                </div>
+                <p  className="mb-8 text-[#165D8F]">Image: 2006 - Evening full moon in the forest</p>
+
+
 
                 <p className="mb-8 text-justify">
                     Our guided walk started at the entrance of Gillies Grove old-growth forest, where Brian shared lots of interesting facts about bats while we waited for the sun to set. Dusk is the best time to observe bats, and our forest offers three elements to support a healthy bat population: proximity to the Ottawa River / Kitchi Sibi, the presence of snags in the old growth forest, and the accompanying meadow on the eastern edge of the forest. 
                 </p>
+                <div className="mb-8">
+                    <Image
+                        src="/images/blog/blog0031/IMG_0082.png"
+                        alt="XXXXXXXX ALT XXXXXXXX"
+                        width="500"
+                        height="375"
+                        className="self-center mx-auto"
+                    />
+                </div>
+
+                <p  className="mb-8 text-[#165D8F]">Image: 82 - People arriving and greeting each other in the forest</p>
+
+                <p className="mb-8 text-justify">
+                    Fresh water is a great hunting ground for bats because many insect species can spend years as larvae in the water, and when they mature and emerge, bats take advantage. 
+                </p>
+
+
+                <div className="mb-8 text-[#165D8F]">
+                    <Image
+                        src="/images/blog/blog0031/IMG_0083.png"
+                        alt="XXXXXXXX ALT XXXXXXXX"
+                        width="500"
+                        height="96"
+                        className="self-center mx-auto"
+                    />
+                </div>
+
+                <p  className="mb-8 text-[#165D8F]">Image: 83 - People standing around waiting for dark in the forest?  LOL.</p>
 
                 <p className="mb-8 text-justify">
 
+                    It&apos;s getting more and more rare that bats live in snags - remains of trees allowed to decay over time rather than being felled - because there has been such a reduction in available snags that they have learned to roost instead in human-made structures like barns, attics, and bridges. Luckily, the Grove has many snags available to support many forest dwellers. We hope the word gets out so more bat buddies come to stay. 
+                </p>
 
-Fresh water is a great hunting ground for bats because many insect species can spend years as larvae in the water, and when they mature and emerge, bats take advantage. 
-</p>
+                <div className="mb-8">
+                    <Image
+                        src="/images/blog/blog0031/IMG_0088.png"
+                        alt="XXXXXXXX ALT XXXXXXXX"
+                        width="375"
+                        height="500"
+                        className="self-center mx-auto"
+                    />
+                </div>
 
-                <p className="mb-8 text-justify">
-
-It&apos;s getting more and more rare that bats live in snags - remains of trees allowed to decay over time rather than being felled - because there has been such a reduction in available snags that they have learned to roost instead in human-made structures like barns, attics, and bridges. Luckily, the Grove has many snags available to support many forest dwellers. We hope the word gets out so more bat buddies come to stay. 
-</p>
-
-                <p className="mb-8 text-justify">
-
-Having the meadow next to the forest increases the biodiversity of both ecosystems, providing lots of tasty options for bats to enjoy.
-
-</p>
-
-                <p className="mb-8 text-justify">
-Brian explained that bats are an indicator species because they are part of a short food chain; insects are consumed by bats, and bats are examined for insights into the health of the ecosystem. During his work at The River Institute near Cornwall, Brian recorded that the level of mercury in bats is so high, it exceeds levels we consider dangerous for consuming fish by multitudes. 
-</p>
+                <p  className="mb-8 text-[#165D8F]">Image: 88 - Youth walking in woods with flashlight</p>
 
                 <p className="mb-8 text-justify">
 
-We also learned about white-nose syndrome, a fungus which is highly contagious between bats living in caverns, which can kill up to 99% of bats at a site. Brian studied many such sites which were devastated by this disease. While he has observed some recovery, the populations at those locations are a fraction of what they used to be. 
-</p>
+                    Having the meadow next to the forest increases the biodiversity of both ecosystems, providing lots of tasty options for bats to enjoy.
+
+                </p>
+
+                <p className="mb-8 text-justify">
+                    Brian explained that bats are an indicator species because they are part of a short food chain; insects are consumed by bats, and bats are examined for insights into the health of the ecosystem. During his work at The River Institute near Cornwall, Brian recorded that the level of mercury in bats is so high, it exceeds levels we consider dangerous for consuming fish by multitudes. 
+                </p>
 
                 <p className="mb-8 text-justify">
 
-Once the sun started to set, we made our way through the forest towards the river and the meadow. We listened for distinctive chirps on bat detectors set to a specific frequency that bats use for their echo-location. We heard and saw little brown bats, big brown bats, and hoary bats as they zipped and dashed across the sky. We were also visited by something else in the sky: a low-flying helicopter on its way to the neighbouring hospital. Luckily, this did not prevent us from noticing the critters we had set out to find.  
-
-</p>
-
-                <p className="mb-8 text-justify">
-If you&apos;re interested in putting up bat houses, have patience. Bats like to return to roost where they were born, so it can take many years for one to move into a new home. If you do find you have new tenants in your bat house, they were likely recently evicted from a neighbouring attic. 
-
-</p>
+                    We also learned about white-nose syndrome, a fungus which is highly contagious between bats living in caverns, which can kill up to 99% of bats at a site. Brian studied many such sites which were devastated by this disease. While he has observed some recovery, the populations at those locations are a fraction of what they used to be. 
+                </p>
 
                 <p className="mb-8 text-justify">
-Thank you to everyone who attended our event - our highest attended Grove Rove yet! And of course a special and heartfelt thank-you to Brian Hickey, for generously offering his time, wisdom, and love for nature. We feel so lucky to have his support, and the support of the wider community as we strive to share and protect our precious Gillies Grove old-growth forest. 
 
-</p>
+                    Once the sun started to set, we made our way through the forest towards the river and the meadow. We listened for distinctive chirps on bat detectors set to a specific frequency that bats use for their echo-location. We heard and saw little brown bats, big brown bats, and hoary bats as they zipped and dashed across the sky. We were also visited by something else in the sky: a low-flying helicopter on its way to the neighbouring hospital. Luckily, this did not prevent us from noticing the critters we had set out to find.  
+
+                </p>
 
                 <p className="mb-8 text-justify">
-We hope to see you at the next Grove Rove happening on Saturday August 22 at our regular time of 10:00 am. 
+                    If you&apos;re interested in putting up bat houses, have patience. Bats like to return to roost where they were born, so it can take many years for one to move into a new home. If you do find you have new tenants in your bat house, they were likely recently evicted from a neighbouring attic. 
+
+                </p>
+
+                <p className="mb-8 text-justify">
+                    Thank you to everyone who attended our event - our highest attended Grove Rove yet! And of course a special and heartfelt thank-you to Brian Hickey, for generously offering his time, wisdom, and love for nature. We feel so lucky to have his support, and the support of the wider community as we strive to share and protect our precious Gillies Grove old-growth forest. 
+
+                </p>
+
+                <p className="mb-8 text-justify">
+                    We hope to see you at the next Grove Rove happening on Saturday August 22 at our regular time of 10:00 am. 
 
 
                 </p>
