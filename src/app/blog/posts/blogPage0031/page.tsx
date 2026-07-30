@@ -67,13 +67,13 @@ const BlogPage0031 = () => {
                             <div className="mb-8">
                     <Image
                         src="/images/blog/blog0031/IMG_0088.png"
-                        alt="Youth walking in woods with flashlight"
+                        alt="Child walking in woods with flashlight"
                         width="375"
                         height="500"
                         className="self-center mx-auto"
                     />
                 </div>
-                <p  className="mb-8 text-[#165D8F]">Image: 88 - Youth walking in woods with flashlight</p>
+                <p  className="mb-8 text-[#165D8F]">Image: 88 - Child walking in woods with flashlight</p>
 
                 <p className="mb-8 text-justify">
                     Our guided walk started at the entrance of Gillies Grove old-growth forest, where Brian shared lots of interesting facts about bats while we waited for the sun to set. Dusk is the best time to observe bats, and our forest offers three elements to support a healthy bat population: proximity to the Ottawa River / Kitchi Sibi, the presence of snags in the old growth forest, and the accompanying meadow on the eastern edge of the forest. 
