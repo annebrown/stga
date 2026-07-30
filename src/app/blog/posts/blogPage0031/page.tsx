@@ -51,7 +51,7 @@ const BlogPage0031 = () => {
                 <div className="mb-8">
                     <Image
                         src="/images/blog/blog31.png"
-                        alt="XXXXXXXX ALT XXXXXXXX"
+                        alt="Brian Hickey surrounded by group of people in the forest"
                         width="500"
                         height="96"
                         className="self-center mx-auto"
@@ -64,18 +64,16 @@ const BlogPage0031 = () => {
                     This past weekend we had the pleasure of welcoming back Brian Hickey to lead our Grove Rove for July 2026. As a senior research scientist and educator with the River Institute in Cornwall, Brian is a wealth of knowledge and a passionate teacher. We enjoyed learning about, hearing, and seeing several bat species together! 
                 </p>
 
-                <div className="mb-8">
+                            <div className="mb-8">
                     <Image
-                        src="/images/blog/blog0031/IMG_2006.png"
-                        alt="XXXXXXXX ALT XXXXXXXX"
+                        src="/images/blog/blog0031/IMG_0088.png"
+                        alt="Youth walking in woods with flashlight"
                         width="375"
                         height="500"
                         className="self-center mx-auto"
                     />
                 </div>
-                <p  className="mb-8 text-[#165D8F]">Image: 2006 - Evening full moon in the forest</p>
-
-
+                <p  className="mb-8 text-[#165D8F]">Image: 88 - Youth walking in woods with flashlight</p>
 
                 <p className="mb-8 text-justify">
                     Our guided walk started at the entrance of Gillies Grove old-growth forest, where Brian shared lots of interesting facts about bats while we waited for the sun to set. Dusk is the best time to observe bats, and our forest offers three elements to support a healthy bat population: proximity to the Ottawa River / Kitchi Sibi, the presence of snags in the old growth forest, and the accompanying meadow on the eastern edge of the forest. 
@@ -83,7 +81,7 @@ const BlogPage0031 = () => {
                 <div className="mb-8">
                     <Image
                         src="/images/blog/blog0031/IMG_0082.png"
-                        alt="XXXXXXXX ALT XXXXXXXX"
+                        alt="People arriving and greeting each other in the forest"
                         width="500"
                         height="375"
                         className="self-center mx-auto"
@@ -100,7 +98,7 @@ const BlogPage0031 = () => {
                 <div className="mb-8 text-[#165D8F]">
                     <Image
                         src="/images/blog/blog0031/IMG_0083.png"
-                        alt="XXXXXXXX ALT XXXXXXXX"
+                        alt="People standing around waiting for dark in the forest"
                         width="500"
                         height="96"
                         className="self-center mx-auto"
@@ -113,18 +111,6 @@ const BlogPage0031 = () => {
 
                     It&apos;s getting more and more rare that bats live in snags - remains of trees allowed to decay over time rather than being felled - because there has been such a reduction in available snags that they have learned to roost instead in human-made structures like barns, attics, and bridges. Luckily, the Grove has many snags available to support many forest dwellers. We hope the word gets out so more bat buddies come to stay. 
                 </p>
-
-                <div className="mb-8">
-                    <Image
-                        src="/images/blog/blog0031/IMG_0088.png"
-                        alt="XXXXXXXX ALT XXXXXXXX"
-                        width="375"
-                        height="500"
-                        className="self-center mx-auto"
-                    />
-                </div>
-
-                <p  className="mb-8 text-[#165D8F]">Image: 88 - Youth walking in woods with flashlight</p>
 
                 <p className="mb-8 text-justify">
 
@@ -156,6 +142,19 @@ const BlogPage0031 = () => {
                     Thank you to everyone who attended our event - our highest attended Grove Rove yet! And of course a special and heartfelt thank-you to Brian Hickey, for generously offering his time, wisdom, and love for nature. We feel so lucky to have his support, and the support of the wider community as we strive to share and protect our precious Gillies Grove old-growth forest. 
 
                 </p>
+
+                <div className="mb-8">
+                    <Image
+                        src="/images/blog/blog0031/IMG_2006.png"
+                        alt="XXXXXXXX ALT XXXXXXXX"
+                        width="375"
+                        height="500"
+                        className="self-center mx-auto"
+                    />
+                </div>
+                <p  className="mb-8 text-[#165D8F]">Image: 2006 - Evening full moon in the forest</p>
+
+
 
                 <p className="mb-8 text-justify">
                     We hope to see you at the next Grove Rove happening on Saturday August 22 at our regular time of 10:00 am. 
