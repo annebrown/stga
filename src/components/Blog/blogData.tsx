@@ -1,6 +1,23 @@
 import { Blog } from "@/types/blog";
 
 const blogData: Blog[] = [
+    {
+        id: 31,
+        title: "Grove Rove Review: July 2026",
+        paragraph: "Featuring bat expert Brian Hickey",
+        image: "/images/blog/blog31.png",
+        alt: "Grove Roves Event Poster",
+        width: 500,
+        height: 96,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["REVIEW"],
+        publishDate: "July 30, 2026",
+        blogURL: "/blog/posts/blogPage0031"
+    },
        {
         id: 30,
         title: "Grove Rove - Conducting Natural Heritage Surveys",
@@ -407,7 +424,7 @@ const blogData: Blog[] = [
         paragraph:
           "STGA is not surprised, not deterred",
         image: "/images/blog/blog0008/blog8.webp",
-        alt: "Sundrenched Woodland Path",
+        alt: "Sun-drenched Woodland Path",
         width: 500,
         height: 280,
         author: {
