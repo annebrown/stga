@@ -58,22 +58,12 @@ const BlogPage0031 = () => {
                     />
                 </div>
 
-                <p  className="mb-8 text-[#165D8F]">Main Image: Brian Hickey surrounded by group of people in the forest</p>
-
                 <p className="mb-8 text-justify">
                     This past weekend we had the pleasure of welcoming back Brian Hickey to lead our Grove Rove for July 2026. As a senior research scientist and educator with the River Institute in Cornwall, Brian is a wealth of knowledge and a passionate teacher. We enjoyed learning about, hearing, and seeing several bat species together! 
                 </p>
 
-                            <div className="mb-8">
-                    <Image
-                        src="/images/blog/blog0031/IMG_0088.png"
-                        alt="Child walking in woods with flashlight"
-                        width="375"
-                        height="500"
-                        className="self-center mx-auto"
-                    />
-                </div>
-                <p  className="mb-8 text-[#165D8F]">Image: 88 - Child walking in woods with flashlight</p>
+
+
 
                 <p className="mb-8 text-justify">
                     Our guided walk started at the entrance of Gillies Grove old-growth forest, where Brian shared lots of interesting facts about bats while we waited for the sun to set. Dusk is the best time to observe bats, and our forest offers three elements to support a healthy bat population: proximity to the Ottawa River / Kitchi Sibi, the presence of snags in the old growth forest, and the accompanying meadow on the eastern edge of the forest. 
@@ -88,7 +78,6 @@ const BlogPage0031 = () => {
                     />
                 </div>
 
-                <p  className="mb-8 text-[#165D8F]">Image: 82 - People arriving and greeting each other in the forest</p>
 
                 <p className="mb-8 text-justify">
                     Fresh water is a great hunting ground for bats because many insect species can spend years as larvae in the water, and when they mature and emerge, bats take advantage. 
@@ -105,7 +94,6 @@ const BlogPage0031 = () => {
                     />
                 </div>
 
-                <p  className="mb-8 text-[#165D8F]">Image: 83 - People standing around waiting for dark in the forest?  LOL.</p>
 
                 <p className="mb-8 text-justify">
 
@@ -145,14 +133,13 @@ const BlogPage0031 = () => {
 
                 <div className="mb-8">
                     <Image
-                        src="/images/blog/blog0031/IMG_2006.png"
-                        alt="XXXXXXXX ALT XXXXXXXX"
+                        src="/images/blog/blog0031/IMG_0088.png"
+                        alt="Child walking in woods with flashlight"
                         width="375"
                         height="500"
                         className="self-center mx-auto"
                     />
                 </div>
-                <p  className="mb-8 text-[#165D8F]">Image: 2006 - Evening full moon in the forest</p>
 
 
 
