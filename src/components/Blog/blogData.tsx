@@ -5,7 +5,7 @@ const blogData: Blog[] = [
         id: 32,
         title: "The Grove Report",
         paragraph: "August 2026",
-        image: "/images/blog/blog0032/first-compressed.png",
+        image: "/images/blog/blog0032/first.png",
         alt: "Grove Roves Event Poster - Page 1",
         width: 377,
         height: 500,

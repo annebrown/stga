@@ -49,7 +49,7 @@ const BlogPage0032 = () => {
                 
                 <div className="mb-8">
                     <Image
-                        src="/images/blog/blog0032/first.png"
+                        src="/images/blog/blog0032/first.svg"
                         alt="Grove Roves Event Poster - Page 1"
                         width="755"
                         height="1000"
@@ -60,7 +60,7 @@ const BlogPage0032 = () => {
                
                 <div className="mb-8">
                     <Image
-                        src="/images/blog/blog0032/second-compressed.png"
+                        src="/images/blog/blog0032/second.svg"
                         alt="Grove Roves Event Poster - Page 2"
                         width="755"
                         height="1000"
