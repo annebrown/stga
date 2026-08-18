@@ -1,12 +1,29 @@
 import { Blog } from "@/types/blog";
 
 const blogData: Blog[] = [
+        {
+        id: 32,
+        title: "The Grove Report",
+        paragraph: "August 2026",
+        image: "/images/blog/blog0032/first-compressed.png",
+        alt: "Grove Roves Event Poster - Page 1",
+        width: 377,
+        height: 500,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["NEWSLETTER"],
+        publishDate: "August 18, 2026",
+        blogURL: "/blog/posts/blogPage0032"
+    },
     {
         id: 31,
         title: "Grove Rove Review: July 2026",
         paragraph: "Featuring bat expert Brian Hickey",
         image: "/images/blog/blog31.png",
-        alt: "Grove Roves Event Poster",
+        alt: "Newsletter - 1st page",
         width: 500,
         height: 96,
         author: {
