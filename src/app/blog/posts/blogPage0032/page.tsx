@@ -7,8 +7,8 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "The Grove Report",
-  description: "August 2026",
+  title: "The Grove Report: A Friends of the Grove Newsletter",
+  description: "Issue #12, August 2026",
 };
 
 const BlogPage0032 = () => {
@@ -39,12 +39,12 @@ const BlogPage0032 = () => {
 
           
                 <p className="text-2xl">
-                    <strong>The Grove Report</strong>
+                    <strong>The Grove Report: A Friends of the Grove Newsletter</strong>
                 </p><br></br>
                 <p 
                     className="mb-10 text-base font-bold leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed text-justify"
                 >
-                    August 2026
+                    Issue #12, August 2026
                 </p>
                 
                 <div className="mb-8">
