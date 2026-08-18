@@ -53,10 +53,10 @@ const BlogPage0001 = () => {
                     <div className="relative mb-10 rounded-t-2xl rounded-b-md">
 
                         <Image
-                            src="/images/blog/blog0001/event-pic.svg"
+                            src="/images/blog/blog0001/blog1.webp"
                             alt="Trees viewed through leafy border, with text: We need your help to save the grove again, plus Event as blog post category"
-                            width="1000"
-                            height="750"
+                            width="500"
+                            height="375"
                             className=" aspect-auto max-w-22 h-auto object-cover"
                         />
                     </div>
@@ -67,9 +67,9 @@ const BlogPage0001 = () => {
 
                     <span className="mb-10 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                         <ul>
-                            <li>- 🗞️Subscribe to our <a className="text-[#38AF34]" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a></li>
-                            <li>- 💰Make a <a className="text-[#38AF34]"  href="https://savethegroveagain.com/donations">donation</a></li>
-                            <li>- 🖋️Sign our <a className="text-[#38AF34]"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a></li>
+                            <li>- 🗞️Subscribe to our <a className="text-green-600" href="https://docs.google.com/forms/d/e/1FAIpQLSfBFJHDmUnmpGv1XaSHGaSSPmGizbxrQ-KgeqRRZqdVNZeuHg/viewform">mailing list</a></li>
+                            <li>- 💰Make a <a className="text-green-600"  href="https://savethegroveagain.com/donations">donation</a></li>
+                            <li>- 🖋️Sign our <a className="text-green-600"  href="https://www.change.org/p/save-the-grove-again-7292e6ca-eb8e-426a-8809-0bb608f24120">online petition</a></li>
                             <li>- 🏡Place a lawn sign in your yard.</li>
                             <li>- 👍Wear a button to show your support.</li> 
                         </ul>
@@ -81,7 +81,7 @@ const BlogPage0001 = () => {
                         For more information, to ask a question, request a lawn sign, or obtain a button, please contact one of our dedicated volunteers at: 
                         </p>
                         <p className="text-center pb-10 pt-5 weight-bold text-[#165D8F] text-3xl">
-                            <a href="mailto:savethegroveagain@gmail.com" className="text-[#38AF34]">
+                            <a href="mailto:savethegroveagain@gmail.com" className="text-green-600">
                                 savethegroveagain@gmail.com
                             </a>
                         </p> 
@@ -96,6 +96,10 @@ const BlogPage0001 = () => {
                             <HeartIcon className="size-5 inline text-red-800" />Save the Grove Again Campaign<HeartIcon className="size-5 inline text-red-800" />
                             
                         </p><br></br>
+
+                        <p className="text-center mt-5 pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">
+                            Together we can find a better way!
+                        </p>
                   
                  <div className="container mx-auto w-full">
                   </div>
