@@ -2,6 +2,23 @@ import { Blog } from "@/types/blog";
 
 const blogData: Blog[] = [
         {
+        id: 33,
+        title: "Grove Rove Review: August 2026",
+        paragraph: "Walking Through Arnprior’s Living Landscape with Philip Powell",
+        image: "/images/blog/blog0033/cover.png",
+        alt: "Philip Powell addresses a group of people in front of the Galilee Centre in Gillies Grove, Arnprior, Ontario",
+        width: 500,
+        height: 375,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["REVIEW"],
+        publishDate: "October 20, 2026",
+        blogURL: "/blog/posts/blogPage0033"
+    },
+        {
         id: 32,
         title: "The Grove Report",
         paragraph: "Issue #12, August 2026",
