@@ -89,7 +89,7 @@ const BlogPage0033 = () => {
                 </p>
 
                 <div className="mb-8 mx-auto inline-block w-full">
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
                     <div>
                         <Image
                             src="/images/blog/blog0033/house.png"
