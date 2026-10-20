@@ -6,7 +6,7 @@ let OnlyLatest = () => {
     return (
         <section
             id="blog"
-            className="bg-gray-light py-20 my-5"
+            className="bg-gray-light py-20 mb-5"
         >
             <div className="container w-full mx-auto">
                 <SectionTitle
@@ -20,10 +20,7 @@ let OnlyLatest = () => {
                 <div className="w-full mx-auto">
                     <div 
                         className="grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 md:gap-x-6 lg:gap-x-8 xl:grid-cols-3 place-content-stretch"
-                    >
-
-
-                        
+                    >                
                         {
                         blogData.map((item, index) => {
                             let len=blogData.length;

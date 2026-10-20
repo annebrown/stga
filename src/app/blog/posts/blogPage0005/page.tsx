@@ -54,7 +54,7 @@ const BlogPage0005 = () => {
                         <div className="mb-10 w-full overflow-hidden rounded">
                             <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
                                 <Image
-                                    src="/images/blog/blog0005/blog5.svg"
+                                    src="/images/blog/blog0005/blog5.jpg"
                                     alt="image"
                                     fill
                                     className="object-cover object-center"
@@ -77,9 +77,7 @@ const BlogPage0005 = () => {
                         <p className="mb-8 text-base font-medium leading-relaxed text-black sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                             Let&apos;s keep the heart of Arnprior beating to benefit both current and future generations.
                         </p>
-                        <p className="text-center mt-5 pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">
-                            Together we can find a better way!
-                        </p>
+
                         <div className="rounded-md w-full mb-20">
                             <iframe 
                                 width="560" height="315" 
@@ -92,6 +90,10 @@ const BlogPage0005 = () => {
                         <p><strong>
                             With our deepest appreciation we would like to thank Alberto Suárez-Esteban, Ph.D in Biology with a concentration in Plant Ecology and Conservation, M.Sc in Biodiversity, B.Sc.in Biology, for speaking at the Save the Grove Again launch event on Saturday, September 7, 2024.
                         </strong></p><br></br>
+
+                        <p className="text-center mt-5 pb-10 text-2xl weight-bold pt-4 text-[#165D8F] ">
+                            Together we can find a better way!
+                        </p>
                         </div>
                     </div>
                 </div>

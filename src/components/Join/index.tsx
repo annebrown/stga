@@ -31,7 +31,7 @@ const Join = () => {
                 ">
                     Together we can find a better way!
                 </p>
-                <div className="p-5 mt-10 bg-[#38AF34] rounded-lg hover:bg-sky-200 hover:text-black text-white text-3xl font-extrabold w-fit shadow-md mx-auto">
+                <div className="p-5 mt-10 bg-green-600 rounded-lg hover:bg-sky-200 hover:text-black text-white text-3xl font-extrabold w-fit shadow-md mx-auto">
                     <Link href="/action"  className="h-full">
                         <button  className="h-full">Get Involved!</button>
                     </Link>    
@@ -39,7 +39,7 @@ const Join = () => {
             </div>
           <div className="m-5">
             <Image
-              src="/images/join/vignette-green.svg"
+              src="/images/join/6-green-min.jpg"
               alt="Field"
               loading="eager"
               priority
