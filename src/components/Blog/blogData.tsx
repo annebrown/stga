@@ -2,6 +2,40 @@ import { Blog } from "@/types/blog";
 
 const blogData: Blog[] = [
         {
+        id: 35,
+        title: "The Grove Report",
+        paragraph: "Issue #14, October 2026",
+        image: "/images/blog/blog0035/cover.png",
+        alt: "The Grove Report - Page 1",
+        width: 377,
+        height: 500,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["NEWSLETTER"],
+        publishDate: "October 09, 2026",
+        blogURL: "/blog/posts/blogPage0035"
+        },
+        {
+        id: 34,
+        title: "The Grove Report",
+        paragraph: "Issue #13, September 2026",
+        image: "/images/blog/blog0034/cover.png",
+        alt: "The Grove Report - Page 1",
+        width: 377,
+        height: 500,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["NEWSLETTER"],
+        publishDate: "September 09, 2026",
+        blogURL: "/blog/posts/blogPage0034"
+        },
+        {
         id: 33,
         title: "Grove Rove Review: August 2026",
         paragraph: "Walking Through Arnprior’s Living Landscape with Philip Powell",
