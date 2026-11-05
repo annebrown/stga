@@ -1,6 +1,23 @@
 import { Blog } from "@/types/blog";
 
 const blogData: Blog[] = [
+            {
+        id: 36,
+        title: "Grove Rove Review: October 2026",
+        paragraph: "Discovering little creatures with little humans led by Emma Higgins",
+        image: "/images/blog/blog0036/cover.png",
+        alt: "People listening to a guide in Gillies Grove, Arnprior, Ontario",
+        width: 500,
+        height: 375,
+        author: {
+          name: "",
+          image: "",
+          designation: "",
+        },
+        tags: ["REVIEW"],
+        publishDate: "November 5, 2026",
+        blogURL: "/blog/posts/blogPage0036"
+        },
         {
         id: 35,
         title: "The Grove Report",
